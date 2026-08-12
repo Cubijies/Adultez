@@ -1,0 +1,2329 @@
+
+
+======================================================================
+PÁGINA 1
+======================================================================
+
+Papyrus Turin inv. 1874 verso – the Turin King-
+list or so-called “Royal Canon of Turin” – is the
+only true king-list from ancient Egypt prior to
+the Ptolemaic period. The designation “true
+king-list” is used here in the sense that the com-
+piler of the document aimed at recording all the
+kings of Egypt together with their exact length
+of reign. This marks an important contrast to
+several other known lists of kings from ancient
+Egypt, such as the cultic assemblages of deceased
+kings engraved on the walls of the temples of
+Seti I and Ramesses II at Abydos and in the tomb
+of the priest Tjuloy at Saqqara.2 These lists all
+have in common the fact that they include only
+a limited number of kings that were singled out
+according to some unstated principle and that
+none of them records the reign-length of the
+kings in question. The Turin King-list is, in other
+words, a unique document.
+§1. Discovery and context
+The papyrus was acquired around 1820 by
+Bernardino Drovetti, an Italian diplomat and
+antiquities collector. Conflicting stories about
+how and when the papyrus came into the posses-
+sion of Drovetti have been published. According
+to Maspero:
+”[le papyrus] fut achetée à Thèbes preque
+intacte par Drovetti vers 1818, et mutilée involon-
+tairement par lui pendant le transport. Les restes
+en furent acquis avec la collection par le gou-
+vernement piémontais, en 1820, et déposés au
+Musée de Turin, où Champollion les vit et les sig-
+nala dès 1824.”3
+Winlock, on the other hand, gives a different
+and rather more dramatic account:
+“When the papyrus was found by Drovetti,
+either in 1823 or in 1824, it was apparently com-
+plete, and he put it into a jar which he tied about
+his waist, mounted his donkey, and proceeded to
+ride into town. The joggling which the jar got
+along the path was disastrous. When Drovetti
+opened it the extraordinary document had been
+reduced to mere scraps which have been
+arranged and rearranged during the past hun-
+dred years, but so much had disappeared in dust
+on that ride on donkey-back that only the barest
+outline of the original document remains today.”4
+While Maspero’s version seems the more sober
+of the two, it is clear that the exact circumstances
+of the discovery are irretrievably lost and hence
+also the archaeological context.
+If we venture into speculation about the ori-
+gin of the papyrus, the possibility that it might
+have been found in a tomb might be considered
+likely. There is evidence that officials sometimes
+included among their burial equipment testimo-
+ny of their scribal expertise, sometimes in the
+form of tablets with exercises and sometimes in
+the form of material that related directly to their
+professional duties.5 Whether the papyrus would
+have been kept specifically because of the king-
+list or the tax register is difficult to say. At the
+1 My work on the Turin King-list is the result of several
+detailed examinations of the original over the years, and I
+would like to express my gratitude towards Prof. A.M. Don-
+adoni Roveri for kindly providing the necessary authoriza-
+tion. It is intended that the results will be published in the
+form of a new edition of the king-list in the Catalogo del
+Museo Egizio di Torino. The work is still in progress as the
+potential for making joins on the basis of the fibres is far
+from exhausted. The potential for such joins is amply illus-
+trated by Prof. Osing’s careful assembly of large sections of
+the Tebtunis Onomasticon, which consists of about 750
+fragments (OSING, Hieratische Papyri aus Tebtunis I, 25–218),
+and much more modestly by my own work on P. Petese
+Tebt. A, where about 70 of 85 fragments could be fitted
+together (RYHOLT, Story of Petese). I would further like to
+thank Cary Martin for correcting my English.
+2 For the cultic lists of kings at Abydos and Saqqara, see
+REDFORD, Pharaonic King-lists, 18–24.
+3 MASPERO, Histoire ancienne, I, 225, n. 5.
+4 WINLOCK, Rise and Fall, 4.
+5 Two well-known examples concerning papyri are the
+two documents designated P. Bulaq 18, which were
+found in a tomb at Dra Abu el-Naga, and the P. Reisner
+I–IV, which were found in a tomb at Naga ed-Der; cf.
+SIMPSON, Papyrus Reisner I, 17, and QUIRKE, Administra-
+tion of Egypt, 10–12.
+THE TURIN KING-LIST1
+By Kim Ryholt
+
+======================================================================
+PÁGINA 2
+======================================================================
+
+6 Cf. RYHOLT, Political Situation, 9–10. Another example
+of a papyrus where the owner cut away a blank piece at
+one end is the literary composition known as the Tale
+of Woe, cf. CAMINOS, Tale of Woe, 11. There it was done
+in a manner that did not impair the text.
+7 FARINA, Il papiro dei re, 7, refers to the account of the
+destruction of the papyrus as a legend but does not
+elaborate on the reasons for his scepticism. From its
+present state of preservation there can, in my experi-
+ence, be little doubt that the papyrus was found intact
+and only subsequently damaged. It bears none of the
+hallmarks of naturally damaged papyrus such as insect
+holes, rubbed surfaces, distorted fibers and fractures
+along creases.
+8 Cf. WIEDEMANN, Ägyptische Geschichte, 73, with references.
+9 According to FARINA, Il papiro dei re, 11.
+10 The existence of the unpublished fragments was kind-
+ly pointed out to me by R. Demarée several years ago,
+and in November 2000 the museum allowed me to
+remove them from their folders and place them under
+glass. Among the fragments are parts of royal names of
+both historical rulers and gods, figures relating to
+reigns of kings, and – perhaps most importantly – parts
+of headings and summations.
+11 The new arrangement of the section that covers the
+Second Intermediate Period (columns 7–11) is pub-
+lished in RYHOLT, Political Situation, 69–75, 94–97,
+118–119, 151–159, 163–165.
+Kim Ryholt
+136
+time when the papyrus was deposited, both texts
+would have been discarded from use. The tax
+register must have been obsolete already when
+the king-list was drawn up on its blank reverse.
+At some subsequent date a piece of the papyrus
+that had remained blank on the side of the tax
+register was cut away to be re-used for some
+other purpose,6 and as a result the last one or
+two columns of the king-list, which were
+inscribed on the other side, were lost already in
+antiquity. Nevertheless, the fact that the king-list
+was the later text might favor it being the focus
+of the papyrus. Possibly it was kept as the
+memento of an assignment and, even if the
+owner felt it necessary at one point to sacrifice a
+piece of the papyrus, it may still have retained its
+symbolic value. Since the context of the papyrus
+might thus have provided us with the identity of
+a person who at some point was involved with
+the king-list tradition, its loss is all the more
+regrettable.
+§2. State of preservation
+Apart from the piece that had been cut away in
+antiquity, the papyrus was presumably intact upon
+its discovery and only subsequently fell to pieces
+owing to the rough handling.7 It now consists of
+more than 300 fragments.
+The state of the papyrus has deteriorated fur-
+ther since it was first seen and described by Cham-
+pollion in 1824. In an attempt to preserve the
+papyrus it was pasted onto papier végétal by Seyf-
+farth in 1826.8 This was removed again more than
+a century later, in 1930, by Hugo Ibscher,9 but the
+papyrus suffered evident damage during this
+process. A comparison between the early facsimi-
+les of the text and the photographs published by
+Farina shows that numerous fragments were dam-
+aged along the edges and that many signs were
+lost in the process.
+Through the efforts of several scholars over
+the last 150 years, it has been possible to join
+together most of the larger fragments. There are,
+however, still a number of important fragments
+whose exact position has not been established,
+and numerous smaller fragments, mostly rather
+tiny, have never been published at all.10 Much
+meticulous work remains to be done, especially
+since any attempt at a complete reconstruction
+must take into account not just the text of the
+king-list, but also that of the tax register on the
+reverse and, above all, the papyrus fibers.
+The following description of the papyrus
+refers to the new reconstruction that is still in
+progress.11 This approach has been considered
+more useful than reference to the earlier and less
+reliable arrangements that will be superseded
+when the new reconstruction is published. A con-
+cordance between Gardiner”s edition and the
+new reconstruction is provided in Table 1.
+Column 1
+Gardiner col. I
+Column 2
+Includes Frg. 41–42 (Gardiner col. IX), Frg.
+150–152, and Frg. 22+? (Gardiner col. X)
+Column 3
+Gardiner col. II
+Column 4
+Gardiner col. III
+Column 5
+Gardiner col. IV
+Column 6
+Gardiner col. V
+Column 7
+Gardiner col. VI
+Column 8
+Gardiner col. VII
+Column 9
+Gardiner col. VIII
+Column 10 Includes Frg. 105+108 (Gardiner col. IX),
+Frg. 138 (Gardiner col. X) and unnum-
+bered fragments (Gardiner col. X.13–21)
+Column 11 Gardiner col. XI
+Table 1  Concordance between Gardiner’s edition and
+the new reconstruction
+
+======================================================================
+PÁGINA 3
+======================================================================
+
+The Turin King-List
+§3. State of publication
+The king-list was first studied by Champollion in
+1824, shortly after its discovery, and his results
+were published that same year.12 Several facsimi-
+les and shorter studies were subsequently pub-
+lished, but despite the obvious importance of
+the document more than a century was to elapse
+until a full edition was finally published in 1938.
+This was produced by Farina and published
+under the title Il papiro dei re with the perhaps
+somewhat premature subtitle restaurato.13 Like
+the facsimiles published earlier, it included only
+the larger fragments. These were presented in
+transcription and translation with some com-
+mentary and a set of photographs. The tax reg-
+ister on the reverse was included in the photo-
+graphs but not otherwise treated.
+A new edition of the document, the only one
+that has appeared since Farina’s, was published
+by Gardiner in 1959.14 This edition was more
+limited in its aim than its predecessor insofar as
+Gardiner was only concerned with the transcrip-
+tion of the document. Virtually all fragments
+that had hitherto been published were success-
+fully transcribed, and only minor improvements
+have since been possible. Besides the advance in
+the transcription of the king-list, this edition
+included for the first time a transcription of the
+tax register. The edition includes no translation
+or commentaries, apart from brief notes relating
+to the transcription. The position of a few frag-
+ments was altered, but many where left they had
+been placed in the earlier edition although Gar-
+diner felt skeptical about their arrangement.
+The main factor that has prevented a more
+thorough reconstruction of the document is the
+lack of good reproductions. Facsimiles were pub-
+lished by Lepsius in 1842 and Wilkinson in 1851,
+but these cannot be used for collating purposes
+and matching of the fibers.15 They are, however,
+indispensable since they depict the fragments in a
+better state of preservation. The only complete
+set of photographs is found in Farina’s edition
+which include both sides of the document.16
+Those of the king-list can be used to some extent,
+but they are too reduced and coarse to check
+traces, and fibers cannot be made out at all.
+Those of the tax register are so reduced that they
+are rendered practically useless for any purpose.
+GARDINER’s edition was published without photo-
+graphic plates, nor did he have any large-scale
+photographs available for his studies.17
+It is perhaps on account of its inadequate state
+of publication that only two studies on the nature
+of the king-list have been published. The first was
+by Redford in his study of king-lists, annals and day-
+books from 1986,18 and the other was by myself in
+1997 in relation to my work on the Second Inter-
+mediate Period.19 Studies of the chronological
+implications of the document and new contribu-
+tions towards its reconstruction have been more
+numerous. The most significant advances in the
+reconstruction concern the Late Old Kingdom,
+First Intermediate Period and the Second Inter-
+mediate Period, the latter of which occupies more
+than half of the section on historical kings.20
+§4. Purpose
+The purpose of the king-list was evidently to be an
+137
+12 For the history of the document, see MEYER, Aegyptische
+Chronologie, 105–111; FARINA, Il papiro dei re, 7–11; ROC-
+CATI, LÄ VI, 809.
+13 FARINA, Il papiro dei re.
+14 GARDINER, Royal Canon of Turin. The texts of the king-
+list and tax register are reproduced with only minor
+changes in KITCHEN, Ramesside Inscriptions, II, 815–844.
+15 LEPSIUS, Auswahl der wichtigsten Urkunden, pls. 3–6;
+WILKINSON, Fragments of the Hieratic Papyrus at Turin.
+16 In addition to these, a few publications include reduced
+photographs of isolated sections of the king-list. Pho-
+tographs of column 5 may, for instance, be found in
+BORCHARDT, Die Annalen und die zeitliche Festlegung, pls.
+4–6, and SCAMUZZI, Museo Egizio di Torino, pl. 66, and pho-
+tographs of columns IX–X of FARINA and GARDINER’s edi-
+tion in SCHNEIDER, Ausländer in Ägypten, pl. 1–3.
+17 Cf. GARDINER, Royal Canon of Turin, 11.
+18 REDFORD, Pharaonic King-lists, 1–18.
+19 RYHOLT, Political Situation, 9–33.
+20 Late Old Kingdom: RYHOLT, ZÄS 127 (2000), 87–100.
+First Intermediate Period: VON BECKERATH, ZÄS 93
+(1966), 18–19. Second Intermediate Period: RYHOLT,
+Political Situation, 69–75, 94–97, 118–119, 151–159,
+163–165. In relation to the latter study, Frg. 134 should
+perhaps rather be placed at the bottom of col. 8 than
+col. 10 as I originally suggested, cf. ALLEN, BASOR 315
+(1999), 49–50. Two very minor fragments which were
+already put in place by Ibscher, but which are over-
+looked by GARDINER, are discussed by VON BECKERATH,
+GM 168 (1999), 19–21.
+HELCK, SAK 19 (1992), 150–216, proposes a series of
+new arrangements, but unfortunately none of them is
+based on a consultation of the original. I have not been
+able to verify any of these arrangements, whereas sev-
+eral of them can be rejected definitely, cf. RYHOLT, Polit-
+ical Situation, 21.
+SCHNEIDER, Ausländer in Ägypten, 99–122, has recently
+devoted a long discussion to the kings recorded in
+
+======================================================================
+PÁGINA 4
+======================================================================
+
+columns IX and X of Farina and Gardiner’s editions.
+Adopting a suggestion put forward by REDFORD,
+Pharaonic King-lists, 199–200, he argues, through an
+ingenious chain of proposed misinterpretations and
+interpretatio aegyptiaca of foreign words, that the names
+preserved in Frg. 41–42 and 151–152 represent a series
+of otherwise unattested “Vorgängern oder Zeitge-
+nossen der ‘großen Hyksos’ aus dem palästinisch-
+syrischen Raum” (p. 121). The interpretation founders
+on the fact that the fragments in question in fact
+belong to column 2 and record mythological gods,
+including ordinary gods such as Seth and Horus (Frg.
+150). It would also have been surprising that a series of
+foreign kings ruling outside Egypt should have been
+included in an Egyptian king-list in the first place,
+embellished with the Egyptian royal title, cartouche
+and divine-determinative, especially since we see that
+the Hyksos themselves were denied this privilege in the
+very same list.
+21 For these lists of kings, see REDFORD, Pharaonic King-
+lists, 18–64.
+22 For Manetho’s king-list, see conveniently WADDEL,
+Manetho, and, in more detail, JACOBY, Die Fragmente der
+Griechischen Historiker, III, C, no. 609.
+23 Translations of the tax register can be found in HELCK,
+SAK 19 (1992), 194–205, and WARBURTON, State and
+Economy in Ancient Egypt, 159–164.
+24 „ERNÝ, Paper & Books in Ancient Egypt, 16–17; PARKINSON
+and QUIRKE, Papyrus, 16–17.
+Kim Ryholt
+138
+objective and complete record of every single
+Egyptian king with his exact position in time since
+the Creation. Ideally the document could be used
+to place the reign of any king precisely and to cal-
+culate the time-span from any other king or event.
+This may even have been the raison d'être for the
+document: to satisfy Ramesses II or one of his suc-
+cessors of their great and unrivaled heritage.
+The document has often been referred to as a
+canon, but this designation is misleading. It
+implies that the list was official, that the kings
+might have been selected according to further
+principles besides the fact that they were kings, or
+that there may have been conflicting material
+available that was not included. The list was not
+official in the sense that it would have been pub-
+licly celebrated. On the contrary, it included
+numerous kings who had fallen into disrepute
+and who were officially suppressed. The kings
+were evidently included on no other principle
+than that they had ruled formally as kings in
+Egypt. No regard was made to ethnicity, gender,
+reputation, length of reign or any other second-
+ary criteria, and not a single king can be shown to
+have been intentionally omitted.
+Several other lists of kings are known, drawn
+up for various purposes, but none aims at being
+objective and none records the reign-lengths of
+the kings in question. They have in common that
+they are all lists of kings who had been singled
+out for some specific purpose and that this pur-
+pose was not primarily one of chronological con-
+cern.21 The Turin King-list is therefore unique for
+the Pharaonic period. In spite of this, it seems
+clear that the tradition of objective and compre-
+hensive king-lists was continued for at least
+another millennium. Manetho’s Aigyptiaka from
+the early 3rd century displays remarkable similar-
+ities to the Turin King-list.22 It has – at least in its
+extant form – precisely the same structure: kings
+recorded by name and length of reign, arranged
+in groups which are listed in one, long sequence.
+To some extent it may therefore be regarded a
+matter of coincidence that not more than one
+such list has come down to us prior to the Ptole-
+maic period.
+§5. Description
+The king-list is written in the hieratic script on
+the reverse of a discarded tax register dating to
+the reign of Ramesses II, i.e. the 13th century
+BC.23 When the king-list itself was written
+remains uncertain; possibly during the same
+reign, but it could have been during one of the
+succeeding reigns.
+The papyrus measures 42 cm. in height which
+corresponds to the full-size format attested dur-
+ing the Ramesside Period.24 The use of the full-
+size format is exceptional; most papyri were actu-
+ally cut in half before use. The quality of the
+papyrus is second grade in so far as it had been
+damaged before it was ever used; somehow its
+upper half had been perforated with a sharp
+object while it was rolled up. As a result there was
+a series of holes at an interval of about every
+16 cm towards the upper edge of the papyrus.
+These were mended with patches cut from anoth-
+er discarded papyrus where the original text had
+been washed off, i.e. a palimpsest.
+The king-list consists today of 11 columns and
+measures about 1¾ m. in length. Originally it
+would have contained one or two further
+columns, but its final part was lost when a piece of
+papyrus was cut away in antiquity (§1).
+
+======================================================================
+PÁGINA 5
+======================================================================
+
+Table 2
+The Turin King-List
+§6. Overall arrangement
+The king-list may be assumed originally to have
+been introduced by some form of heading, per-
+haps stating the nature of its contents, but it has so
+far not been possible to identify any trace of this.
+The list itself consists of three main parts: god
+and demigod kings, spirit kings (Ax.w), and his-
+torical or human kings.25 The first covers most of
+two columns, the second about half a column,
+while the third covers the remainder of the extant
+part of the document, at least 8 ½ columns. In its
+present condition, the king-list ends towards the
+end of the Second Intermediate Period
+(c. 1800–1650)(Table 2).
+§7. The mythological kings
+The mythological kings consists of gods,
+demigods, and spirits. Unfortunately not a single
+heading from this section is preserved.
+A noteworthy detail about the mythological
+section is the fact that some gods are recorded
+twice. This indicates that the document included
+two versions of a certain segment of the mytho-
+logical kings. The gods in question are Horus,
+Seth and Thoth, who are recorded in both
+columns 1 and 2. Their order is slightly different
+in the two columns, and it is possible that they
+may have been recorded twice precisely because
+of this discrepancy.
+Column 1 (Frg. 11)
+Column 2 (Frg. 150)
+9 Seth
+9 Seth
+9 Horus
+9 The Doctor (i.e. Thoth)
+9 Thoth
+9 Horus
+Somewhere below Frg. 150 belongs Frg. 152.26
+The nature of the names recorded in this frag-
+ment suggests that it marks the transition from
+gods to demigods.27 The first name is “[...] does
+not thirst” (n ib [...]).28 This is followed by an illeg-
+ible name, and the names “clod of the shore”
+(pns.t n spt),29 “possessor of noble women” (Xr-
+Hm.wt-Sps.w[t]) and “protector of [noble?]
+women” (xw-Hm.wt-[Sps.wt?]). None of these
+names is otherwise known, but this need cause no
+surprise since they may well be names of a purely
+aetiological nature made up in connection with
+an account of mythological kingship. The first
+name could be brought into relation with the pri-
+maeval ocean, the time before land existed and
+water was everywhere. The name “clod of the
+shore” can hardly be other than a reference to
+the creation of life out of lifeless matter, earth.
+The two latter names could, perhaps, relate to the
+creation of women.
+Further below, in the now lost part of col-
+umn 2, there was a further transition from
+demigods to spirits, which continues in the first
+nine lines of column 3. The spirits have generally
+been interpreted as prehistoric kings, but it
+remains unclear how much historical importance
+should be attached to the information the king-
+list has to offer.30
+§8. The historical kings
+The division of the historical kings is much clear-
+er. Those listed in the extant part of the papyrus
+are divided into ten groups, which are arranged
+as follows in Table 3:
+(1)
+Heading for 1st–10th Dynasty
+3.10
+1st–5th Dynasty
+3.11–4.25
+• Summation for 1st–5th Dynasty
+4.26
+(2)
+6th–8th Dynasty
+5.1–13
+• Summation for 6th–8th Dynasty
+5.14–15
+• Summation for 1st–8th Dynasty
+5.15–17
+(3)
+9th–10th Dynasty
+5.18–6.9
+• Summation for 9th–10th Dynasty 6.10
+139
+25 The terminology is borrowed from Manetho, cf. WAD-
+DELL, Manetho, 2–19.
+26 The vertical arrangement of these fragments is assured
+by the fibers.
+27 Once again using the terminology of Manetho (‘6).
+28 Or: “[...] never thirsts”.
+29 So convincingly interpreted by VON BECKERATH, Hand-
+buch der ägyptischen Königsnamen, 77, n. 6: “Erdklumpen
+des Ufers”.
+30 KAISER, ZÄS 86 (1961), 57–61; HELCK, Untersuchungen
+zur Thinitenzeit, 84–87; KAISER, MDAIK 46 (1990),
+292–293, and VON DER WAY, Untersuchungen zur Spätvor-
+und Frühgeschichte Unterägyptens, 108–110.
+(1) Gods and demigods
+c. 1½ columns
+Columns 1–2 (bottom)
+(2) Spirits
+c. ½ column
+Columns 2 (bottom) –3 (top half)
+(3) Historical kings
+8½ columns
+Columns 3 (bottom half) –11
+
+======================================================================
+PÁGINA 6
+======================================================================
+
+31 Ditto marks are first attested in papyri of the early 12th
+Dynasty and are used until the Roman period, cf. SIMP-
+SON, Papyrus Reisner I, 24; OSING, Hieratische Papyri aus
+Tebtunis I, 35.
+Kim Ryholt
+140
+(4)
+Heading for 11th Dynasty
+6.11
+11th Dynasty
+6.12–17
+• Summation for 11th Dynasty
+6.18
+(5)
+Heading for 12th Dynasty
+6.19
+12th Dynasty
+6.20–7.2
+• Summation for 12th Dynasty
+7.3
+(6)
+Heading for 13th –14th Dynasty
+7.4
+13th Dynasty
+7.5–8.27
+[• Summation for 13th Dynasty
+8.28 ?]
+(7)
+14th Dynasty
+9.1–c. 10.20
+• Summation for 14th Dynasty
+c. 10.21
+(8)
+[Heading for 15th Dynasty
+c. 10.22]
+15th Dynasty
+c. 10.23–28]
+• Summation for 15th Dynasty
+c. 10.29
+(9)
+[Heading for 16th Dynasty
+c. 10.30]
+16th Dynasty
+[c. 10.31] + 11.1–14
+• Summation for 16th Dynasty
+11.15
+(10) Unidentified dynasty
+11.16–11.31 (end
+of papyrus)
+Table 3  Arrangement of the Historical Kings
+It is uncertain how many more kings were origi-
+nally listed. At most the list would have recorded
+all kings up to and including the reign during
+which it was copied. Hence the piece of papyrus
+that was cut away in antiquity could have included
+the 17th, 18th and part of the 19th Dynasty.
+§9. Formula for god kings, demigod kings 
+and historical kings
+God kings, demigod kings and historical kings are
+recorded in a similar manner. The formula for
+the individual entries reads:
+“Dual King Name(s). He acted in kingship x
+years, x months and x days.”
+(nsw.t-bi.ty NN ir.n=f m nsw.yt rnp.t x Abd x hrw x)
+The kingship formula ir.n=f m nsw.yt ..., it may be
+noted, was not written out in full after each king,
+but mostly marked simply with ditto signs (§11).
+In the section covering the Archaic Period,
+where the king’s age at death is included after the
+length of his reign, the following words are added:
+“His lifetime, x years.”
+(aHa=f m anx rnp.t x)
+§10. Formulae for spirit kings
+In contrast to the god kings and historical kings
+who are individually recorded, the spirits are listed
+only in the form of group summations. None of
+these is preserved intact, and there are clearly
+variations in the formula. Some reconstructed
+examples are:
+“x spirits of such-and-such; their years, x, and their
+life-time, x” (3.1)
+“x spirits of such-and-such; their kingship, their
+years and their life-time, x” (3.4)
+“x spirits of such-and-such; they performed their
+kingship, x years, x months and x days” (3.2)
+§11. Ditto marks
+Returning to the god kings and historical kings,
+the scribes did not bother to write out the kingship
+formula in full after each royal name – obviously
+because there were more than 300 kings. In the
+original, from which the Turin version was copied,
+the kingship formula was only written out in full
+for the first king after a heading and at the top of
+each new column; below those entries ditto marks
+were used instead.31 The parts of the formula that
+were replaced by ditto marks are “He acted in king-
+ship” and the words for “months” and “days”. The
+royal title was naturally never replaced by ditto
+marks, nor was the word for “year”.
+The scribe who drew up the Turin version evi-
+dently did not pay particular attention to the
+nature of his original, and he simply made a slav-
+ish copy. Since his papyrus had a larger format
+than his source, the kingship formula was out of
+sync with the top of the columns where it belongs.
+Accordingly, ditto marks are often found at the
+top of the columns, where they obviously do not
+belong, and the kingship formula occurs at irreg-
+ular positions within the columns. This arrange-
+ment is somewhat clumsy aesthetically, but it is
+significant since it allows us to reconstruct the lay-
+out of the original from which the Turin version
+was copied (§24).
+§12. Rubra
+Red ink was used to highlight certain words. The
+main purpose was to aid the reader in finding his
+way around the list with its more than 300 kings.
+Red ink was therefore used for headings and sum-
+mations, where it is always just the initial word
+that was written in red. The initial word is only
+preserved in two headings and, not surprisingly, it
+
+======================================================================
+PÁGINA 7
+======================================================================
+
+The Turin King-List
+is both times the plural “kings”, followed by some
+qualification of the kings in question (6.11, 7.4).
+In the summations, the initial word is invariably
+“total”, here followed by the relevant figures and
+comments (4.26, 5.15, 17, 6.10, 7.3, and Frg.
+44.1). On a single occasion, red is also used to
+highlight an entry that apparently was considered
+especially important, i.e. that of Djoser (§21).
+Red ink was also used to highlight a series of
+notations of a different nature. The source from
+which the Turin King-list was copied was a dam-
+aged manuscript,32 and the lacunae that had aris-
+en were duly marked by the abbreviated group 
+which may be translated with “lost” or “lacuna”
+(§26). The scribe responsible for these notations
+realized the importance of warning future users
+of the defects in the list, and hence the notations
+were highlighted with the use of red ink when
+used to mark the actual location of the lacunae
+(7.6, 9.12, 14; the scribe has accidentally written
+the notation in black on a single occasion, 11.833).
+In the summations, however, the word “lacuna”
+was written in black ink (5.15, 16, 6.18) since in
+this context it does not directly indicate a defect,
+but merely refers to a lacuna that has already
+been marked in the preceding text.
+§13. Headings and Summations
+The arrangement of the historical kings and the
+occurrence of headings and summations are
+shown in Table 3. It may be noted that while each
+group ends with a summation, it is not every
+group that is also preceded by a heading. Thus it
+seems that all the historical kings prior to the 11th
+Dynasty are recorded under one single heading,
+although they ruled an entire millennium accord-
+ing to the figures provided by the king-list itself
+and are arranged into shorter groups through
+summations. It is perhaps especially surprising
+that the Heracleopolitan kings of the First Inter-
+mediate Period (7th–8th Dynasties) do not have a
+separate heading.
+Other king-lists must have provided a more
+subtle arrangement of the same kings since we see
+in Manetho that the 1st and 2nd Dynasties are said
+to have ruled from This, the 3rd to 8th Dynasties
+from Memphis, and the 9th and 10th from Hera-
+cleopolis.34
+Similarly, the heading that follows the 12th
+Dynasty would seem to have designated not only
+the 13th but also the contemporary 14th Dynasty.
+None of all the headings and summations is
+preserved intact. Translations and restorations of
+the better-preserved ones are offered below.35
+Heading for the 1st–10th Dynasties (3.10)
+“[Kings of the house of (?)] king Menes.”
+Summation for the 1st–5th Dynasties (4.26)
+“Total of kings from Menes until [Unas: x amounting to
+767 (or 768) years.]”36
+Summation for the 6th–8th Dynasties (5.14–15)
+“[Total of] kings [until Neferirkare: x] amounting to 181
+years, 6 months, 3 days, and a lacuna of 6 (years). Total:
+1[87 years, 6 months, and 3 days].”
+Summation for the 1st–8th Dynasties (5.15–17)
+“[Total of] kings37 [from] Menes; their kingship, their
+years, and a lacuna [thereto]: 9[4]9 years and 15 days, and
+a lacuna of 6 years. Total: [x kings amounting to] 955
+years and 1[5] days.”
+Summation for the 9th–10th Dynasties (6.10)
+“Total: 18 kings ...” – rest lost
+Heading for the 11th Dynasty (6.11)
+“Kings of ...” – rest lost
+Summation for the 11th Dynasty (6.18)
+“[Total:] 6 kings who ruled 1[36 years] and a lacuna of 7
+(years). Total 143 years.”
+Heading for the 12th Dynasty (6.19)
+“[Kings of] the residence IT-tAwy.”
+Summation for the 12th Dynasty (7.3)
+“Total of kings of the residence [IT-tAwy]: 8 who ruled 213
+years, 1 month and 17 days.”
+141
+32 Whether this was the immediate source (Vorlage) or a
+more remote one is difficult to determine.
+33 It is not at all unusual that scribes accidentally wrote out
+words or passages that were supposed to be highlighted
+in black. Sometimes such words and passages were cor-
+rected by rewriting them in red ink over the black.
+34 The 5th Dynasty is, for obscure reasons, said to have
+ruled from Elephantine.
+35 REDFORD, Pharaonic King-lists, 11–13, and HELCK, SAK
+19 (1992), 151–216, offer different restorations and
+translations. On the restoration of the summations
+for the 6th–8th and 1st–8th Dynasties, see BARTA, MDAIK
+35 (1979), 13–14, and RYHOLT, ZÄS 127 (2000), 91,
+94–96. I was unfortunately not aware of BARTA’s
+restoration when I published mine, and I am pleased
+to discover that our results, which are both modifica-
+tions of FARINA’s restoration, are virtually identical.
+Also REDFORD and HELCK seem to have been aware of
+BARTA’s study.
+36 There is not enough space for this summation to have
+included years, months and days. It is even possible
+that the years might have been excluded and simply
+the number of kings recorded. The number of years is
+based on the summations for the 6th–8th Dynasties and
+1st–8th Dynasties.
+37 The text reads “kingship”, but this is clearly an error.
+
+======================================================================
+PÁGINA 8
+======================================================================
+
+38 The sign after the preposition [Hr]-sA, of which only two
+traces remain, has so far defied interpretation. A possible
+reading is 
+, in which case the noun would be Xrd.w,
+“children”.
+39 It has been suggested that the original of the king-list
+might have included information on coregencies and
+perhaps even the exact calendar dates of accession and
+death, cf. e.g. EATON-KRAUSS, JSSEA 12 (1982), 18;
+FRANKE, Orientalia 57 (1988), 126–127. It seems incon-
+ceivable that such information would not have been
+recorded in the annals, but whether it was also present
+in king-lists in general and in the original of the Turin
+King-list in particular remains a moot point.
+40 BLUMENTHAL, ZÄS
+110 (1983), 104–121; JANSEN-
+WINKELN, SAK 18 (1991), 241–264; IDEM, SAK 24
+(1997), 115–135. 
+41
+VON BECKERATH, SAK 4 (1976), 45–57, argued that the
+Turin King-list subtracted the period of coregency
+from the total duration of the individual reigns, but he
+has recently changed this view in JEA 81 (1995), 227.
+42 A new arrangement of fragments indicates that
+Nitocris, who has hitherto been consider a woman on
+the basis of later tradition, may in fact have been a
+man; see RYHOLT, ZÄS 127 (2000), 92–93, 99–100.
+Kim Ryholt
+142
+Heading for the 13th–14th Dynasty (7.4)
+“Kings [who were] after the children (?)[of Dual] King
+[Sehet]epibre.”38
+Summation for the 15th Dynasty (c. 10.29)
+“[Total:] 6 [Hyk]sos. They ruled 1[0]8 [years].”
+Summation for the 16th Dynasty (11.15)
+“[Total:] <1> 5 kings ...” – rest lost
+§14. Details provided about the historical kings
+The details provided about the individual kings
+can be assigned to seven categories:
+(1) Dynastic relation (in one case defined
+according to royal residence)
+(2) Title and other attributes of kingship
+(3) Identity
+(4) Patronym
+(5) Length of reign
+(6) Age at death
+(7) Remarks and emphasis
+Besides the dynastic relation, which follows
+implicitly from the grouping of the individual
+kings, the only details consistently recorded for
+all kings are their title, identity and length of
+reign. Significant details such as overlapping
+dynasties and coregencies are unfortunately not
+provided, nor are details about origin or gender.
+The kings are first and foremost divided into
+groups which are arranged in some form of
+chronological order. When two groups overlap,
+because they ruled concurrently in different parts
+of the country, one is simply placed after the
+other. Thus, for instance, the last kings recorded
+under the Heracleopolitan rulers of the First
+Intermediate Period (–6.9) would actually have
+ruled subsequent to the first kings recorded
+under the Theban rulers of the same period
+(6.12–), although these are listed in direct con-
+tinuation of the former.
+Similarly, the list does mark coregencies.
+These are typically cases where a king took a core-
+gent in order to secure succession for one reason
+or another, and where the reigns of the two kings
+hence overlap for a number of years.39 The extent
+to which coregencies were used in ancient Egypt
+is still debated, but in the case of the 12th Dynasty
+there is sufficient evidence to show that several of
+the kings took coregents.40 Some of these core-
+gencies lasted several years, but the scribe who
+was responsible for the summations for the indi-
+vidual groups of kings in the king-list does not
+seem to have been aware of this fact. Evidently he
+simply added together the full length of each
+individual reign in order to calculate the length
+of the dynasties.41 Since the overlapping reigns in
+the case of the 12th Dynasty probably account for
+as much as 20–25 years, the error involved in the
+summation of this dynasty was not insignificant.
+Finally there are no remarks about origin and
+gender. It seems to have been taken for granted
+that all the kings would have been male Egyp-
+tians. The cities the kings came from were appar-
+ently of little significance. The 15th Dynasty, the
+Hyksos, form an exception since they are marked
+as foreign by the title HqA-xAswt and by the use of
+the throwstick determinative after their names
+(§16). Curiously, however, the foreign extraction
+of the preceding 14th Dynasty seems to have been
+forgotten; it is, at any rate, not marked in any way.
+At least one female ruler was also included in the
+king-list, viz. Nofrusobk (7.2).42 Again her gender
+is not marked, but it is possible that this circum-
+stance was simply forgotten rather than deliber-
+ately suppressed or ignored. There is unequivocal
+evidence that information about gender must
+have been present in other parts of the Egyptian
+king-list tradition, since Manetho explicitly refers
+to several ancient rulers as female.
+
+======================================================================
+PÁGINA 9
+======================================================================
+
+The Turin King-List
+§15. Dynastic relation
+The dynastic relation of the individual kings is
+shown by their position within the groups in
+which they are arranged. Only the designations of
+two of these groups are sufficiently preserved to
+be restored with some degree of confidence. The
+12th Dynasty was recorded as “[Kings of] the resi-
+dence It-tAwy”, and their successors apparently as
+“Kings [who were] after the children [of Dual]
+King [Sehet]epibre” (§13). Here we see that the
+first group is defined according to its royal resi-
+dence, while the second is simply defined as its
+successor. There is no indication that any of the
+other groups were defined according to royal res-
+idence, though this might conceivably have been
+the case with the 11th Dynasty.
+§16. Royal title and other attributes of kingship
+With regard to the royal title and other attrib-
+utes of kingship, the kings are recorded in a vir-
+tually identical manner. The only notable excep-
+tion is the 15th Dynasty, which is discussed below
+and to which the following description does not
+apply.
+All the royal names are preceded by the royal
+title which is used most frequently in contempo-
+rary texts, nsw.t-bi.ty. The title is conventionally
+translated “King of Upper and Lower Egypt”. A
+more accurate translation is “Dual King”, which
+has now been adopted by some scholars, since the
+title actually consists of two individual titles of
+kingship which do not literally refer to specific
+parts of Egypt.
+As a rule the names of the kings are enclosed
+within the royal cartouche. An exception is
+formed by a number of kings recorded by both
+prenomen and nomen where the latter alone for
+some reason is written without a cartouche. The
+reasons for this phenomenon remain uncertain.
+After the cartouche, the scribe invariably adds the
+divine determinative, thus indicating the divinity
+of the deceased king.
+The only variation lies in the presence or
+absence of the royal epithet anx.w wDA.w snb.w,
+“May he live, prosper and be healthy!” The epi-
+thet is added, in its usual abbreviated form, after
+the divine determinative of only a few royal
+names. Apart from its use for Menes (3.10–11),
+the first historical king, and Huni (4.8), who is
+the only ruler with a special remark after his
+name, it seems to be entirely fortuitous who is
+given this royal epithet. Thus, for instance, it is
+not found in relation to the renowned Amen-
+emhet I, while it is used for certain entirely
+obscure and ephemeral rulers of the 14th Dynasty
+(9.13, 23). Moreover, among the gods it is only
+used for Thoth. Perhaps the scribe simply wrote
+out the epithet without thinking on these few
+accessions, since it was customary to write this epi-
+thet after royal names in cartouche. By analogy,
+he also seems to have written the divine element
+“Re” without thinking on a few occasions where
+he expected a royal prenomen (§28).
+The exception to the mode of recording the
+kings just discussed is the 15th Dynasty, the so-
+called Hyksos, who were rulers of foreign extrac-
+tion. The kings of the preceding 14th Dynasty
+were also of foreign extraction, but they were
+recorded in the conventional manner. The spe-
+cial treatment of the 15th Dynasty may therefore
+have been a direct result of what seems to have
+been deliberate attempt to obliterate the memo-
+ry of their kingship after their defeat. Fortunate-
+ly the author or compiler of the king-list aimed
+at producing a complete record and therefore
+included the 15th Dynasty as well. He did
+not even attempt to tone down their existence
+by simply stating their number and the duration
+of their rule, thus avoiding mentioning their
+names or identity. On the contrary, the kings
+were all listed by name – a noteworthy conces-
+sion to historical fact – and merely deprived
+of any attribute of kingship; hence they are
+recorded 
+without 
+royal 
+title, 
+cartouche,
+divine determinative and epithet. In the place
+of the royal title, the title HqA-xAswt (which
+became Hyksos in Manetho’s transcription) was
+used before their names. This title had in fact
+been used in the place of nsw.t-bi.ty by the rulers
+of the 15th Dynasty until the reign of a Khayan,
+during which it was replaced by the Egyptian
+title.43 Behind the names, the divine determinative
+was replaced by the throwstick determinative
+which marked the kings as foreign.
+§17. Identity
+The king-list displays a surprising lack of consis-
+tency in the manner in which the identity of the
+143
+43 RYHOLT, Political Situation, 123–125.
+
+======================================================================
+PÁGINA 10
+======================================================================
+
+44 Out of the four surviving names, three are prenomina
+(Amenemhet I, Sesostris I and Amenemhet IV, 6.20–21,
+7.1) while the fourth is a nomen (Nofrusobk, 7.2).
+45 Thus a Djedkare (32) is followed a Djedkare with
+nomen (44), and a Neferkare (42) is followed by sev-
+eral kings Neferkare with nomen (43, 45, 49, 51, 52).
+46
+VON BECKERATH, ZÄS 93 (1966), 18–19, has suggested
+that one of the Heracleopolitan kings (5.23) was
+recorded by his nomen followed by the prenomen of
+his royal father, but the reading (sc. Xt[y sA] nfr-kA-ra) is
+based on an emendation and remains uncertain.
+47 RYHOLT, Political Situation, 225–227, 297–298.
+48 I earlier thought that a single exception to this mode of
+recording occurred in 5.3, presumably the entry of
+Neferirkare II, where I read “1½ years”, cf. Political Sit-
+uation, 12, and ZÄS 122 (2000), 91, 99. In doing so I did
+not take into account the ditto mark after rnp.t 1, which
+makes it clear that “1 year and half a month”, i.e. one
+year and fifteen days, should be read. The writing Abd
+gs for hrw 15 only occurs here in the king-list.
+Kim Ryholt
+144
+kings were recorded, although some general
+trends are discernable. In general the kings of
+the 1st–3rd Dynasty are recorded under their Dia-
+dem (nbty) name, while later kings are recorded
+under their prenomen. There are, however, fre-
+quent cases where both the prenomen and
+nomen were recorded or where the nomen was
+recorded in the place of the prenomen. It is not
+surprising that a preference was felt for the
+prenomen and the nomen since they were the
+two primary royal names during the New King-
+dom. These names only came into systematic use
+during the Old Kingdom, and this can be
+regarded as the reason why the earlier kings are
+cited by their Diadem names instead.
+In the large section following the 6th Dynasty,
+kings were recorded in an apparently haphazard
+manner by their prenomen, nomen or both. This
+is not just the case with the more obscure dynas-
+ties, but even the illustrious 12th Dynasty.44 The
+various ways in which the identity of the kings are
+recorded are as follows:
+(1) Prenomen alone, in cartouche (passim)
+(5) Nomen alone, in cartouche (5.10, 21, 7.2, 7,
+9, 15, 16; 9,1, 10.13, 14, 15, 11.5, 6)
+(2) Prenomen and nomen, both in same car-
+touche (7.19, 20, 23, 24, 25, 27, 8.2, 5, 6)
+(3) Prenomen and nomen, each in own car-
+touche (5.23, 8.7, 8)
+(4) Prenomen and nomen, the former in car-
+touche and the latter not in cartouche (5.7,
+8, 7.21, 22, 8.22, 23, 9.25?, 26, 27, 28)
+The inconsistency is curious; why did the
+scribe not simply list all kings by their prenomi-
+na? The approach adopted by the scribes respon-
+sible for the Abydos List was to include the
+nomen with the prenomen only when several
+kings held the same prenomen so that they
+might be distinguished from each another.45
+That is evidently not the case in the Turin King-
+list. Unfortunately no simple answer seems forth-
+coming. It may be significant that Manetho’s
+Aigyptiaka shows a similar confusion between
+prenomina and nomina; in this king-list most
+kings are recorded by their nomen, but occa-
+sionally the prenomen is used instead.
+§18. Patronym
+The patronym or father’s name is only added to
+the names of two kings in the extant parts of the
+king-list, both kings belonging to the 13th
+Dynasty, viz. Sobkhotep II (7.15) and Nefer-
+hotep I (7.25).46 In both cases it is entered in the
+form “son of name” (sA NN). It is unclear why this
+additional information is provided and why it is
+only provided for two kings. In the case of Nefer-
+hotep I, it is known that he made an effort –
+undoubtedly for political reasons – to proclaim
+his non-royal birth.47 Hence virtually all of the
+royal seals and monuments of this king mention
+one or the other of his non-royal parents. This
+might explain why his father found his way into
+the 
+king-list. 
+However, 
+his 
+predecessor
+Sobkhotep III and his two brothers and succes-
+sors, Sihathor and Sobkhotep IV, similarly pro-
+claimed their non-royal parentage, but here the
+king-list does not provide this additional infor-
+mation. Moreover, Sobkhotep II, the other king
+whose father is recorded, is not known to have
+mentioned the name of his father on any of his
+monuments.
+§19. Length of reign
+The length of reign is recorded either precisely in
+years, months and days, or in round years alone.48
+The variation between these two modes of record-
+ing is not random, but rather a result of the nature
+of the source used for the kings in question. This
+issue is discussed in more detail below (§22).
+
+======================================================================
+PÁGINA 11
+======================================================================
+
+The Turin King-List
+§20. Age at death
+Information about the kings’ age at death is
+recorded only for the Archaic Period (3.11–4.3)
+and is likely to derive from a single, common
+source, i.e. Section A (§22). The information
+should probably be regarded with due scepti-
+cism since the names transmitted in this source
+are far more corrupt than the others (§28).
+Moreover, the average age at death is somewhat
+higher than what might have been expected,  c.
+70 years. The preserved figures are (3.17–20,
+22–25, 4.1–3): mr-bA-pn 94 years, smsm 72 years,
+qbH 73 years, nTr-bA.w 95 years, ny-bA.w-nTr 95
+years, wAD-ns 70 years, snD 54 years, aA-kA [error
+for nfr-kA-ra] 70 years, Hw-DfA 34 years and bbty
+40+x years;49 kA-kA.w’s age at death (3.21) is, for
+some reason, left blank.50
+§21. Remarks and emphasis
+Remarks and emphasis are, like patronyms, quite
+exceptional. The entry of a single king is empha-
+sized by the use of red ink for his royal title. The
+king in question is Djoser (4.5), and there can
+hardly be any doubt that the emphasis of this
+entry is due to his outstanding reputation in later
+times.51
+Similarly a special remark is preserved only
+once, in relation to king Huni (4.8). The remark
+is damaged, and only the words “the builder who
+lead ...” (pA qd sSm ...) are preserved. It was once
+taken as a reference to Imhotep, but this identi-
+fication was based on the assumption that
+Imhotep was mentioned in Frg. 40 as the son of
+Ptah and that this fragment belonged in column
+3.52 These assumptions have since been rejected;
+the fragment rather records a royal nomen Sip-
+tah and belongs to the Late Old Kingdom sec-
+tion in column 4.53 It was, moreover, apparently
+during the Late Period that Imhotep gained rep-
+utation as the son of Ptah, and it is in relation to
+Djoser that he is attested by contemporary
+sources and later literary tradition.54
+It is perhaps not without significance that the
+only two emphasized entries belong to a section
+of the king-list that was derived from the same
+source (§22); emphasis is not found in the sec-
+tions deriving from other sources.
+§22. Sources
+The inconsistency in the details provided about
+the individual kings in different sections of the
+Turin King-list indicates that it was compiled
+from a number of different sources (Table 4).
+This  is hardly surprising since it may have cov-
+ered as much as 1800 years in its original state,
+not including the mythological section.
+It is noteworthy that it is the most remote his-
+torical kings, those of the Archaic Period, for
+whom most details are provided. Their reigns
+are recorded in years, months and days, and
+to this information their age at death is added
+(§20). It is, however, also in this section that the
+royal names have suffered the worst degree
+of corruption (§28). The details are therefore
+not necessarily an indication of superior source
+material.
+The reigns of the remaining kings of the Old
+Kingdom until Pepi II are recorded in round
+years alone, thus indicating that a different
+source was used. Next follows the Late Old King-
+dom and the Heracleopolitan kings of the First
+Intermediate Period, where the reigns are again
+recorded in years, months and day. The Theban
+section of the First Intermediate Period is record-
+ed by years alone, and finally the Middle King-
+dom and Second Intermediate Period are record-
+ed once more by years, months and days.
+On the basis of the manner in which the
+reigns of the historical kings were recorded and
+the absence or presence of their age, this part of
+the king-list may be divided into five sections
+(Table 4). These sections indicate that the king-
+list was compiled from at least five main sources.
+The actual number of sources may be greater. It
+is entirely possible two sources covering consec-
+utive periods may have used the same level of
+detail and thus be indiscernible to us. Thus, for
+instance, the very large section covering the Mid-
+145
+49 I.e. the latter is somewhere between 40 and 50 years.
+50 Since there is no note of a lacuna in this place, it is pos-
+sible that some scribe simply overlooked it or that he
+could not decipher the figure and therefore simply left
+it blank.
+51 WILDUNG, Die Rolle ägyptischer Könige, 58–92.
+52 WILDUNG, Imhotep und Amenhotep, 30–32.
+53 RYHOLT, ZÄS 127 (2000), 89–90.
+54 This association lasted at least until Roman times. Djos-
+er and Imhotep are the main characters in a Demotic
+narrative from the 1st or 2nd century AD. For a descrip-
+tion of the story, see RYHOLT, in Fs Larsen (forthcom-
+ing); cf. also WILDUNG, Die Rolle ägyptischer Könige,
+91–93, and IDEM, Imhotep und Amenhotep, 130–131.
+
+======================================================================
+PÁGINA 12
+======================================================================
+
+dle Kingdom and Second Intermediate Period
+could well have been based on more than one
+source. It is conceivable that the kings of foreign
+extraction, who ruled from Avaris, were not
+entered into the king-list of the contemporary
+Egyptian kings who ruled first from Memphis
+and later from Thebes, and vice versa.
+Further sources may have supplied the infor-
+mation about the mythological kings. Here at
+least two sources seem to be discernable (§7).
+§23. Dynastic Arrangement
+The five sections discussed correspond to the
+dynastic arrangement adopted by Manetho for
+the list of kings he drew up in the early 3rd centu-
+ry BC. As indicated in Table 4, Section A corre-
+sponds to his 1st–2nd Dynasty, Section B to his
+7th–10th Dynasties, Section C to his 11th Dynasty,
+Section D to his 12th Dynasty, and Section E to his
+13th–16th Dynasties.
+The correspondence is even more striking
+when the formal division of the kings into groups
+by headings and summations is taken into
+account. These correspond to Manetho’s 1st–5th,
+6th, 7th–8th, 9th–10th, 11th, 12th, 13th–14th, 15th,
+and 16th Dynasties.
+Combining the arrangement indicated by the
+five sections and the formal groups, it is clear that
+a major part of Manetho’s dynastic divisions of
+the period prior to the New Kingdom was based
+on a tradition that extending at least one millen-
+nium back in time to the 13th century BC.
+The main difference between Manetho and
+the Turin King-list is that in some cases the latter
+operates with larger groups of kings, i.e. the
+1st–2nd Dynasties (Archaic Period), the 3rd–5th
+Dynasties (Memphis), the 7th–8th Dynasties
+(Memphis), the 9th–10th Dynasties (Heracleopo-
+lis), and the 13th–14th Dynasty (early SIP). While
+Manetho’s division of the 1st–2nd, the 3rd–5th, and
+the 13th–14th Dynasties has been adopted in mod-
+ern scholarship, since they correspond to signifi-
+cant political and cultural changes, the reasons
+for the division of the 7th–8th and 9th–10th Dynas-
+ties still remain less clear.56
+§24. The copyist and his source
+The scribe who copied the Turin King-list was nei-
+ther the most attentive nor the most careful.
+When writing the summations, which were much
+longer than the entries, he several times made the
+lines too long so that they encroached upon the
+position in which he would write the following
+columns. He therefore had to draw lines that
+would separate the text in the column from that
+of the following. There are at least three and pos-
+sibly four instances of this (3.14, 6.15, Frg. 147
+and perhaps also Frg. 4).57
+55 Curiously, there are two exceptions within this section
+where both months and days are recorded as well. One
+is Teti (5.1.), and the other is the king (4.7) recorded
+between Sekhemkhet and Huni.
+56 Presumably the arrangement of the Heracleopolitan
+kings in two dynasties was also based on a contemporary
+political situation, the division being caused by the rise
+of the 11th Dynasty, cf. SEIDLMAYER, GM 157 (1997), 85.
+MALEK, JEA 68 (1982), 93, and BSFE 138 (1997), 14, sug-
+gests that these kings were rather divided between two
+dynasties by Manetho because they covered two columns
+in his source, just as they do in the Turin King-list. The
+argument does not seem entirely consistent; if Manetho
+failed to realize that a shift in column did not necessari-
+ly indicate a dynastic shift, one would expect that he
+would also have cut into segments the other dynasties
+that happened to be carried over from one column to
+another, especially numerous kings belonging to the 13th
+and 14th Dynasties, but this is evidently not the case.
+57 GARDINER, Royal Canon of Turin, pl. IX, takes the line on
+Frg. 4 to be a figure in the hundreds but I am not
+entirely convinced by this reading.
+Kim Ryholt
+146
+Table 4  The five sections of the Turin King-list based on the information about reign and age
+Section
+Period
+Details provided about kings
+A
+Archaic Period
+1st–2nd Dyn.
+Years, months and days + Age at death
+B
+Old Kingdom
+3rd–6th Dyn.
+Years alone55
+C
+Late Old Kingdom
+7th–8th Dyn.
+Years, months and days
+First Int. Period (Heracleopolis)
+9th–10th Dyn.
+D
+First Intermediate Period (Thebes)
+11th Dyn.
+Years alone
+E
+Middle Kingdom
+12th Dyn.
+Years, months and days
+Second Intermediate Period
+13th–16th Dyn.
+
+======================================================================
+PÁGINA 13
+======================================================================
+
+The Turin King-List
+More curious is the scribe’s failure to under-
+stand the use of the kingship formula and the
+ditto marks which he slavishly copied (§11). Here
+the scribe’s carelessness is to our advantage since
+it is on account of the kingship formula and the
+ditto marks that we can reconstruct the layout of
+the source from which the Turin King-list was
+copied. This important discovery was made by
+HELCK who observed that, when those cases where
+the kingship formula was used for the first king
+after a heading are disregarded, then the formu-
+la occurs at a regular interval of 13 to 16 lines.58
+The new reconstruction bears out this interpreta-
+tion with the minor change that towards the end
+of the king-list this interval increases to 17 lines.
+This demonstrates that the Turin King-list was
+copied from an original that had 13 to 17 lines
+per column.59 The extant parts of the Turin King-
+list would have taken up 21 columns in the origi-
+nal.60 To this should be added the final one or two
+columns that were cut away from the king-list in
+antiquity (§1). In total the original would there-
+fore have had 23 or 24 columns.
+§25. Faults and errors
+The main problem in evaluating the accuracy of
+the Turin King-list is the lack of independent
+source material with which to compare it. There
+are periods where the kings are relatively well
+attested and here some headway can be made,
+mostly with regard to their names and sequence,
+sometimes also in respect of their reign-lengths. It
+is, however, an inescapable fact that there is no
+clear independent indication of the reign-lengths
+of the vast majority of the kings preserved in the
+list, and that a considerable number of them are
+not otherwise attested at all. This means that
+there could be much inaccurate information
+which we are simply not in the position to detect.
+Faults and errors in the king-list can be divided
+into two categories depending on their cause;
+those caused by physical damage (§§26–27) and
+those caused by human error or manipulation
+(§§28–35).
+§26. Notation of lacunae
+To start with faults caused by physical damage, it
+is clear from the notation of lacunae that the
+king-list descended from a lacuna-riddled origi-
+nal.61 Evidently this was not the immediate source,
+but a document further back in the chain of
+transmission. This is shown by the regular occur-
+rence of the kingship formula (§24); if the lacu-
+nae had been present in the immediate source,
+this pattern would not have existed.
+It was, fortunately, a conscientious scribe who
+copied the damaged document. Where the original
+had been damaged and information was lost, he
+used the group 
+to alert future users of the
+faults. The group is usually understood as an
+abbreviation of the verb 
+wsf, “idle”
+(Wb. I 357.2–11), but the reading – and hence
+the etymology – is not quite certain. An alterna-
+tive reading DfA might be preferable (see below).62
+In either case it is likely to be a participle mean-
+ing “lost” or similar, though I have mostly found
+the translation “lacuna” more convenient. The
+word is written in red ink when it signals the exact
+147
+58 HELCK, Untersuchungen zu Manetho, 83–84. REDFORD,
+Pharaonic King-lists, 9, rejects HELCK’s interpretation,
+but his arguments are based on a misunderstanding;
+the kingship formula was not just used at the top of
+every column, but also for the first king after a heading
+where ditto marks would naturally be senseless. His
+own suggestion that the formula was used for kings that
+“stood out in the memory of the ancients” has little to
+commend it since it fails to account for the regular
+intervals at which the formula occurs and since the for-
+mula is used with well-known as well as obscure and
+ephemeral kings (e.g. 7.16, 9.4, 9.20).
+59 MALEK, JEA 68 (1982), 93–106, has suggested that the
+original had a constant number of 16 lines per column,
+a number that is achieved by assuming that some lines
+in the Turin King-list covered two lines in the original.
+On this premise, he draws far-reaching conclusions
+about length and nature of various dynasties. It was
+concluded that the 13th and 14th Dynasties, though one
+was Egyptian and the other of foreign extraction, were
+not distinguished and that the scribe “simply listed the
+names of the rulers known to the compilers of the list”,
+and that Manetho’s division of the 1st–5th Dynasties into
+five groups was “purely formal and unconnected with
+historical facts”. The analysis was soon rejected
+by BARTA, GM 64 (1983), 11–13, and VON BECKERATH,
+SAK 11 (1984), 49–57; cf. also RYHOLT, Political Situa-
+tion, 29–30. MALEK changed his view on the constant
+number of lines in BSFE 138 (1997), 14.
+60 For details as to which columns in the original corre-
+spond to which section in the Turin King-list, see
+RYHOLT, Political Situation, 31.
+61 The lacunae are discussed in RYHOLT, Political Situation,
+10–12; IDEM, ZÄS 127 (2000), 96–98; VON BECKERATH,
+JNES 21 (1962), 140–147; and GOEDICKE, JEA 42 (1956),
+50–53.
+62 So GOEDICKE, JEA 42 (1956), 50–53.
+
+======================================================================
+PÁGINA 14
+======================================================================
+
+63 HELCK, Untersuchungen zu Manetho, 14–15, 20–21;
+GOEDICKE, JEA 42 (1956), 50–53.
+64 HELCK, Untersuchungen zu Manetho, 14.
+65 HELCK, Untersuchungen zu Manetho, 15, derives Hw-DfA
+from an original notation sD wsf.
+66
+VON BECKERATH, JNES 21 (1962), 140–147; RYHOLT, ZÄS
+127 (2000), 96–99.
+67 I have found a small unpublished fragment preserving
+the kingship formula followed directly by the notation
+of a lacuna. Since the kingship formula is expected to
+have occurred in the entry of Nitocris (5.7) and the
+notation of the lacuna would have followed after the
+formula (cf. VON BECKERATH, op. cit. 145; RYHOLT, op. cit.
+97 and fig. 2), it is possible that the fragment in fact
+preserves the expected notation. Unfortunately, I have
+not had the opportunity to check the fibres since the
+fragment was deciphered, and it therefore cannot be
+excluded that the fragment belongs elsewhere.
+68 RYHOLT, Political Situation, 318.
+69 RYHOLT, Political Situation, 70 (13th Dynasty), 94–95
+(14th Dynasty). Alternative interpretations have been
+presented by Bennet, GM 159 (1997), 11–17; ALLEN,
+BASOR 315 (1999), 50–51.
+Kim Ryholt
+148
+place that had been damaged, but when it occurs
+in summations it was written in black ink.
+Curiously the group is only used, at least in its
+abbreviated form, when an entire entry is lost or
+when part of a reign is lost; in several cases where
+a royal name had been damaged in the original
+the scribe simply copied what was left and made
+no effort to indicate that it was incomplete
+(§§27, 28). There may be two exceptions.
+Towards the end of what corresponds to the 2nd
+and 4th Dynasties, two kings are recorded as
+(4.2) and 
+(4.7). HELCK
+and GOEDICKE have rightly pointed out that these
+cannot be names of historical kings, but must be
+understood as indications of damaged names.63
+Significantly, the Abydos List has in the place of
+the latter 
+which again is not the name of a
+historical king. HELCK has convincingly inter-
+preted the contents of the cartouche as a scribal
+notation sD s(y), “it is damaged”, signalling a
+damaged passage in the record from which the
+Abydos List was made.64 The group 
+possi-
+bly represents the full writing of the abbreviation
+, and in this case Hw DfA may be understood as
+“stricken and lost”, the former being the verb Hwi.65
+§27. The extent of the damage
+The part of the king-list that seems to have suf-
+fered the most is the Late Old Kingdom section
+(7th–8th Dynasties). Here the entries of a group of
+ten consecutive kings are entirely lost, and the
+names of the two following kings are only partly
+preserved.66 The lost kings are accounted for by
+the word “lacuna” in both the summation for the
+6th–8th Dynasties and that covering the entire
+1st–8th Dynasties. The lacuna would also have
+been recorded behind the entry after which the
+kings in question were lost, but unfortunately the
+papyrus is damaged in this place.67
+A single king, Monthhotep IV, is lost at the end
+of the 11th Dynasty. His reign is similarly account-
+ed for in the summation of the dynasty, but once
+again the papyrus is broken where the notation
+would be expected to have been recorded in the
+list itself, i.e. after the entry of Monthhotep III
+(6.17). In the 13th and 14th Dynasty sections, the
+notations of at least two lacunae are preserved
+within the lists of kings themselves. One is record-
+ed after the entry of king Sonbef (7.6) and the
+other after king Nebsenire (8.14). It is not clear
+how many kings were lost in these lacunae, but at
+least one king can be identified by name in rela-
+tion to the first, i.e. Nerikare.68 Further kings may
+have been lost in the 13th and 14th Dynasty sec-
+tions, but the extent is debatable.69
+Sporadic damage of less significance is attested
+throughout the document. As mentioned above,
+damaged names were mostly not marked as such.
+Besides the two names damaged in connection
+with the large lacuna in the Late Old Kingdom
+section, which are nfr-kA (5.8; from nfr-kA-ra) and
+nfr (5.9; from nfr-kA-mnw), there is also aA-kA (3.25;
+from nfr-kA-ra), nb-kA (4.4; from nb-kA-ra) and Dd
+(4.24; from Dd-kA-ra). In the case of aA-kA and nb-
+kA, the initial part of the cartouche is omitted as
+well (so too for snfrw, 4.9). This is somewhat curi-
+ous. Even if the sign in question had been lost,
+the scribe ought to have realized that it was miss-
+ing since he correctly copied the terminal part of
+the cartouches for these kings. It is also notewor-
+thy that the incomplete prenomen 
+(5.9) is written with phonetic determinatives that
+would not normally have been written out within
+a cartouche. Presumably the scribe felt that *
+was too short and hence expanded the
+name by changing the orthography.
+Finally, there are two instances where reign-
+lengths are partially damaged. One is Aw-ib-ra of
+the 14th Dynasty whose reign is recorded as “[x
+years], lacuna, 18 days” (9.12) and the other is
+
+======================================================================
+PÁGINA 15
+======================================================================
+
+The Turin King-List
+149
+swsr-n-ra of the 16th Dynasty with “12 years, lacu-
+na, [x] days” (11.8).
+§28. Corrupt names
+The most severe corruption of royal names is
+found in Section A of the king-list which covers
+the kings of the 1st and 2nd Dynasties (§22). This
+is perhaps not surprising since these were the
+most remote historical kings, and many of their
+names were evidently no longer understood. The
+kings figure with the same corrupt name in the
+other extant king-lists, i.e. the contemporary Aby-
+dos and Saqqara lists and even in Manetho’s
+much later Aigyptiaka. This indicates that the
+mutations had taken place already at a relatively
+early date and that the names were canonized by
+the time of the early Ramesside Period, unfortu-
+nately on the basis of a very poor source. Ironi-
+cally the corrupt forms of the names were from
+then on faithfully transmitted, without any major
+changes, for more than fifteen centuries.
+As recorded in the king-list, none of the names
+in question is rendered in its correct orthography
+as known to us from contemporary attestations. A
+few are only slightly changed, while several are
+garbled beyond recognition. Although the Aby-
+dos List was based upon the same tradition, it evi-
+dently preserves the names in superior forms.70
+Significantly, the Turin King-list, the Saqqara List
+and the Abydos List all preserve the record of a
+lacuna towards the end of the list; the two former
+as Hw DfA and the latter as sD sy (§26).
+Concerning the Old Kingdom section of the
+king-list, it is again clear that the Abydos List pre-
+serves the names in more correct forms even
+though fewer names are preserved in both lists and
+hence available for comparison. The king-list omits
+the final -w of snfrw (4.9), wsr-kA=f was changed to
+wsr-kA-ra (4.17),71 the plural of kA was omitted in
+mn-kA.w-Hr which thus became mn-kA-Hr (4.23), and
+nt-iqr seems to be false etymology of nTr-kA-ra
+(5.7).72 In addition to these examples, a number of
+names had suffered damaged through lacunae, as
+noted above, i.e. Dd for Dd-kA-ra (4.24), nfr-kA for
+nfr-kA-ra (5.8), nfr for nfr-kA-mnw (5.9). Every one of
+these names is correctly written in the Abydos List.
+What little remains of the Heracleopolitan
+Dynasty also conveys a confused impression, but
+since the names are so damaged it is unclear to
+what extent they are actually corrupt. Two kings
+seem to be recorded by prenomina without the
+element “Re” which is followed by a nomen (5.24,
+25), but it is possible that they may occasionally
+have been written in this way in contemporary
+records and monuments.73 Exceedingly few con-
+temporary epigraphical sources preserve the titu-
+laries of the Heracleopolitan kings, presumably
+because their memory was persecuted after their
+defeat by the Theban kings. It is therefore almost
+entirely impossible to verify any information
+about this dynasty.
+Later on in the king-list, in at least three cases
+and all within a short distance of each other, the
+divine element “Re” is erroneously added to royal
+nomina where it does not belong, i.e. “Nofrusobk-
+Re” (7.2), “Amenemhet-Re” (7.7) and “Sobkhotep-
+Re” (7.15). The element was almost certainly writ-
+ten out without thinking.74 Each of the three nom-
+ina is recorded instead of a prenomen, and at this
+point in time all prenomina without exception
+began with this element graphically; the scribe
+would therefore have expected all cartouches to
+begin accordingly. Since there are other nomina
+listed in the place of prenomina where the intru-
+sive “Re” is not added, it may be assumed that the
+scribe was simply careless.75 Alternatively, the
+names in question could be interpreted as incom-
+pletely copied cartouches that originally had con-
+tained both prenomen and nomen, but where the
+scribe was not sure exactly what elements belonged
+together. Thus the erroneous nfrw-sbk-ra (7.2)
+might be understood as 
+sbk-
+70 E.g. Abydos 5 has the sign twice where Turin 3.16 use
+the dual; Abydos 6 omits the obtrusive -n in Turin 3.17;
+Abydos 7 uses an ideogram where Turin 3.18 attempts
+a phonetic writing; Abydos 13 uses phonetic writing
+where Turin 3.24 instead uses an ideogram.
+71 For this change and its nature, see RYHOLT, “King Sene-
+ferka in the King-lists” (forthcoming).
+72 For the latter, see RYHOLT, ZÄS 127 (2000), 92–93.
+73 One of the very few contemporary objects from the
+Heracleopolitan Dynasty actually preserves the
+prenomen of a king Khety as nb-kA.w, i.e. without the
+divine element “Re”, cf. PETRIE, Hyksos and Israelite
+Cities, 32, pl. XXXIIA, XXXIII.4.
+74 RYHOLT, Political Situation, 27.
+75 There is nothing to suggest that the scribe realized any-
+thing was wrong or made any attempt to correct his
+mistake. VALLOGIA, RdE 16 (1964), 52, has cautiously
+suggested that the intrusive “-Re” added to the name of
+queen Nofrusobk might have been crossed out by the
+scribe, but this is not the case, as AUFRÈRE, BIFAO 89
+(1989), 2, correctly pointed out.
+
+======================================================================
+PÁGINA 16
+======================================================================
+
+76 RYHOLT, Political Situation, 16–17.
+77 The confusion between 
+and 
+is not surprising since
+the two signs are sometimes identically written in hier-
+atic and sometimes distinguished by a mere tick. It is
+also attested in other texts, e.g. the Teaching of Ani B
+17.7 and 19.16, cf. QUACK, Die Lehren des Ani, 95, n. 37,
+105, n. 74.
+78 The reigns of Amenemhet II through Amenemhet III
+are recorded on a fragment (Frg. 67) and their names
+are lost. Because these reigns do not seem to match
+what is known from contemporary sources, doubts
+about the validity of the arrangement of Frg. 67 have
+naturally been raised on occasion. It has not been
+denied, however, since it has been realized that it is
+impossible to find room for reigns of the recorded
+length elsewhere in the king-list. I would like to dispel
+any doubts about the arrangement once and for all.
+Having examined the fibres on a light-table, I can state
+with absolute certainty that the position is correct; the
+vertical fibres match Frg. 64 perfectly.
+79 KRAUSS, Sothis- und Monddaten, 194–195; FRANKE, Orien-
+talia 57 (1988), 126; HELCK, SAK 19 (1992), 172.
+80 OBSOMER, Sésostris Ier, 422–425.
+81 WEGNER, JNES 55 (1996), 249–279.
+82 RYHOLT, Political Situation, 13–14.
+Kim Ryholt
+150
+kA-ra nfrw-sbk > 
+nfrw-sbk-ra. This
+interpretation would, however, seem to be invali-
+dated by names such as imn-m-hAt-ra (7.7) and sbk-
+Htp-ra (7.15). The scribe could hardly fail to real-
+ize that imn-m-HAt and sbk-Htp, even in cartouches
+containing both prenomen and nomen, were
+actually the personal names of the kings since
+these names were still current and common in
+the Ramesside Period.
+Further evidence of corrupt names is slight.
+The Semitic name xnDr was misinterpreted as ny-
+Dr-ra (7.20), which it resembles graphically, and
+the prenomen of Siharnedjheritef, Htp-ib-ra,
+became sHtp-ib-ra (7.8) with the addition of an
+intrusive causative s. Both names thus came to
+resemble the prenomina of the renowned kings
+Amenemhet I (ny-mAa.t-ra) and Amenemhet III
+(sHtp-ib-ra).76 The name of Sobkhotep III (7.24) is
+also garbled, although the reading remains
+uncertain, and 
+(9.2) is probably a mis-
+take for xa-xrw-ra.77
+§29. The problematic 12th Dynasty
+The 12th Dynasty section poses difficult chrono-
+logical problems that have been much discussed.
+The figures preserved for two of the kings are
+considerably higher than the reign-lengths indi-
+cated by contemporary sources, and the total
+recorded for the dynasty similarly seems too high.
+The problem is rendered even more complex by
+the fact that the names of the second to fifth
+kings are no longer preserved.78 There can hard-
+ly be doubt that the total is calculated from the
+full length of the individual reigns regardless of
+the coregencies which ought to have been sub-
+tracted. The total is therefore not reliable. As for
+the reigns of the individual kings, it has been sug-
+gested, in order to bring them into harmony with
+contemporary sources, that some of the kings
+may have been interchanged. Thus it has been
+suggested both that Amenemhet II might have
+been incorrectly recorded after Sesostris II and
+III,79 and that Sesostris II and III themselves may
+have been interchanged.80 The latter requires the
+additional assumption that the reign of Sesostris
+II was incorrectly recorded. Most recently it has
+been argued that Sesostris III in fact was correctly
+listed and his reign correctly recorded; this solu-
+tion implies a 20-year coregency between Sesostris
+III and Amenemhet III.81 There is presently no
+consensus as to the interpretation of the informa-
+tion supplied by the Turin King-list.
+§30. Incorrect arrangement of kings
+Besides the possible incorrect listing of one or two
+kings belonging to the 12th Dynasty, there is evi-
+dence to suggest that kings were interchanged on
+at least one and possibly two other occasions.82
+The most certain instance concerns Sobkhotep I
+and Wegaf of the 13th Dynasty, and the other con-
+cerns Pepi I and Merenre of the 6th Dynasty. In
+both cases, the kings may have been confused
+because of their proximity to each other in the list
+and the similarity between their prenomina.
+Sobkhotep I and Wegaf would have been record-
+ed more or less across from each other in adjacent
+columns in the source from which the king-list was
+copied, and they had the prenomina sxm-ra-xw-
+tAwy and xw-tAwy-ra, thus sharing the elements xw,
+tAwy and ra. Pepi I and Merenre were listed one
+after the other and had the prenomina mry-ra and
+mr.n-ra, thus sharing the elements mr and ra.
+§31. Exclusion of historical kings
+There is no evidence to suggest that any kings
+were deliberately omitted from the king-list. It is,
+however, clear that some of the earliest known
+kings such as Scorpion and “Ka” are not present
+
+======================================================================
+PÁGINA 17
+======================================================================
+
+The Turin King-List
+151
+by name.83 Whether or not Narmer was included
+by name depends on his possible identity with
+Menes, who is the first human or historical king
+recorded in the list.
+As regards the early kings who are not includ-
+ed by name, it is possible that they – or some of
+them – are to be identified among the anony-
+mous “spirits” recorded in the section immediate-
+ly prior to the historical kings. From Aha onwards
+all kings seem to be included.
+§32. Inclusion of fictitious kings
+Evidence for the inclusion of fictitious kings is
+equally slight. The only certain case is “Month-
+hotep I”, the father of the founder of the 11th
+Dynasty. There is no indication that this Month-
+hotep ever adopted titles of kingship himself.
+Rather, he was posthumously awarded royal titles
+by his heirs, perhaps in an attempt to match the
+age of their royal house with that of the rival
+dynasty at Heracleopolis.84 In the Karnak List,
+Monthhotep I is given the befitting though ficti-
+tious Horus name “The Forefather” (tpy-a). It is
+not clear how he was recorded in the Turin King-
+list; he evidently had an entry (6.12), but the
+name is lost except for a trace of the first sign.
+The royal name Neferkasokar (4.1) is unlikely
+to be historical, but whether it represent a false
+etymology of a name that can no longer be iden-
+tified or whether it is fictitious cannot be deter-
+mined. It later appears alongside the names of
+Djoser and Cheops in the Late Period composi-
+tion now known as the Book of the Temple.85
+§33. Incorrect reign-lengths
+The most difficult issue to assess is the extent of
+the king-list’s credibility as regards reign-lengths,
+since the relevant contemporary source material
+is so exceedingly scarce. The problems of the 12th
+Dynasty have already been mentioned above. This
+dynasty aside, it is perhaps the case of Snofru that
+best illustrates some of the further difficulties
+involved. Inscriptions in ink on stone blocks from
+his monumental projects that have been recorded
+or re-interpreted in recent years indicate that his
+reign might have lasted considerably longer than
+the 24 years recorded in the king-list (4.9).86 The
+18th census is the highest year attested with
+absolute certainty and, if it is assumed that there
+were a yearly census after the 8th instead of a bien-
+nial one, as it has been proposed by W. S. Smith,87
+then the 18th census would correspond to the
+king”s 24th regnal-year. This would not pose a
+problem in relation to the king-list, but readings
+of a 23rd and 24th census also been suggested and
+if they are correct the king-list figure cannot pos-
+sibly be defended.
+It would not be surprising if there were many
+more errors in the recorded reign-lengths since
+the king-list was the product of a long tradition
+during which it had been copied and recopied
+over and over again. If a royal name was incom-
+pletely copied, the scribe might notice that it is
+made little sense and hence suspect that it was
+corrupt. The same logic does not apply to figures.
+Even if a scribe discovered that a total did not
+match the sum of the recorded reigns, the error
+may lie anywhere; in any of the reigns specified or
+in the total itself. It would, in other words, be vir-
+tually impossible to correct the mistake.
+§34. Imprecise reckoning of reigns
+A more direct problem is posed by the reigns
+recorded in round years, i.e. those of the 3rd–6th
+and 9th–10th Dynasties. It remains uncertain how
+these figures were rounded off. There are three
+possibilities; they may have been rounded off
+to the nearest round figure, or they may consis-
+tently have been rounded either up or down. It is
+even uncertain if all the reigns are treated in the
+same manner. The 3rd–6th Dynasties do not derive
+from the same source as the 9th–10th Dynasties,
+83 For these two kings, see now WILKINSON, Early Dynastic
+Egypt, 56–58.
+84 SEIDLMAYER, GM 157 (1997), 82.
+85 This composition, which is preserved in a great num-
+ber of manuscripts, is presently being prepared for
+publication by J. F. QUACK. A preliminary account of
+the historical section is published by QUACK, in Literatur
+und Politik, 267–278, and an account of the composi-
+tion in general by IDEM, Archiv für Religionsgeschichte 2
+(2000), 1–20. The name is further attested twice on a
+cylinder-seal published by KAPLONY, Die Rollsiegel des
+Alten Reichs, II, 1–2, pl. 1. The date of the seal remains
+uncertain, but it is clearly not contemporary with the
+Archaic Period; the royal name is enclosed within a car-
+touche, and the divine element “Sokar” is not written
+in honorific transposition in one of the two cartouches,
+both features that are without parallel for this period.
+86 STADELMANN, MDAIK 43 (1986), 229–240; POSENER-
+KRIÈGER, in: EL-KHOULI, Meidum, 17–21; KRAUSS, JEA 82
+(1996), 43–50.
+87 SMITH, JNES 11 (1952), 123–124.
+
+======================================================================
+PÁGINA 18
+======================================================================
+
+88 RYHOLT, Political Situation, 15–16.
+Kim Ryholt
+152
+and the possibility of inconsistencies within the
+same source may also be considered. There is not
+presently enough data available to settle these
+questions.
+The round years that relate to kings whose
+identity was lost through lacunae are more trou-
+blesome. Here there is some evidence to suggest
+that the figures in question may be estimates
+made by a copyist in order to avoid chronological
+gaps in the king-list.88 This would explain why fig-
+ures are always present despite the lacunae, even
+when the names of as many as ten kings were
+entirely lost, as it is the case in the Late Old King-
+dom section (§27), and also why the figures relat-
+ing to lacunae are consistently rounded off, even
+when the other figures in the same section of the
+papyrus are precisely recorded to the day.
+§35. Inaccurate reckoning of totals
+The reliability of the totals given in the summa-
+tions is closely related to the accuracy with which
+the individual reigns were recorded. The prob-
+lem of the total duration recorded for the 12th
+Dynasty is discussed above (§29). The only other
+totals that survive intact or in a reconstructable
+form are those of the 1st–8th, 6th–8th, 11th, and
+15th Dynasties.
+The total of the 11th Dynasty is recorded in
+round years only, obviously because the kings
+were also recorded in this manner. Since the frac-
+tions of each individual reigns are omitted, the
+total is inevitably approximate and has an error
+margin of a few years. The error might be more
+significant if the “Monthhotep I”, who is not a his-
+torical king, was assigned a fictitious reign-length.
+Finally, in relation to Monthhotep IV, there is the
+general question of the reliability of the reigns-
+lengths ascribed to kings whose records had been
+lost through lacunae (§34).
+The totals provided for the 1st–8th and 6th–8th
+are affected by the same factors. They include
+reigns recorded in round years as well as reigns
+precisely recorded, and both also include a lacuna.
+Among the kings who are summed up in the total
+provided for the 1st–8th Dynasties, the reigns of no
+less than 26 are merely recorded in round years.
+Depending of the size of the omitted fractions, the
+error margin here might amount to several years.
+The question of the accuracy with which the
+individual reigns were copied over the centuries
+and the possibility of coregencies are other fac-
+tors that must be considered. All in all, it can
+therefore be expected that the error-margin in
+connection with totals might not be insignificant.
+§36. Assessment of the Turin King-list
+Despite its unique status and potential historical
+value, the Turin King-list is in several ways not an
+ideal source. Its incomplete state of preservation
+and inadequate publication are external aspects
+that prevent full access to the information it once
+contained and what now remains. There are also
+several aspects of an internal nature that detract
+from its source value.
+The king-list was not copied in a manner that
+indicates that it was meant to be preserved as a
+formal document in a temple or palace library.
+On the contrary, it was written on waste paper of
+inferior quality, and it was copied in a rather care-
+less manner. The scribe made no effort to convert
+the format of his source to the format of the
+papyrus before him, which led to a somewhat
+senseless use of ditto marks. The columns were
+spaced too closely, which meant that he at times
+felt it necessary to draw inelegant lines to indicate
+that a certain bit of text did not belong to the col-
+umn where it was written, but instead to the pre-
+ceding column. And through carelessness he sev-
+eral times copied names incorrectly, thus adding
+to the process of corruption.
+In addition to these points, the source from
+which the scribe copied was anything but perfect.
+It was based on a lacuna-riddled original where
+many entries had been damaged, and at least
+twelve kings can be shown to have been lost.
+Moreover, although the reigns of most kings were
+precisely recorded with years, months and days,
+there are sections where the reigns were recorded
+by years alone.
+It is noteworthy that no attempt seems to have
+been made to supply missing or incomplete infor-
+mation from other sources. More reliable sources
+were certainly available. This is above all demon-
+strated by the Abydos List, but also to some extent
+by the Saqqara List. The Abydos List generally
+preserves the royal names in forms that are supe-
+rior to those of the Turin King-list. Equally signifi-
+cant, the ten kings whose names were entirely lost
+
+======================================================================
+PÁGINA 19
+======================================================================
+
+The Turin King-List
+in the Late Old Kingdom section and the two fol-
+lowing kings whose names were damaged and
+only partly preserved are all recorded with intact
+names in the more or less contemporary Abydos
+List in the temples of Seti I and Ramesses II. Sim-
+ilarly, the prenomen of Nofrusobk was known to
+the scribe who drew up the Saqqara List.
+It is also the cause of some concern that some
+of the information supplied about the 12th
+Dynasty is difficult to bring into harmony with
+available, contemporary source material, especial-
+ly since this is the best documented period among
+those covered by the king-list.
+In short the king-list preserved in the Turin
+papyrus can be described as a copy that was drawn
+up in a somewhat careless manner on waste paper
+on the basis of a damaged and imperfect original.
+Moreover, owing to a dearth of contemporary
+material, it is still not possible to verify the accu-
+racy of most of the figures it provides. This is obvi-
+ously not an ideal assessment and it forewarns us
+that there may be errors lurking in parts of the
+document that we are presently unable to verify.
+Accordingly, the text should be treated with due
+caution. The general purpose of the king-list has
+been discussed above (§4). However, the manner
+in which the copy was produced also raises the
+very difficult question of the purpose for which
+this specific copy was intended.89 I shall leave this
+question open.
+153
+89 ROCCATI, LÄ VI, 809, suggests that it was meant for pri-
+vate use (Privatgebrauch), but it is not clear for what
+purpose the document might have been privately used.
+Few others seem to have commented on the possible
+purpose for the specific copy preserved in the Turin
+papyrus.
+Bibliography
+ALLEN, J.P.
+1999
+The Turin King-list,  48–53, in: D. BEN-TOR, Seals
+and Kings, BASOR 315, 47–74.
+AUFRÈRE, S.
+1989
+Remarques sur la transmission des noms royaux
+par les traditions orale et écrite, BIFAO 89, 1–14. 
+BARTA, W.
+1979
+Bemerkungen zu den Summenangaben des
+Turiner Königspapyrus für die Frühzeit und das
+Alte Reich, MDAIK 35, 11–14.
+1983
+Bemerkungen zur Rekonstruktion der Vorlage
+des Turiner Königspapyrus, GM 64, 11–13.
+VON BECKERATH, J.
+1962
+The Date of the End of the Old Kingdom of
+Egypt, JNES 21, 140–147.
+1966
+Die Dynastie der Herakleopoliten (9./10. Dynas-
+tie), ZÄS 93, 13–20.
+1976
+Die Chronologie der XII. Dynastie und das Prob-
+lem der Behandlung gleichzeitiger Regierungen
+in der ägyptischen Überlieferung, SAK 4, 45–57.
+1984
+Handbuch der ägyptischen Königsnamen, MÄS 20,
+München.
+1984
+Bemerkungen zum Turiner Königspapyrus und
+zu den Dynastien der ägyptischen Geschichte,
+SAK 11, 49–57.
+1995
+Some Remarks on Helck’s „Anmerkungen zum
+Turiner Königspapyrus“, JEA 81, 225–227.
+1999
+Anmerkung zu zwei unbeachteten Fragmenten
+des Turiner Königspapyrus, GM 168, 19–21.
+BENNETT, CH.
+1997
+King Qemau: A Reconsideration, GM 159, 11–17.
+BLUMENTHAL, E.
+1983
+Die erste Koregenz der 12. Dynastie, ZÄS 110,
+104–121.
+BORCHARDT, L. 
+1917 
+Die Annalen und die zeitliche Festlegung des Alten
+Reiches der ägyptischen Geschichte, Berlin.
+CAMINOS, R.A. 
+1977 
+A Tale of Woe, Oxford.
+„ERNÝ, J. 
+1952 
+Paper & Books in Ancient Egypt, London.
+EATON-KRAUSS, M.
+1982
+Middle Kingdom Coregencies and the Turin
+Canon, JSSEA 12, 17–20.
+FARINA, G. 
+1938 
+Il papiro dei re, Publicazioni egittologiche del R.
+Museo di Torino 1, Roma.
+FRANKE, D.
+1988
+Zur Chronologie des Mittleren Reiches (12.–18.
+Dynastie). Teil 1: Die 12. Dynastie, Orientalia 57,
+113–138.
+GARDINER, A.H. 
+1959
+The Royal Canon of Turin, Oxford.
+GOEDICKE, H.
+1956
+King HwDfA?, JEA 42, 50–53.
+
+======================================================================
+PÁGINA 20
+======================================================================
+
+Kim Ryholt
+154
+HELCK, W.
+1956 
+Untersuchungen zu Manetho und den ägyptischen
+Königslisten, UGAÄ 18, Berlin.
+1987
+Untersuchungen zur Thinitenzeit, ÄA 45, Wiesbaden.
+1992
+Anmerkungen zum Turiner Königspapyrus, SAK
+19, 150–216.
+JACOBY, F.
+1958 
+Die Fragmente der Griechischen Historiker, III, Leiden.
+JANSEN-WINKELN, K.
+1991
+Das Attentat auf Amenemhet I. und die erste
+ägyptische Koregentschaft, SAK 18, 241–264.
+1997
+Zu den Koregenzen der 12. Dynastie, SAK 24,
+115–135. 
+KAISER, W.
+1961
+Einige Bemerkungen zur ägyptischen Frühzeit II.
+Zur Frage einer über Menes hinausreichenden
+ägyptischen Geschichtsüberlieferung, ZÄS 86,
+39–61.
+1990
+Zur Entstehung des gesamtägyptischen Staates,
+MDAIK 46, 287–299.
+KAPLONY, P.
+1981 
+Die Rollsiegel des Alten Reichs II. Katalog der Rollsiegel,
+Monumenta Aegyptiaca 3, Bruxelles.
+EL-KHOULI, A. 
+1991 
+Meidum, G.T. MARTIN (ed.), The Australian Centre
+for Egyptology, Reports 3, Sydney.
+KITCHEN, K. A. 
+1979 
+Ramesside Inscriptions. Historical and Biographical, II,
+Oxford.
+KRAUSS, R. 
+1985 
+Sothis- und Monddaten. Studien zur astronomischen
+und technischen Chronologie Altägyptens, HÄB 20,
+Hildesheim.
+1996
+The Length of Sneferu’s Reign and How Long it
+Took to Build the “Red Pyramid”, JEA 82, 43–50.
+LEPSIUS, R. 
+1842 
+Auswahl der wichtigsten Urkunden des ägyptischen
+Alterthums theils zum ersten Male, theils nach den
+Denkmälern berichtigt, Leipzig.
+MALEK, J.
+1982
+The Original Version of the Royal Canon of
+Turin, JEA 68, 93–106.
+1997
+La division de l’histoire d’Égypte et l’égyptologie
+moderne, BSFE 138, 6–17.
+MASPERO, G. 
+1895 
+Histoire ancienne des peuples de l’orient classique, I. Les
+origines. Egypte & Chaldée, Paris.
+MEYER, E. 
+1904 
+Aegyptische Chronologie, Berlin.
+OBSOMER, C. 
+1995 
+Sésostris Ier. Étude chronologique et historique du règne.
+Connaissance de l’Égypte ancienne, Etude 5,
+Bruxelles.
+OSING, J. 
+1998 
+Hieratische Papyri aus Tebtunis I. The Carlsberg
+Papyri 2 = CNI Publications 17, Copenhagen.
+PARKINSON, R., and QUIRKE, S. 
+1995 
+Papyrus, London.
+PETRIE, W.M.F. 
+1906 
+Hyksos and Israelite Cities, BSAE 12, London.
+QUACK, J.F. 
+1994
+Die Lehren des Ani, OBO 141, Freiburg Schweiz.
+1999
+Der historische Abschnitt des Buches vom Tem-
+pel, Literatur und Politik im pharaonischen und
+ptolemäischen Ägypten, 267–278, J. ASSMANN and E.
+BLUMENTHAL (eds.), Bibliothèque d’Étude, Kairo.
+2000
+Das Buch vom Tempel und verwandte Texte. Ein
+Vorbericht, Archiv für Religionsgeschichte 2, 1–20.
+QUIRKE, S. 
+1990 
+The Administration of Egypt in the Late Middle King-
+dom. The Hieratic Documents, New Malden.
+REDFORD, D.B. 
+1986 
+Pharaonic King-Lists, Annals and Day-Books. A Con-
+tribution to the Study of the Egyptian Sense of History,
+SSEA Publication 4, Mississauga.
+ROCCATI, A.
+1986
+Turiner Königspapyrus, Lexikon der Ägyptologie, VI,
+Wiesbaden.
+RYHOLT, K. 
+1997 
+The Political Situation in Egypt during the Second
+Intermediate Period, 1800–1550 BC, CNI Publica-
+tions 20, Copenhagen.
+1999
+The Story of Petese, Son of Petetum, and Seventy Other
+Good and Bad Stories, The Carlsberg Papyri 4, CNI
+Publications 23, Copenhagen.
+2000
+The Late Old Kingdom in the Turin King-list and
+the Identity of Nitocris, ZÄS 127, 87–100.
+2004
+The Assyrian Invasion of Egypt in Egyptian Literary
+Tradition, 481–511, in: J.G. DERCKSEN (ed.), Assyr-
+ia and Beyond. Studies Presented to Mogens Trolle
+Larsen, Leiden.
+forthc. King Seneferka in the King-lists.
+SCAMUZZI, E. 
+1963
+Museo Egizio di Torino, Torino.
+SCHNEIDER, T.
+1998 
+Ausländer in Ägypten während des Mittleren Reiches
+und der Hyksoszeit. Teil I. Dis ausländischen Könige,
+ÄAT 42, Wiesbaden.
+SEIDLMAYER, S.J.
+1997
+Zwei Anmerkungen zur Dynastie der Herakleopo-
+liten, GM 157, 81–90.
+SIMPSON, W.K. 
+1963 
+Papyrus Reisner I, Boston.
+SMITH, W.S.
+1952
+Inscriptional Evidence for the History of the
+Fourth Dynasty, JNES 11, 123–124.
+STADELMANN, R.
+1986
+Beiträge zur Geschichte des Alten Reiches,
+MDAIK 43, 229–240.
+VALLOGIA, M.
+1964
+Remarques sur les noms de la reine Sébek-ka-rê
+Néferou-sébek, RdE 16, 45–53.
+
+======================================================================
+PÁGINA 21
+======================================================================
+
+The Turin King-List
+WADDELL, W.G. 
+1940 
+Manetho, The Loeb Classical Library. London.
+WARBURTON, D.A. 
+1997 
+State and Economy in Ancient Egypt. Fiscal Vocabulary
+of the New Kingdom,
+OBO 151, Fribourg
+Schweiz/Göttingen.
+VON DER WAY, T.
+1993 
+Untersuchugen zur Spätvor- und Frühgeschichte Unterä-
+gyptens, SAGA.
+WEGNER, J.W.
+1996
+The Nature and Chronology of the Senwosret
+III–Amenemhat III Regnal Succession: Some
+Considerations Based on New Evidence from the
+Mortuary Temple of Senwosret III at Abydos, JNES
+55, 249–279. 
+WIEDEMANN, A. 
+1884 
+Ägyptische Geschichte, 1. Abteilung: Von den ältesten
+Zeiten bis zum Tode Tutmes’ III, Gotha.
+WILDUNG, D. 
+1969 
+Die Rolle ägyptischer Könige im Bewußtsein ihrer Nach-
+welt I, MÄS 17, Berlin.
+1977
+Imhotep und Amenhotep. Gottwerdung im alten
+Ägypten, MÄS 36, München/Berlin.
+WILKINSON, J.G. 
+1851 
+The Fragments of the Hieratic Papyrus at Turin, con-
+taining the Names of Egyptian Kings, with the Hieratic
+Inscription at the Back, London.
+WILKINSON, T.A.H. 
+1999 
+Early Dynastic Egypt, London and New York.
+WINLOCK, H.E. 
+1947 
+The Rise and Fall of the Middle Kingdom in Thebes,
+New York.
+155
+
+======================================================================
+PÁGINA 22 (OCR)
+======================================================================
+
