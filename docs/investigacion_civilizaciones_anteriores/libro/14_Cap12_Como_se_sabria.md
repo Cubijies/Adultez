@@ -32,8 +32,6 @@ Y hay una observación adicional que conviene hacer, porque conecta con el méto
 
 ## Los cinco criterios en la práctica
 
-## Los cinco criterios en la práctica
-
 Conviene ver cada criterio en acción, aplicado a la pregunta concreta de una civilización anterior. Porque no basta con enunciarlos; hay que saber qué implican.
 
 **Contexto estratigráfico.** Para que un hallazgo demuestre una civilización anterior, el objeto o la marca tiene que estar en una capa de la edad que se afirma, en una posición primaria, sin posibilidad de contaminación. Esto significa excavación controlada, registro de la posición, y análisis de la estratigrafía. Un objeto encontrado suelto, o dragado, o mezclado, no cumple este criterio. Como vimos en Cambay, el dragado es el enemigo del contexto: mezcla las capas y destruye la información.
@@ -186,11 +184,25 @@ Un hallazgo real de una civilización anterior tendría que parecerse a esto. Te
 
 Eso es lo que el lector debería buscar, y lo que debería exigir antes de aceptar cualquier afirmación. Y aquí está la clave: nada de lo que hemos examinado en este libro se parece a eso. Los siete casos de la segunda parte fallan en uno o más de los criterios. Pero si algún día aparece un hallazgo que los cumpla todos, el lector estará preparado para reconocerlo —y para darle el valor que merece. Esa es, quizá, la capacidad más valiosa que este libro puede entregar: la de saber reconocer, entre el ruido de las afirmaciones extraordinarias, el hallazgo que de verdad merecería cambiar nuestra historia.
 
-## Un futuro abierto Distingue el hallazgo del accidente, la evidencia de la fantasía, la civilización perdida de la que no lo es. Y en eso —en esa capacidad de distinguir— está el verdadero valor de la investigación: no en creer ni en descreer, sino en saber cómo se sabría.
+## La búsqueda como valor en sí misma
+
+Hay, además, una reflexión final sobre la actitud con la que el lector puede salir de este libro, y es quizá la más importante de todas. La búsqueda de civilizaciones anteriores no es un juego de creer o descreer; es un ejercicio de discernimiento. Y el discernimiento —la capacidad de distinguir lo real de lo falso, lo demostrado de lo especulado, lo posible de lo probable— es una de las habilidades más valiosas que una persona puede desarrollar. Este libro ha intentado cultivarla, caso por caso, mostrando cómo se aplica el protocolo a cada afirmación. Y si el lector sale con esa capacidad —con la disposición a verificar, la paciencia para aplicar las preguntas, y la honestidad para reconocer lo que no se sabe—, entonces el libro habrá cumplido su propósito, más allá de cualquier conclusión concreta.
+
+Y en esa capacidad de distinguir —distingue el hallazgo del accidente, la evidencia de la fantasía, la civilización perdida de la que no lo es— está el verdadero valor de la investigación: no en creer ni en descreer, sino en saber cómo se sabría.
 
 La pregunta de las civilizaciones anteriores queda, por tanto, abierta — no porque sea "imposible de responder", sino porque aún no tenemos el dato que la respondería. Eso no es un fracaso de la investigación; es precisamente lo que hace que valga la pena seguir buscando. Y con el protocolo en la mano, esa búsqueda ya no es un salto al vacío: es una investigación con un método, con criterios claros, y con la honestidad de reconocer dónde estamos.
 
 Hay, además, una reflexión final sobre la actitud con la que el lector puede salir de este libro, y es quizá la más importante de todas. La búsqueda de civilizaciones anteriores no es un juego de creer o descreer; es un ejercicio de discernimiento. Y el discernimiento —la capacidad de distinguir lo real de lo falso, lo demostrado de lo especulado, lo posible de lo probable— es una de las habilidades más valiosas que una persona puede desarrollar. Este libro ha intentado cultivarla, caso por caso, mostrando cómo se aplica el protocolo a cada afirmación. Y si el lector sale con esa capacidad —con la disposición a verificar, la paciencia para aplicar las preguntas, y la honestidad para reconocer lo que no se sabe—, entonces el libro habrá cumplido su propósito, más allá de cualquier conclusión concreta.
+
+## El protocolo en la vida cotidiana
+
+Conviene, antes de cerrar, que el lector vea que este protocolo no es solo una herramienta para arqueólogos ni un instrumento para este libro: es una manera de pensar que se aplica a la vida diaria, y que quien la haya practicado en estas páginas puede usarla siempre. Porque las cinco preguntas y los cinco criterios no dependen del tema; son, en el fondo, un modo de relacionarse con cualquier afirmación.
+
+Pensemos en una noticia que circula hoy por internet, ajena por completo a las civilizaciones perdidas: un titular que afirma algo asombroso —una cura, un descubrimiento, una denuncia— basándose en una sola fuente, sin datos verificables, repetida miles de veces. Apliquemos las cinco preguntas. ¿La fuente existe y dice lo que se afirma? ¿Está en su contexto, o fue sacada y mezclada? ¿La lectura es la de los especialistas o una interpretación marginal? ¿Hay una explicación más simple? ¿Qué dato la decidiría? Las preguntas funcionan igual con una afirmación sobre el pasado que con una afirmación sobre la actualidad. La primera pregunta detecta la falsificación; la segunda, el error de contexto; la tercera, la lectura impuesta; la cuarta, la explicación más simple; la quinta, la falsabilidad.
+
+Esto no es una casualidad: es la naturaleza del método. Las cinco preguntas no fueron inventadas para los mitos y los mapas; son la formalización de un instinto que todos tenemos —el de no creer todo lo que se nos dice— pero que rara vez aplicamos con disciplina. El protocolo convierte ese instinto en hábito: lo vuelve sistemático, ordenado, reproducible. Y un hábito así vale para todo: para leer una noticia, para evaluar una estadística, para juzgar un testimonio, para decidir a quién creer. El lector que ha seguido este libro no ha aprendido solo a evaluar civilizaciones perdidas; ha aprendido a evaluar afirmaciones, punto.
+
+Hay, además, un beneficio de este hábito que conviene nombrar, porque es el más valioso. Quien ha aprendido a hacer las cinco preguntas deja de depender de la autoridad de quien habla más alto, o de la emoción de quien cuenta mejor la historia. Adquiere un criterio propio, apoyado en la evidencia y en la verificación. No es que se vuelva desconfiado de todo —ese es el error del escepticismo mal entendido—; es que aprende a distinguir cuándo una afirmación merece confianza y cuándo no, sobre la base de algo más sólido que la primera impresión. Esa independencia de criterio es, quizá, el regalo más duradero que un libro puede entregar: la capacidad de no ser engañado con facilidad, y de verificar antes de creer.
 
 ## Los límites del protocolo
 
