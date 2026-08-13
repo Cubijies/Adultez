@@ -222,6 +222,16 @@ Hay una lección general aquí que conviene fijar, porque se aplica a todos los 
 
 Y esta observación conecta con algo que hemos visto a lo largo del libro: la diferencia entre mirar y ver. Cualquiera puede mirar un mapa antiguo y maravillarse; pocos se detienen a *ver* lo que realmente muestra —sus anotaciones, su proyección, su género, su contexto. El método es el ejercicio de ver: de ir más allá de la primera impresión y examinar el objeto con cuidado. En el caso de los mapas, ese examen revela que lo que el deseo ve (una Antártida secreta) no está en el documento (que muestra Sudamérica y un continente teórico). Y esa diferencia —entre el deseo que mira y el método que ve— es la que este libro ha intentado enseñar en cada página.
 
+## La lección de la proyección
+
+Hay una dimensión técnica del caso de los mapas que conviene que el lector comprenda, porque es de las que más iluminan el método y de las que más fácilmente se pasan por alto: la lección de la proyección. Y no me refiero solo a la proyección cartográfica, sino a la idea más general de que *cómo se representa algo determina qué vemos en ello*.
+
+En cartografía, una proyección es el método para pasar la superficie curva de la Tierra a un plano. Toda proyección distorsiona algo —las distancias, las áreas, las formas—, porque no se puede representar una esfera en un plano sin deformarla. Por eso la elección de la proyección es crucial: un mapa hecho con una proyección puede mostrar las cosas de una manera, y con otra, de manera muy distinta. Y en el caso de los mapas "de la Antártida", la proyección elegida por Hapgood era precisamente la que hacía "encajar" las líneas — y otros analistas, con otras proyecciones, no veían esa coincidencia.
+
+Pero esta lección se generaliza mucho más allá de los mapas. En todo examen de evidencia, la "proyección" que elegimos —el marco, la hipótesis, la manera de mirar— determina en parte lo que vemos. Si eliges una proyección que hace encajar las líneas con la Antártida, ves la Antártida; si eliges una neutral, no. Si miras una forma bajo el agua con la convicción de que hay una ciudad, tiendes a ver una ciudad; si la miras con el estándar de la geología, tiendes a ver arenisca. La lección es que la elección del marco no es neutral, y que por eso el método nos obliga a examinar no solo lo que vemos, sino cómo lo estamos mirando. Un marco elegido para confirmar lo que se desea no es un marco honesto; es un ajuste retroactivo.
+
+Y hay una consecuencia práctica de esta lección que conviene fijar. Cuando alguien te presente una "coincidencia" o un "encaje" sorprendente, pregunta siempre con qué marco, qué proyección, qué método se construyó. ¿Es un marco estándar, neutral, reproducible? ¿O es un marco elegido a medida para que la coincidencia aparezca? En el caso de los mapas, el marco (la proyección de Hapgood, con sus ajustes) fue elegido a medida — y la coincidencia desapareció con otros marcos. Esa es la lección de la proyección: desconfiar del encaje que solo aparece bajo un marco elegido, y exigir que la coincidencia sobreviva a los marcos neutrales. Porque una coincidencia real se ve desde muchos ángulos; una forzada, solo desde el que la construye.
+
 ## El veredicto etiquetado
 
 Apliquemos las seis etiquetas del método a este caso.

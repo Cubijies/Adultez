@@ -186,6 +186,16 @@ El cuarto rasgo común, y quizá el más revelador, es que **en ninguno de los s
 
 Estos cuatro rasgos comunes —partir de lo real, añadir una atribución, difundirla hasta confundirla con el hecho, y sostener una afirmación enorme con una evidencia débil— describen la literatura "perdida" con más precisión que cualquier etiqueta. No son siete historias distintas; son siete variaciones del mismo patrón. Y reconocer ese patrón es de las habilidades más útiles que este libro puede dar, porque permite identificarlo en un caso que no hayamos examinado: si ves un hecho real, una atribución extraordinaria y una evidencia débil, sabes que estás ante una sobrelectura, aun sin haber investigado el caso a fondo. Esa capacidad de reconocer el patrón es, en cierto modo, la síntesis de todo el método.
 
+## Lo que no es una derrota
+
+Hay una reflexión que conviene hacer antes del balance final, porque toca la manera en que el lector puede recibir las conclusiones de este libro. Es la reflexión sobre lo que *no* es una derrota — porque a veces, al leer que las afirmaciones no se sostienen, uno podría sentir que la investigación "fracasó" o que el viaje "no llevó a nada". Nada más lejos de la verdad.
+
+No es una derrota que la Esfinge no sea de 10.000 años; es un conocimiento. No es una derrota que los mapas no muestren la Antártida; es una comprensión. No es una derrota que la Atlántida no esté demostrada; es una claridad. Lo que este libro ha producido no es un vacío donde antes había misterio; es un mapa — el mapa de lo que se sabe, lo que no se sostiene y lo que no se sabe. Y un mapa, por definición, es más valioso que el misterio que reemplaza: te dice dónde estás, qué has recorrido y hacia dónde podrías ir.
+
+Pensemos en lo que ha pasado, en realidad. Al empezar, teníamos una maraña de afirmaciones —siete casos, cada uno con su teoría, cada uno con su "evidencia", todos sonando convincentes. Al terminar, tenemos un orden: siete veredictos, cada uno con su etiqueta precisa, cada uno justificado por su evidencia. Ese orden es un avance enorme, aunque no haya una civilización perdida al final. Porque el propósito de la investigación no era necesariamente encontrar una civilización; era saber qué es verdad. Y en eso —en saber qué se sostiene y qué no— la investigación ha tenido éxito completo, incluso en el sentido en que los que buscaban una confirmación podrían llamarlo "fracaso".
+
+Y hay algo más que conviene reconocer: el viaje mismo ha sido valioso. Hemos aprendido a examinar, a pesar, a dudar con honestidad, a respetar las culturas antiguas, a distinguir la maravilla bien fundada de la fantasía. Eso no se pierde, aunque ninguna de las afirmaciones se haya confirmado. Es un conocimiento de segunda orden —no sobre las civilizaciones perdidas, sino sobre cómo pensar—, y es, a mi juicio, más valioso que cualquier hallazgo concreto. Porque dura más, se aplica a todo, y no depende de un descubrimiento futuro. Esa es, quizá, la mayor ganancia del libro, y es la que hace que no haya sido una derrota, sino todo lo contrario.
+
 ## El balance final
 
 Antes de pasar al último capítulo, conviene hacer un balance final de lo que este viaje de diez capítulos ha establecido, porque es el resumen que el lector puede llevarse.
