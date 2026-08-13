@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cassandra.local/schemas/claim_record.schema.json",
+  "title": "Afirmación extraída del corpus DCA (v2.0)",
+  "description": "Esquema de afirmación tras el piloto G4. Incorpora P2 (hash_ref), P3 (passage_id con página / page_ref), P4 (relation_semantic), P5 (category) y P6 (matrix_id).",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "claim_id",
+    "attributed_claim",
+    "claimant",
+    "source_id",
+    "passages",
+    "claim_type",
+    "category",
+    "stance",
+    "project_assessment",
+    "extraction_status"
+  ],
+  "properties": {
+    "schema_version": {"type": "string", "const": "2.0"},
+    "claim_id": {"type": "string", "pattern": "^CLM-[0-9]{6}$"},
+    "attributed_claim": {"type": "string", "minLength": 1},
+    "controlled_paraphrase": {"type": ["string", "null"]},
+    "claimant": {"type": "string", "minLength": 1},
+    "source_id": {"type": "string", "pattern": "^DCA-[0-9]{6}$"},
+    "matrix_id": {"type": ["string", "null"], "description": "Identificador de la matriz (p. ej. S06, A10) al que se enlaza la afirmación (P6)."},
+    "passages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["source_id", "line_start", "line_end", "source_sha256"],
+        "properties": {
+          "passage_id": {
+            "type": ["string", "null"],
+            "description": "P3: permite un segmento opcional de página antes de las líneas, p. ej. PAS-DCA-000012-P119-L0000004-L0000010, o solo líneas.",
+            "pattern": "^PAS-DCA-[0-9]{6}(?:-[A-Za-z0-9_]{1,24})?-L[0-9]{7}-L[0-9]{7}$"
+          },
+          "source_id": {"type": "string", "pattern": "^DCA-[0-9]{6}$"},
+          "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "hash_ref": {
+            "type": "string",
+            "enum": ["original", "normalized"],
+            "description": "P2: indica si source_sha256 se refiere al original o a la copia normalizada (predeterminado: original)."
+          },
+          "line_start": {"type": "integer", "minimum": 1},
+          "line_end": {"type": "integer", "minimum": 1},
+          "page_start": {"type": ["string", "integer", "null"]},
+          "page_end": {"type": ["string", "integer", "null"]},
+          "page_ref": {
+            "type": ["string", "null"],
+            "description": "P3: referencia de página formal (impresa o de escaneo) cuando se desea una localización explícita."
+          },
+          "quotation": {"type": ["string", "null"]},
+          "quotation_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"}
+        },
+        "additionalProperties": true
+      }
+    },
+    "claim_type": {
+      "enum": [
+        "TEXTUAL",
+        "EMPIRICAL",
+        "CHRONOLOGICAL",
+        "CAUSAL",
+        "INTERPRETIVE",
+        "METHODOLOGICAL",
+        "TESTIMONIAL",
+        "BIBLIOGRAPHIC"
+      ]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "OBSERVACIONAL",
+        "CRONOLOGICA",
+        "CAUSAL",
+        "INTERPRETATIVA",
+        "METODOLOGICA",
+        "TEXTUAL"
+      ],
+      "description": "P5: categoría de la afirmación según la taxonomía del proyecto."
+    },
+    "object": {"type": ["string", "null"]},
+    "asserted_date": {"type": ["string", "null"]},
+    "mechanism": {"type": ["string", "null"]},
+    "invoked_evidence": {"type": ["string", "null"]},
+    "stance": {"enum": ["FAVORABLE", "CRITICA", "NEUTRA", "MIXTA", "NO_APLICA"]},
+    "theory_ids": {"type": "array", "items": {"type": "string"}},
+    "project_assessment": {
+      "type": "object",
+      "required": ["status", "reasoning"],
+      "properties": {
+        "status": {
+          "enum": [
+            "NO_EVALUADA",
+            "NO_ENCONTRADO",
+            "INSUFICIENTE",
+            "AMBIGUO",
+            "COMPATIBLE",
+            "APOYADA",
+            "CONTRADICTORIA",
+            "REFUTADA"
+          ]
+        },
+        "reasoning": {"type": ["string", "null"]},
+        "missing_to_test": {"type": ["string", "array", "null"]},
+        "confidence": {"enum": ["LOW", "MEDIUM", "HIGH", "NOT_APPLICABLE"]},
+        "falsification_potential": {"type": ["string", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["relation_type", "target_id", "relation_semantic"],
+        "properties": {
+          "relation_type": {
+            "enum": [
+              "APOYA",
+              "CUESTIONA",
+              "CONTRADICE",
+              "REFUTA",
+              "CITA",
+              "DEPENDE_DE",
+              "TRADUCE",
+              "REPLICA",
+              "DUPLICA",
+              "CONTEXTUALIZA"
+            ]
+          },
+          "relation_semantic": {
+            "type": "string",
+            "enum": ["SUPPORTS", "CONTRADICTS", "QUALIFIES", "NO_DIRECT_RELATION"],
+            "description": "P4: taxonomía del proyecto para la relación."
+          },
+          "target_id": {"type": "string"},
+          "note": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
+      }
+    },
+    "extraction_status": {"enum": ["DRAFT", "REVIEWED", "AUDITED", "REJECTED"]},
+    "extractor": {"type": ["string", "null"]},
+    "reviewer": {"type": ["string", "null"]},
+    "created_utc": {"type": ["string", "null"], "format": "date-time"}
+  },
+  "additionalProperties": true
+}

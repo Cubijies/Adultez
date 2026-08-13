@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "work_id": null,
+  "parent_source_id": null,
+  "relationships": [],
+  "title": "Título completo de la obra",
+  "creators": ["Apellido, Nombre"],
+  "year": 2000,
+  "original_year": null,
+  "edition": "Editorial, número de edición o descripción verificable",
+  "publisher": "Editorial",
+  "translator": null,
+  "language": "es",
+  "identifiers": {
+    "isbn": null,
+    "doi": null,
+    "url": null
+  },
+  "scope": {
+    "status": "COMPLETA",
+    "included_units": "obra completa",
+    "omissions": null
+  },
+  "document_type": "MONOGRAFIA_ACADEMICA",
+  "classification": {
+    "domains": ["ARQ"],
+    "document_type": "MONOGRAFIA_ACADEMICA",
+    "functions": ["APORTA_CONTEXTO"],
+    "theory_ids": [],
+    "corpus_status": "CANDIDATA"
+  },
+  "provenance": {
+    "copy_source": "biblioteca personal / URL / proveedor",
+    "provided_by": "usuario",
+    "extraction_method": "texto digital / OCR / transcripción manual",
+    "rights_note": "copia local para investigación privada"
+  },
+  "notes": "Indicar aquí páginas faltantes, OCR dudoso o cualquier particularidad."
+}

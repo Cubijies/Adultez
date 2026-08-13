@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cassandra.local/schemas/source_record.schema.json",
+  "title": "Registro de fuente del corpus DCA",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "record_version",
+    "source_id",
+    "files",
+    "fixity",
+    "bibliographic",
+    "scope",
+    "classification",
+    "provenance"
+  ],
+  "properties": {
+    "schema_version": {"type": "string", "const": "1.0"},
+    "record_version": {"type": "integer", "minimum": 1},
+    "source_id": {"type": "string", "pattern": "^DCA-[0-9]{6}$"},
+    "inventory_at": {"type": "string", "format": "date-time"},
+    "work_id": {"type": ["string", "null"], "pattern": "^WCA-[0-9]{6}$"},
+    "parent_source_id": {"type": ["string", "null"], "pattern": "^DCA-[0-9]{6}$"},
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["relation_type", "target_id"],
+        "properties": {
+          "relation_type": {
+            "enum": [
+              "SAME_WORK",
+              "SAME_EDITION",
+              "DUPLICATE_OF",
+              "EXCERPT_OF",
+              "TRANSLATION_OF",
+              "SUPERSEDES",
+              "CITES"
+            ]
+          },
+          "target_id": {"type": "string"},
+          "note": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
+      }
+    },
+    "files": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["path", "bytes"],
+        "properties": {
+          "path": {"type": "string"},
+          "bytes": {"type": "integer", "minimum": 0},
+          "modified_utc": {"type": "string", "format": "date-time"}
+        },
+        "additionalProperties": true
+      }
+    },
+    "fixity": {
+      "type": "object",
+      "required": ["algorithm", "original_sha256", "normalized_sha256"],
+      "properties": {
+        "algorithm": {"const": "SHA-256"},
+        "original_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "normalized_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+      },
+      "additionalProperties": false
+    },
+    "bibliographic": {
+      "type": "object",
+      "required": ["title", "creators", "year", "edition", "language"],
+      "properties": {
+        "title": {"type": ["string", "null"]},
+        "creators": {"type": "array", "items": {"type": "string"}},
+        "year": {"type": ["integer", "string", "null"]},
+        "original_year": {"type": ["integer", "string", "null"]},
+        "edition": {"type": ["string", "null"]},
+        "publisher": {"type": ["string", "null"]},
+        "translator": {"type": ["string", "null"]},
+        "language": {"type": ["string", "null"]},
+        "identifiers": {"type": "object"}
+      },
+      "additionalProperties": true
+    },
+    "scope": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {
+        "status": {
+          "enum": [
+            "COMPLETA",
+            "SELECCION_SUFICIENTE",
+            "SELECCION_INSUFICIENTE",
+            "SELECCION_SIN_VERIFICAR",
+            "FRAGMENTARIA",
+            "SOLO_RESUMEN",
+            "SOLO_METADATOS",
+            "NO_LOCALIZADA",
+            "UNKNOWN"
+          ]
+        },
+        "included_units": {},
+        "omissions": {"type": ["string", "array", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "classification": {
+      "type": "object",
+      "required": ["domains", "document_type", "functions", "theory_ids", "corpus_status"],
+      "properties": {
+        "domains": {"type": "array", "items": {"type": "string"}},
+        "document_type": {"type": ["string", "null"]},
+        "functions": {"type": "array", "items": {"type": "string"}},
+        "theory_ids": {"type": "array", "items": {"type": "string"}},
+        "corpus_status": {
+          "enum": [
+            "CANDIDATA",
+            "CANON_NUCLEAR",
+            "CANON_CONTRASTE",
+            "CORPUS_ACTIVO",
+            "CORPUS_AUXILIAR",
+            "CUARENTENA",
+            "RETIRADA_DEL_CANON"
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "copy_source": {"type": ["string", "null"]},
+        "provided_by": {"type": ["string", "null"]},
+        "extraction_method": {"type": ["string", "null"]},
+        "rights_note": {"type": ["string", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "audit_flags": {"type": "array", "items": {"type": "string"}},
+    "metadata_missing": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

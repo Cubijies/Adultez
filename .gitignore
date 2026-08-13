@@ -1,0 +1,8 @@
+# Corpus local: originales, derivados textuales, índices y auditorías voluminosas.
+# Se conservan fuera de Git por tamaño, trazabilidad y derechos de las fuentes.
+# (reglas pertinentes integradas desde Cubijies/Manual_Cassandra @ b576e400)
+corpus_local/
+
+# Temporales de Python
+__pycache__/
+*.py[cod]

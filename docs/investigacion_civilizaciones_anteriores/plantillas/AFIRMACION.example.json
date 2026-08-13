@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "claim_id": "CLM-000001",
+  "attributed_claim": "El autor sostiene que el rasgo observado requiere una explicación artificial.",
+  "controlled_paraphrase": "Atribución provisional; no equivale a una conclusión del proyecto.",
+  "claimant": "Apellido, Nombre",
+  "source_id": "DCA-000001",
+  "passages": [
+    {
+      "passage_id": "PAS-DCA-000001-L0000120-L0000128",
+      "source_id": "DCA-000001",
+      "source_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "line_start": 120,
+      "line_end": 128,
+      "page_start": "45",
+      "page_end": "46",
+      "quotation": null,
+      "quotation_sha256": null
+    }
+  ],
+  "claim_type": "INTERPRETIVE",
+  "object": "sitio, objeto o fenómeno",
+  "asserted_date": null,
+  "mechanism": null,
+  "invoked_evidence": "Descripción exacta de la evidencia invocada por el autor.",
+  "stance": "FAVORABLE",
+  "theory_ids": ["S01"],
+  "project_assessment": {
+    "status": "NO_EVALUADA",
+    "reasoning": null,
+    "missing_to_test": "Fuente primaria, contexto estratigráfico y explicación alternativa.",
+    "confidence": "NOT_APPLICABLE"
+  },
+  "relations": [],
+  "extraction_status": "DRAFT",
+  "extractor": null,
+  "reviewer": null,
+  "created_utc": null
+}
