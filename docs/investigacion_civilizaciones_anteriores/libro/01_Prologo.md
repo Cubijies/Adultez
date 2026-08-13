@@ -48,6 +48,22 @@ Y añade una séptima regla, quizá la más importante de todas, que repetiré h
 
 > La ausencia de datos no es una refutación. No encontrar huellas de una civilización antigua no prueba que no existiera. Pero tampoco prueba que existiera. Significa, sencillamente, que no se sabe.
 
+## El día que abrí las cajas
+
+Quiero contarte el momento exacto en que el método se me impuso, porque fue tan humilde que casi no lo recuerdo — y, sin embargo, cambió todo lo que vino después.
+
+Yo guardaba el material en cajas de cartón, de esas de mudanza, apiladas en un rincón del estudio. Había una para la Esfinge, con recortes, fotocopias de artículos y libretas llenas de anotaciones. Otra para los mapas, con reproducciones mal impresas y esquemas de proyecciones que yo mismo había garabateado. Otra para los continentes hundidos, otra para las ciudades sumergidas, otra para los dioses y las armas. Durante años, esas cajas fueron mi pequeño santuario del misterio: cada vez que quería emocionarme, abría una y me dejaba arrastrar por las historias.
+
+Una noche, con la casa en silencio, decidí hacer algo que nunca había hecho: sacar todas las cajas a la vez, vaciarlas sobre la mesa y tender el contenido como se tiende un mapa. Quería verlo todo junto, compararlo, encontrar el hilo común. Y lo que vi, cuando las historias estuvieron unas al lado de otras, me dejó sin aliento por una razón que no esperaba.
+
+Lo que tenían en común todas aquellas afirmaciones asombrosas no era la verdad, ni siquiera la maravilla. Era la **falta de un estándar común**. Cada teoría había sido escrita con su propio lenguaje, su propia seguridad, su propio desprecio por las demás. El autor del libro sobre la Esfinge nunca mencionaba al autor del libro sobre las ciudades sumergidas; cada uno partía de cero, como si nadie antes hubiera pensado su misma idea. No había un solo hilo, una sola vara que midiera a todas. Había, en cambio, siete u ocho lenguajes que se negaban a hablarse entre sí.
+
+Esa noche comprendí dos cosas a la vez. La primera es que yo no tenía un problema de falta de información: tenía demasiada, y desordenada. La segunda es que, si quería decir algo sensato sobre todo aquello, necesitaba construir una vara que sirviera para todas las cajas por igual — una manera de preguntarles a todas las mismas preguntas, y de clasificar sus respuestas en las mismas casillas. No para humillarlas, sino para poder compararlas. Porque solo lo que se mide con la misma vara puede compararse.
+
+El método de las seis etiquetas nació esa noche, en la mesa, entre recortes y fotocopias. No fue una revelación ni un hallazgo académico: fue una necesidad práctica, nacida del desorden. Y por eso es tan simple: porque se hizo para uso propio, para poner orden en una mesa desbordada. Más tarde lo pulí, le puse nombres, lo apliqué a decenas de casos. Pero su origen es ese — una noche, unas cajas, y la decisión de no volver a tragarme una historia sin antes preguntarle qué es exactamente lo que afirma, de dónde lo saca, y qué la refutaría.
+
+Quería que supieras esto antes de empezar, porque explica por qué el libro está escrito como está. No es una obra de erudición que baja del podio a decirte cómo pensar. Es el fruto de una confusión personal que se convirtió en método, y te ofrece la misma vara que a mí me sirvió para ordenar mi desorden. Úsala con la libertad con la que yo la construí: para aclarar, no para condenar.
+
 ## Lo que encontré
 
 No voy a hacerte esperar por la conclusión, porque el camino vale más que el destino, y porque la conclusión honesta no es la que esperas. Prefiero decírtelo desde el principio, para que no busques en estas páginas algo que no encontrarás.
@@ -97,5 +113,7 @@ Lo que este libro hace con ese material es convertirlo en narración. La investi
 Por eso, cuando termines la última página, tendrás en las manos algo más que una colección de casos: tendrás un mapa de cómo se investiga, hecho con los datos que la investigación dejó. Y si quieres ir más lejos, las notas y la bibliografía te abren la puerta a cada una de las fuentes originales. El camino no termina aquí; este libro es solo un punto de partida, y es deliberadamente honesto sobre lo que sabe y lo que no.
 
 Hay, sin embargo, una advertencia que debo hacer antes de que pases la página. Este libro te va a pedir trabajo. No es una lectura pasiva, de las que se consumen como se ve una serie; es una lectura activa, de las que exigen que pienses, que contrastes, que dudes. Eso tiene un costo, pero también tiene una recompensa: lo que aprendas con esfuerzo no se te olvida. Y en un tema como este, donde la mitad de lo que se dice es humo, la capacidad de distinguir el humo del fuego es la habilidad más valiosa que puedes llevar contigo.
+
+Hay, por último, una promesa que quiero hacerte, y que este libro intentará cumplir en cada página: **no te voy a subestimar.** Ni tratándote como a alguien demasiado crédulo para dudar, ni como a alguien demasiado listo para asombrarse. Voy a darte la evidencia completa — la que apoya y la que contradice, la que conviene a mi argumento y la que lo incomoda — y a confiar en que sabrás usarla. Un libro que te muestra solo una cara de cada moneda no confía en ti; un libro que te muestra ambas te trata como lo que eres: alguien capaz de pensar. Ese es el trato. El resto está en las páginas que siguen.
 
 Empecemos.
