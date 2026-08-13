@@ -128,6 +128,14 @@ Tercera: **está contextualizado en su historia.** Pertenece a la tradición ast
 
 Este control nos da una regla útil para el resto del libro: **cuando un hallazgo "imposible" resulta ser real, casi siempre pertenece a una cultura conocida, con contexto — no a una civilización perdida.** El mecanismo de Anticitera es el modelo de cómo se ve un artefacto antiguo genuinamente sofisticado: no flotando en el vacío, sino anclado en su historia.
 
+## Por qué la evidencia se pesa, no se cuenta
+
+Hay una idea que conviene fijar desde el principio, porque es de las que más se malentienden cuando se habla de evidencia: la diferencia entre contar y pesar. La literatura de civilizaciones perdidas tiende a *contar*: junta diez teorías, veinte "anomalías", treinta misterios, y da la impresión de que el volumen de material es prueba de algo. Pero el método de este libro —y el de la ciencia— *pesa*: examina cada pieza de evidencia por su calidad, no por su cantidad.
+
+Piénsalo así. Cien testimonios de segunda mano que se copian unos a otros no valen más que un solo testimonio verificado de primera mano; de hecho, valen menos, porque la repetición puede ser solo la propagación de un mismo error. Del mismo modo, veinte "anomalías" que todas se explican por procesos naturales no forman un caso más fuerte que una sola anomalía genuinamente inexplicable. El peso de la evidencia no depende de cuántas piezas se amontonen, sino de qué tan sólida es cada pieza y de qué tan bien resiste el examen. Contar es fácil; pesar exige criterio.
+
+Y aquí está la consecuencia para el lector: cuando alguien te presente un "cúmulo de evidencia" —una lista larga de misterios, teorías y coincidencias—, no te impresiones por la longitud de la lista. Pregunta por la calidad de cada pieza: ¿tiene contexto? ¿tiene fuente verificable? ¿tiene explicación natural descartada? ¿fue verificada por otros? Si la lista está llena de piezas débiles, su longitud no la fortalece; solo la hace más larga. El método nos enseña a pesar, no a contar — y esa es una de las distinciones más útiles que este libro puede ofrecer, porque se aplica a cualquier discusión sobre evidencia, dentro y fuera del tema de las civilizaciones perdidas.
+
 ## La verificación en la práctica
 
 Hasta aquí, los cinco criterios parecen abstractos. Conviene verlos funcionar juntos en un ejemplo concreto, para que veas cómo se aplican y por qué son más que una lista.
@@ -161,6 +169,14 @@ El segundo precio es más sutil y quizá más grave: **el costo de oportunidad.*
 El tercer precio es el que menos se menciona, y es el que más me importa en este libro: **el costo para el que cree.** Una persona que se ha entregado a una afirmación falsa —que ha invertido su entusiasmo, su tiempo y a veces su dinero en ella— no solo pierde la idea: pierde, a menudo, la confianza en su propia capacidad de juzgar. Cuando la evidencia se derrumba, no dice "me equivoqué en este caso"; dice "no puedo distinguir lo verdadero de lo falso, y mejor no fiarme de nada". Esa desilusión es la peor cosecha de los falsos positivos: convierte a una persona curiosa en una persona escéptica de todo, incluso de lo que merece crédito.
 
 Estos tres precios —la credibilidad, la oportunidad y la confianza del creyente— son la razón por la que el estándar no es un lujo. Es una protección: protege el campo de los campos, los recursos de la dispersión y a las personas de la desilusión. Y es por eso que, cuando en este libro rechazamos un hallazgo por no cumplir los cinco criterios, no lo hacemos por desdén ni por esnobismo. Lo hacemos porque sabemos el precio de no hacerlo — y porque queremos que lo poco sólido que queda se aprecie en su justo valor, sin ahogarse en el ruido de los accidentes.
+
+## El escepticismo bien entendido
+
+Hay una idea sobre el escepticismo que conviene aclarar, porque el término se usa a menudo con un significado equivocado — y porque una de las barreras para aplicar este estándar es el miedo a ser llamado "escéptico" como si fuera un insulto.
+
+El escepticismo, bien entendido, no es la negación de todo ni la desconfianza sistemática. Es exactamente lo contrario: es la disposición a examinar, a verificar, a pesar la evidencia antes de decidir. El escéptico maduro no dice "no creo en nada"; dice "quiero ver qué sostiene cada afirmación antes de aceptarla". No rechaza lo extraordinario por ser extraordinario; lo examina con un estándar más alto, porque una afirmación extraordinaria merece una evidencia a la altura. Y está dispuesto a cambiar de opinión cuando la evidencia lo justifica — lo que lo distingue del dogmático, que cree lo mismo siempre, y del crédulo, que acepta sin examen.
+
+Este es el tipo de escepticismo que este libro propone, y conviene que el lector lo entienda bien para no malinterpretar el método. No se trata de ser hostil a las teorías de civilizaciones perdidas; se trata de aplicarlas el mismo estándar que se aplica a cualquier otra afirmación. Se trata de no tener miedo de pedir evidencia, de no avergonzarse de verificar, de no dejarse llevar por el deseo de que algo sea cierto. Y se trata, sobre todo, de mantener la pregunta abierta —ni afirmada ni negada— hasta que la evidencia la decida. Ese escepticismo, lejos de ser un enemigo de la maravilla, es su mejor amigo: porque solo lo verificado con honestidad puede maravillar sin desvanecerse.
 
 ## La carga de la prueba
 
