@@ -202,6 +202,16 @@ La Esfinge es valiosa porque nos permite practicar el método en su forma más c
 
 Hay otra razón por la que la Esfinge es un buen punto de partida, y es quizá la más importante para el lector. Este es el caso donde la tentación de creer es más fuerte, porque la teoría es seductora y el monumento es imponente. Y sin embargo, cuando se aplica el método, la conclusión no es la que la tentación sugería: no hay una civilización perdida. Si podemos resistir la tentación aquí, en el caso más atractivo, habremos ganado la disciplina que necesitamos para los demás.
 
+## La tentación de leer la grandeza como misterio
+
+Hay una observación que conviene hacer sobre la psicología de este caso, porque explica por qué la teoría de la Esfinge antigua resulta tan seductora, y por qué el método es tan necesario aquí. Se trata de la tentación de confundir la grandeza con el misterio — de suponer que un monumento tan imponente no puede ser obra de la civilización que conocemos, y que por tanto debe esconder algo más.
+
+Es una tentación comprensible. La Esfinge, vista en persona, es abrumadora: setenta y tres metros de piedra tallada, una figura que parece anterior a la historia, una mirada que atraviesa los siglos. Frente a esa presencia, la idea de que "solo" la construyó la civilización egipcia del Reino Antiguo puede parecer insuficiente — como si la grandeza exigiera un origen extraordinario. Pero aquí es donde el método nos detiene: la grandeza no es evidencia de un origen misterioso; es evidencia de una capacidad real, que la arqueología documenta. La Cuarta Dinastía construyó las pirámides —las estructuras más masivas de la antigüedad— con una organización y un ingenio asombrosos. Que la Esfinge sea grandiosa no la convierte en anterior a esa capacidad; la sitúa, precisamente, dentro de ella.
+
+Hay una palabra para esta tentación, y es útil reconocerla: la tendencia a pensar que "lo que es asombroso debe ser inexplicable". Es el reverso del error que hemos señalado: así como la credulidad ve misterio donde hay historia, esta tentación ve imposibilidad donde hay capacidad humana documentada. Y ambas se corrigen con el mismo gesto: volver a los hechos. ¿Qué sabemos que hizo esa civilización? Lo sabemos, y es mucho. ¿Requiere la Esfinge algo más que esa capacidad? La evidencia no lo demuestra. La grandeza, bien entendida, no es un argumento a favor del misterio; es un argumento a favor de la capacidad humana que la produjo. Y reconocerlo —admirar la grandeza sin convertirla en fantasía— es una de las formas más maduras de apreciar el pasado.
+
+Esta lección, además, se repetirá en todo el libro, y conviene que el lector la reconozca desde ahora. Cada vez que un monumento antiguo parezca "demasiado grande" para su época, la pregunta no es "¿qué civilización perdida lo hizo?", sino "¿qué sabemos que hizo esa cultura, y alcanza para explicarlo?". La respuesta, casi siempre, es que sí alcanza — y que la grandeza es una prueba de la capacidad real, no de un origen misterioso. Esa es la lección que la Esfinge nos deja, y es la que llevaremos a todos los casos siguientes: no leer la grandeza como un enigma, sino como un logro humano digno de admiración.
+
 ## El veredicto etiquetado
 
 Apliquemos ahora, con cuidado, las seis etiquetas del método a este caso.

@@ -252,6 +252,16 @@ El método es el antídoto contra la pareidolia. No porque elimine la tendencia 
 
 Hay una regla práctica que se deriva de esto, y que conviene conservar: **cuanto más perfecto parece un patrón, más sospechoso es confiar solo en la impresión.** Porque la naturaleza produce patrones sorprendentes con frecuencia, y el cerebro humano los interpreta como intencionados. La única manera de distinguir un patrón real de uno imaginado es la verificación —contexto, artefacto, datación. Y esa verificación es lo que falta en ambos casos de este capítulo.
 
+## La tentación de la escala
+
+Hay una observación que conviene hacer sobre las ciudades sumergidas, porque toca la raíz de por qué son tan cautivadoras: la tentación de la escala. Y entender esa tentación nos ayuda a ver por qué el método es tan necesario aquí.
+
+Una ciudad sumergida es, por definición, un descubrimiento de escala enorme. No es un objeto pequeño ni una anomalía aislada; es, si fuera real, un asentamiento entero, una sociedad, un mundo. Esa escala es parte de su atractivo: promete algo mucho más grande que una reliquia, algo que reescribiría la historia. Y esa promesa de escala —la idea de que bajo el agua yace un mundo perdido— es tan poderosa que tiende a arrastrar el juicio. Frente a una forma de sonar o una terraza de arenisca, la mente salta a la posibilidad de una ciudad entera, y esa posibilidad llena la imaginación.
+
+Pero aquí está la lección del método: la escala de la afirmación no cambia la exigencia de la evidencia. Una afirmación de una ciudad entera no necesita menos prueba que una de un objeto pequeño; necesita más. Porque cuanto mayor es la afirmación, mayor es la carga de demostrarla. Una terraza que "parece" un escalón no se convierte en una ciudad por el deseo de que lo sea; se convierte en una ciudad solo con la evidencia —excavación, contexto, artefactos— que lo demuestre. Y en Yonaguni y en Cambay, esa evidencia no existe. La tentación de la escala nos hace querer ver una ciudad donde hay una forma; el método nos obliga a verificar qué es esa forma antes de llamarla ciudad.
+
+Hay una conexión entre esta tentación y todo el libro que conviene señalar. En cada caso, hemos visto cómo una afirmación grande —una Esfinge de 10.000 años, un continente perdido, una guerra nuclear— se apoya en una evidencia pequeña. Las ciudades sumergidas son el caso extremo: la afirmación es de una escala máxima (una ciudad, una civilización) y la evidencia es mínima (formas, dragados, fechas aisladas). Esa desproporción, tan clara aquí, es el patrón de toda la literatura "perdida". Y reconocerla —saber que la magnitud de la afirmación debe corresponderse con la magnitud de la evidencia— es una de las herramientas más útiles que este libro entrega. Cuando alguien anuncie un descubrimiento enorme, la pregunta no es "¿es emocionante?", sino "¿la evidencia está a la altura?". Y casi siempre, como en las ciudades sumergidas, la respuesta es que no.
+
 ## La lección del capítulo
 
 Hay una lección general en este capítulo, y es quizá la más práctica de toda la segunda parte, porque se aplica directamente a cualquier imagen de "ruinas bajo el agua" que circula por internet.

@@ -228,6 +228,16 @@ Hay una observación adicional que conviene hacer, porque corrige una idea que a
 
 Esta es una distinción que el método valora especialmente, porque es sutil y fácil de pasar por alto. No se trata de decir "no hay evidencia, luego no existió" — ese sería el error del desdén. Se trata de decir: "hay un registro, el registro no muestra una civilización avanzada, y la subida del mar no basta para explicar su ausencia total". Es una afirmación más precisa y más honesta que un simple "no hay evidencia". Reconoce que la búsqueda en las costas es difícil, pero señala que la ausencia se extiende mucho más allá de las costas, hasta el interior del continente, donde el registro es más completo. Y esa amplitud de la ausencia es lo que hace que la hipótesis de una civilización perdida sea difícil de sostener.
 
+## El poder narrativo del apocalipsis
+
+Hay una observación que conviene hacer sobre la psicología de este capítulo, porque explica por qué las historias de catástrofes que destruyen civilizaciones son tan irresistibles: el poder narrativo del apocalipsis. Y entender ese poder nos ayuda a ver por qué la regla anti-error —no convertir la catástrofe en civilización— es tan necesaria, y tan fácil de olvidar.
+
+Un apocalipsis es una de las historias más poderosas que existen. Un cometa que cae del cielo, un continente que se hunde, un fuego que consume un imperio: son imágenes que conmueven, que fascinan, que se graban en la memoria. El apocalipsis tiene la estructura perfecta de una narrativa: un mundo que era grande, una fuerza que lo destruye, y una pregunta que queda —¿qué se perdió?. Esa estructura es irresistible, y la literatura "perdida" la explota con maestría. Cada catástrofe real o imaginaria se convierte en el telón de fondo de una historia de pérdida y de misterio.
+
+Pero aquí está la lección del método: el poder narrativo del apocalipsis no es evidencia. Que una historia de destrucción sea conmovedora, o que un evento sea real, no prueba que existiera una civilización que lo sufrió. El relato y el hecho son cosas distintas. Un apocalipsis puede ocurrir sin que haya ninguna civilización que destruir — y la evidencia de este capítulo, de hecho, apunta precisamente en esa dirección. La narrativa del apocalipsis nos arrastra hacia la conclusión (que hubo un mundo perdido) sin que la evidencia la sostenga.
+
+El método es el contrapeso a ese poder narrativo. No porque sea insensible a la fuerza de la historia —el apocalipsis conmueve, y es legítimo que conmueva—, sino porque se niega a dejar que la emoción del relato sustituya al examen de la evidencia. Ante una historia de catástrofe, el método pregunta: ¿qué evidencia hay de la civilización, más allá de la catástrofe? ¿Hay artefactos, estructuras, contexto? Si la respuesta es "nada", entonces la historia puede ser conmovedora, pero no es una prueba. Y esa disciplina —dejarse conmover sin dejarse convencer— es una de las más difíciles y de las más valiosas que este libro puede enseñar. Porque las historias poderosas nos rodean siempre, y la capacidad de disfrutarlas sin confundirlas con hechos es la que nos protege del engaño.
+
 ## El veredicto etiquetado
 
 Apliquemos las seis etiquetas a los dos casos principales de este capítulo, por separado, porque tienen estados distintos.

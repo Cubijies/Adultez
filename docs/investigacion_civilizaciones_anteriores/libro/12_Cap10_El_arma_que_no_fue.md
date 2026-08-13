@@ -258,6 +258,16 @@ Este capítulo ha sido, en ese sentido, una demostración del poder del hábito.
 
 Y hay una dimensión de este hábito que conviene subrayar, porque le da su verdadero valor. La verificación no es un gesto de desconfianza hacia los demás; es un gesto de respeto hacia la verdad y hacia uno mismo. Al verificar, no estás diciendo "mientes"; estás diciendo "quiero estar seguro". Ese matiz importa, porque convierte el hábito de verificar en algo constructivo, no en algo suspicaz. El lector que verifica no es el que desconfía de todo; es el que quiere que sus creencias descansen sobre algo sólido. Y en un mundo lleno de citas repetidas y afirmaciones sin fuente, esa es una de las habilidades más valiosas que una persona puede desarrollar — más valiosa, quizá, que cualquier conocimiento concreto que este libro pueda dar.
 
+## El atractivo de la tecnología prohibida
+
+Hay una observación que conviene hacer sobre el caso del Mahābhārata, porque explica por qué la afirmación de las "armas nucleares" ha tenido tanto éxito: el atractivo de la tecnología prohibida. Y entender ese atractivo nos ayuda a ver por qué esta teoría, a pesar de no tener base en el texto, sigue circulando con tanta vitalidad.
+
+La idea de una tecnología prohibida —un conocimiento que existió en el pasado y que se perdió, o que se oculta— tiene un poder emocional enorme. Sugiere que hubo un mundo que sabía más de lo que se cree, que el progreso no es lineal, que tal vez retrocedimos. Y, sobre todo, sugiere un secreto: que hay algo que la historia oficial no nos cuenta. En el caso del Mahābhārata, la tecnología prohibida es la nuclear: si el poema la describe, entonces la India antigua —o una civilización anterior— tuvo armas que solo nosotros, supuestamente, hemos redescubierto. Esa idea es irresistible, porque combina el misterio, el asombro y la transgresión.
+
+Pero aquí está la lección del método: el atractivo de una idea no es evidencia de su verdad. Que la idea de una tecnología nuclear antigua sea fascinante no hace que el poema la describa; para saberlo, hay que ir al texto y cotejar. Y el cotejo, como hemos visto, revela que el pasaje describe un arma de fuego divina con hipérbole épica, no una bomba nuclear. La fascinación por la tecnología prohibida nos lleva a querer verla en el texto; el método nos obliga a ver lo que el texto realmente dice. Y lo que dice es otra cosa — no menos maravilloso, sino maravilloso de otro modo: la grandeza de una gran epopeya, no el supuesto secreto de un arsenal antiguo.
+
+Hay una conexión con todo el libro que conviene señalar. El atractivo de la tecnología prohibida es una variante del patrón que hemos visto en cada capítulo: la tendencia a leer en los hechos lo que la imaginación desea, en lugar de lo que la evidencia sostiene. Y el método es el mismo contrapeso: volver a los hechos, examinarlos con cuidado, y dejar que la evidencia decida. En el Mahābhārata, los hechos son claros: el texto existe, el pasaje está localizado, la cita viral no corresponde al original. La tecnología prohibida no está en el poema; está en el deseo de encontrarla. Y reconocer esa diferencia —entre el deseo y el texto— es, quizá, la lección más limpia de todo este capítulo y de todo el libro.
+
 ## La pregunta que queda
 
 ¿Cómo se sabría, en este caso? ¿Qué dato decidiría la cuestión?

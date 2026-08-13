@@ -220,6 +220,16 @@ Hay, además, un fenómeno que conviene reconocer: el mercado de lo extraordinar
 
 El método es el contrapeso. No por desconfianza hacia los autores, sino por la naturaleza de la evidencia: una afirmación extraordinaria necesita una evidencia extraordinaria, y la popularidad no la proporciona. Cuando examines una teoría sobre visitantes o dioses antiguos, separa la evidencia de la recepción: cuántos la han repetido no dice nada sobre cuánta verdad contiene.
 
+## El atractivo de la explicación única
+
+Hay una observación que conviene hacer sobre la familia de teorías de este capítulo, porque toca la raíz de su atractivo: la fascinación por la explicación única. Y entender esa fascinación nos ayuda a ver por qué estas teorías persisten, y por qué el método es tan necesario.
+
+Una explicación única —"los dioses eran visitantes", "la tecnología vino de otro lugar", "los antiguos tuvieron un conocimiento perdido"— tiene un poder enorme: resuelve de golpe una maraña de misterios con una sola idea. Es elegante, es memorable, es emocionante. En lugar de investigar caso por caso cómo los egipcios movieron sus bloques, o cómo los mayas hicieron sus calendarios, o cómo los griegos construyeron sus máquinas, la explicación única lo atribuye todo a una causa misteriosa. Y esa economía mental es irresistible: ahorra trabajo, produce asombro, y da una sensación de haber entendido el secreto del pasado.
+
+Pero aquí está la lección del método: la elegancia de una explicación no es evidencia de su verdad. Una explicación única puede ser maravillosamente simple y ser falsa; de hecho, las explicaciones demasiado simples suelen serlo, porque no hacen el trabajo de examinar los hechos uno por uno. La historia real de la antigüedad es compleja: los egipcios, los mayas, los griegos y los chinos llegaron a sus logros por caminos distintos, con esfuerzos distintos, acumulando conocimiento durante generaciones. Atribuirlo todo a una causa misteriosa no es entender esa historia; es saltarla. El método nos obliga a hacer el trabajo que la explicación única evita: examinar cada logro en su contexto, y reconocer que la realidad —compleja, trabajosa, acumulativa— es más interesante que cualquier atajo.
+
+Hay una conexión con todo el libro que conviene señalar. La explicación única es la forma más pura de la sobrelectura: toma hechos diversos y les impone una sola atribución extraordinaria, sin examinarlos. Y en cada capítulo hemos visto cómo el método la deshace, volviendo a los hechos y preguntando qué dice cada uno. La lección de este capítulo es la lección del libro entero: desconfiar de la explicación única que promete resolverlo todo con un gesto, y hacer el trabajo —paciente, caso por caso— que la realidad exige. Porque la realidad, examinada con cuidado, es más rica y más admirable que cualquier atajo, y el atajo, por elegante que sea, casi nunca es verdadero.
+
 ## El veredicto etiquetado
 
 Apliquemos las seis etiquetas a las tres capas de este capítulo.

@@ -212,6 +212,16 @@ Este es un patrón que se repetirá en todo el libro, y vale la pena nombrarlo c
 
 El método no nos pide que dejemos de asombrarnos; nos pide que asombremos en la dirección correcta. Y eso, a menudo, es más gratificante: la maravilla bien fundada no se desvanece al examinarla, como sí lo hace la maravilla construida sobre una ilusión.
 
+## El mapa como objeto de deseo
+
+Hay una observación que conviene hacer sobre la psicología de este caso, porque explica por qué la teoría de los mapas ha tenido tanto éxito a pesar de la evidencia en contra. Es la observación de que el mapa, en la imaginación de quienes lo estudian, se convierte en algo más que un documento: se convierte en un objeto de deseo, una puerta a un mundo secreto que la ciencia oficial, según se cree, oculta.
+
+Es fácil entender por qué. Un mapa antiguo tiene un poder evocador enorme: sugiere que el conocimiento estaba ahí, que alguien sabía más de lo que se cree, que hay un secreto que desentrañar. La idea de que un almirante del siglo XVI guardaba, sin saberlo, la llave de un conocimiento perdido, es irresistible. Y esa fuerza del deseo —la esperanza de que el mapa esconda algo más que lo que muestra— es exactamente lo que el método debe frenar. Porque el deseo no cambia lo que el mapa muestra; solo cambia lo que queremos que muestre.
+
+Hay una lección general aquí que conviene fijar, porque se aplica a todos los casos del libro. Cuando un documento o un objeto despierta un deseo intenso —el deseo de que oculte un secreto, de que pruebe algo extraordinario—, ese deseo se vuelve un riesgo para el juicio. Nos empuja a leer en el objeto lo que queremos encontrar, y a descartar lo que no encaja. El método es el contrapeso: nos obliga a preguntar qué muestra realmente el objeto, no qué desearíamos que mostrara. No se trata de negar el deseo —es humano y comprensible—, sino de no dejar que sustituya a la evidencia. El mapa muestra lo que muestra; el deseo no lo cambia, solo lo embellece.
+
+Y esta observación conecta con algo que hemos visto a lo largo del libro: la diferencia entre mirar y ver. Cualquiera puede mirar un mapa antiguo y maravillarse; pocos se detienen a *ver* lo que realmente muestra —sus anotaciones, su proyección, su género, su contexto. El método es el ejercicio de ver: de ir más allá de la primera impresión y examinar el objeto con cuidado. En el caso de los mapas, ese examen revela que lo que el deseo ve (una Antártida secreta) no está en el documento (que muestra Sudamérica y un continente teórico). Y esa diferencia —entre el deseo que mira y el método que ve— es la que este libro ha intentado enseñar en cada página.
+
 ## El veredicto etiquetado
 
 Apliquemos las seis etiquetas del método a este caso.
