@@ -48,9 +48,9 @@ La controversia sobre la edad de la Esfinge no es nueva; tiene más de un siglo 
 
 A finales del siglo XIX y principios del XX, algunos observadores notaron que la erosión de la Esfinge era inusualmente profunda, y especularon sobre su antigüedad. Pero fue en el siglo XX cuando el debate se formalizó. En los años setenta, John Anthony West, un egiptólogo independiente (sin formación académica oficial), publicó *Serpent in the Sky*, donde retomó la idea de que la Esfinge presentaba erosión por agua. West se inspiró en la obra de R. A. Schwaller de Lubicz, un estudioso francés que había observado lo mismo años antes.
 
-West buscó un geólogo que examinara la evidencia, y lo encontró en Robert Schoch. En 1990, Schoch viajó a Guiza, examinó el monumento y las paredes del recinto, y se convenció de que la erosión no podía explicarse solo por el viento y la arena del desierto actual. En 1991, presentó sus conclusiones en una reunión de la Asociación Americana para el Avance de la Ciencia (AAAS), un foro científico importante. La noticia se difundió, y la Esfinge se convirtió en un caso célebre.
+West buscó un geólogo que examinara la evidencia, y lo encontró en Robert Schoch. En 1990, Schoch viajó a Guiza, examinó el monumento y las paredes del recinto, y se convenció de que la erosión no podía explicarse solo por el viento y la arena del desierto actual. En 1991, presentó sus conclusiones en una reunión de la Asociación Americana para el Avance de la Ciencia (AAAS), un foro científico importante.[^1] La noticia se difundió, y la Esfinge se convirtió en un caso célebre.
 
-Lo que hace este caso diferente de otras teorías de civilizaciones perdidas es que no murió en el sensacionalismo. Generó una respuesta académica seria. En 1992, la revista *Science* informó del debate. En 1995, Gauri y sus colegas publicaron su réplica geológica en *Geoarchaeology*. En 2001, Colin Reader publicó su análisis geomorfológico en *Archaeometry*. Y en 2015, Liritzis y su equipo publicaron la datación por luminiscencia de los templos en el *Journal of Cultural Heritage*.
+Lo que hace este caso diferente de otras teorías de civilizaciones perdidas es que no murió en el sensacionalismo. Generó una respuesta académica seria. En 1992, la revista *Science* informó del debate. En 1995, Gauri y sus colegas publicaron su réplica geológica en *Geoarchaeology*.[^2] En 2001, Colin Reader publicó su análisis geomorfológico en *Archaeometry*.[^3] Y en 2015, Liritzis y su equipo publicaron la datación por luminiscencia de los templos en el *Journal of Cultural Heritage*.[^4]
 
 Es decir: a diferencia de casi todo lo que examinaremos en este libro, la controversia de la Esfinge se libró, en parte, en el terreno de la ciencia revisada por pares. Hubo datos, hubo réplicas, hubo revistas académicas. Eso la convierte en el caso perfecto para aplicar el método: no tenemos que reconstruir el debate desde cero, ni depender de rumores; tenemos las publicaciones.
 
@@ -243,3 +243,15 @@ La transición no es arbitraria. La Esfinge nos ha enseñado a desconfiar de la 
 Con eso, cerramos el caso de la Esfinge. Hemos aplicado el método de principio a fin: hemos presentado la afirmación tal como circula, examinado la evidencia real, confrontado las interpretaciones rivales, identificado la contradicción central, encontrado una resolución intermedia, señalado el dato que falta, y emitido un veredicto etiquetado. Si algo has ganado en este capítulo, espero que sea la convicción de que estos casos no se resuelven con fe ni con desdén, sino con herramientas — y que las herramientas, aplicadas con paciencia, producen claridad.
 
 Ahora, a los mapas. La vara, esta vez, medirá líneas en lugar de piedra.
+
+---
+
+## Notas
+
+[^1]: Robert M. Schoch, "Redating the Great Sphinx of Giza", *KMT: A Modern Journal of Ancient Egypt* 3, n.º 2 (1992); presentación ante la AAAS, octubre de 1991. Véase también Robert M. Schoch y Robert Bauval, *Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization* (Rochester, VT: Inner Traditions, 2017). (DCA-000021; CLM-000001.)
+
+[^2]: K. Lal Gauri, John J. Sinai y Jayanta K. Bandyopadhyay, "Geologic Weathering and Its Implications on the Age of the Sphinx", *Geoarchaeology* 10, n.º 2 (1995): 119–133. (DCA-000012; CLM-000007.)
+
+[^3]: Colin D. Reader, "A Geomorphological Study of the Giza Necropolis, with Implications for the Development of the Site", *Archaeometry* 43, n.º 1 (2001): 149–165. (DCA-000021.)
+
+[^4]: Ioannis Liritzis y Asimina Vafiadou, "Surface Luminescence Dating of Some Egyptian Monuments", *Journal of Cultural Heritage* 16 (2015): 134–150. (DCA-000021; SLD de Guiza.)

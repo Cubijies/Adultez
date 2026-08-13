@@ -118,7 +118,7 @@ Este es, quizá, el ejemplo más claro de una ausencia de datos que no es una re
 
 Es importante ser honestos sobre esta ausencia, porque abre una puerta que la literatura "perdida" explota con frecuencia: "el océano es vasto, no sabemos lo que oculta". Es cierto que no lo sabemos. Pero, como vimos en el capítulo de Atlántida y Mu, la vastedad del océano no es un argumento a favor de una civilización perdida; es una razón para no cerrar la búsqueda. La diferencia es sutil pero crucial: la ausencia de exploración completa deja la pregunta abierta, pero no la sostiene. Una cosa es decir "no hemos buscado en todas partes"; otra, muy distinta, es decir "por tanto, existe". La primera es honesta; la segunda es un salto.
 
-**La hipótesis silúrica nos recuerda que la ausencia no es conclusiva.** Si una civilización industrial existió hace millones de años, podría ser casi invisible en el registro geológico. Esto no hace que la hipótesis sea *probable*; hace que no sea *descartable por la mera ausencia*.
+**La hipótesis silúrica nos recuerda que la ausencia no es conclusiva.**[^1] Si una civilización industrial existió hace millones de años, podría ser casi invisible en el registro geológico. Esto no hace que la hipótesis sea *probable*; hace que no sea *descartable por la mera ausencia*.
 
 Esta es la lección más incómoda de todo el libro, y la más importante para no confundir la ausencia con la refutación. La hipótesis silúrica no dice que existió una civilización previa; dice que, si existió, sería casi indetectable. Por tanto, la ausencia de evidencia no es un argumento concluyente en contra. Pero —y esto es crucial— tampoco es un argumento a favor. La ausencia deja la pregunta abierta en ambas direcciones: no refuta, pero no sostiene. El método nos obliga a mantener ese equilibrio, sin dejar que la ausencia se convierta ni en una refutación cómoda ni en una invitación a la fantasía.
 
@@ -201,3 +201,9 @@ Hay, además, una última observación que conviene hacer antes de cerrar, porqu
 **La pregunta que queda:** si el veredicto es "no se sabe, y he aquí cómo saberse", entonces el último paso es formular ese "cómo" con precisión. ¿Qué protocolo concreto permitiría, algún día, responder la gran pregunta? Eso es lo que examinamos en el capítulo siguiente, el último del libro.
 
 Porque saber que "no se sabe" no basta: hace falta saber qué habría que hacer para saberlo. Y ese protocolo —los cinco criterios, las preguntas que hacer, los datos que buscar— es el que convierte la incertidumbre en un camino. Es, en cierto modo, el regalo final del libro: no la respuesta, sino la manera de buscarla, formulada con la precisión que permite distinguir, algún día, el hallazgo real del accidente, la evidencia de la fantasía, y la civilización perdida de la que no lo es. Ese es el protocolo que nos espera, y es el que cierra el viaje y da sentido a todo el libro.
+
+---
+
+## Notas
+
+[^1]: Gavin A. Schmidt y Adam Frank, "The Silurian Hypothesis", *International Journal of Astrobiology* 18 (2019): 142–150; Jason T. Wright, "Prior Indigenous Technological Species", *International Journal of Astrobiology* 17 (2018): 96–100. Para las tecnofirmas, véase NASA, *NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop* (2018). (H01, H02, H03.)

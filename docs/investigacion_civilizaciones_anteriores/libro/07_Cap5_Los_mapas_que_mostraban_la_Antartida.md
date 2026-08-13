@@ -1,6 +1,6 @@
 # Capítulo 5. Los mapas que "mostraban" la Antártida
 
-En 1513, un almirante otomano llamado Piri Reis terminó un mapa que hoy se conserva en el palacio de Topkapi, en Estambul. Es una obra notable: un mapa del mundo que muestra con sorprendente detalle las costas del Atlántico, África occidental y la parte oriental de América del Sur, compilado a partir de fuentes anteriores que incluían, según su autor, mapas de los antiguos y cartas de los exploradores de su tiempo, entre ellos Cristóbal Colón.
+En 1513, un almirante otomano llamado Piri Reis terminó un mapa que hoy se conserva en el palacio de Topkapi, en Estambul.[^1] Es una obra notable: un mapa del mundo que muestra con sorprendente detalle las costas del Atlántico, África occidental y la parte oriental de América del Sur, compilado a partir de fuentes anteriores que incluían, según su autor, mapas de los antiguos y cartas de los exploradores de su tiempo, entre ellos Cristóbal Colón.
 
 Durante siglos, el mapa de Piri Reis fue una pieza de museo — fascinante, pero sin controversia. Todo cambió en la década de 1960, cuando alguien miró el borde meridional del mapa, esa franja de costa que se curva hacia el sur, y creyó ver algo imposible: la Antártida. Y no una Antártida cualquiera, sino la Antártida *sin hielo*, con sus ríos y montañas, tal como habría estado en una era anterior a la glaciación.
 
@@ -14,9 +14,9 @@ Antes de examinar la evidencia, conviene que tengamos clara la afirmación en su
 
 La versión básica dice que el mapa de Piri Reis muestra la Antártida. La versión ampliada añade que la muestra *sin hielo*, con la costa real bajo el glaciar, tal como la revelaron los sondeos sísmicos del siglo XX. Y la versión más ambiciosa concluye que, por tanto, el mapa solo pudo elaborarse a partir de fuentes mucho más antiguas, de una civilización que cartografió la Tierra en una era remota.
 
-A esta primera afirmación se suma, en la literatura "perdida", un segundo mapa, aún más espectacular a primera vista: el mapa de **Oronteus Finaeus** (o Oronce Fine, cartógrafo francés), de 1531. Este mapa muestra un gran continente meridional que, a escala, recuerda poderosamente a la Antártida, con ríos, montañas y una costa que parece detallada. Los partidarios de la teoría lo consideran la "prueba" definitiva: aquí no es un fragmento de costa, sino todo un continente, dibujado con una precisión que, según ellos, solo pudo venir de una fuente antigua.
+A esta primera afirmación se suma, en la literatura "perdida", un segundo mapa, aún más espectacular a primera vista: el mapa de **Oronteus Finaeus** (o Oronce Fine, cartógrafo francés), de 1531.[^2] Este mapa muestra un gran continente meridional que, a escala, recuerda poderosamente a la Antártida, con ríos, montañas y una costa que parece detallada. Los partidarios de la teoría lo consideran la "prueba" definitiva: aquí no es un fragmento de costa, sino todo un continente, dibujado con una precisión que, según ellos, solo pudo venir de una fuente antigua.
 
-Estos dos mapas —Piri Reis y Oronteus Finaeus— son los pilares de la afirmación. Y sobre ellos, el escritor Charles Hapgood construyó, en su libro *Maps of the Ancient Sea Kings* (1966), la teoría más influyente: la existencia de una antigua civilización cartográfica que habría mapeado la Tierra, incluida la Antártida, y cuyos conocimientos se habrían transmitido a través de los siglos hasta llegar a los cartógrafos renacentistas.
+Estos dos mapas —Piri Reis y Oronteus Finaeus— son los pilares de la afirmación. Y sobre ellos, el escritor Charles Hapgood construyó, en su libro *Maps of the Ancient Sea Kings* (1966), la teoría más influyente[^3]: la existencia de una antigua civilización cartográfica que habría mapeado la Tierra, incluida la Antártida, y cuyos conocimientos se habrían transmitido a través de los siglos hasta llegar a los cartógrafos renacentistas.
 
 La teoría de Hapgood es, en muchos sentidos, la más elegante de la literatura "perdida". No invoca extraterrestres ni misterios sobrenaturales; invoca una civilización antigua, avanzada pero humana, cuyos mapas habrían sobrevivido en copias y recopilaciones. Es una historia atractiva, y ha influido en escritores posteriores como Graham Hancock, que la han difundido ampliamente. Y, como veremos, no sobrevive al examen de los datos.
 
@@ -283,3 +283,13 @@ La transición, de nuevo, no es arbitraria. La Esfinge nos enseñó a desconfiar
 **La pregunta que queda:** si los mapas no sostienen la civilización cartográfica perdida, ¿qué pasa con los continentes que se hundieron — Atlántida y Mu? ¿Tendrán más suerte los mitos y las tablillas que las líneas de los mapas? Eso es lo que examinamos en el capítulo siguiente.
 
 Y en ese examen, llevaremos con nosotros todo lo aprendido: la carga de la prueba, la búsqueda de la explicación natural, la desconfianza ante el ajuste retroactivo y la coincidencia forzada, y la distinción entre lo que una historia dice y lo que la evidencia sostiene. Porque Atlántida y Mu, como veremos, plantean la pregunta más antigua del método: ¿qué hace falta para que una tradición, por venerable y antigua que sea, se convierta en un hecho? Y esa pregunta, como todas las de este libro, se responde con la misma vara: hechos, interpretaciones, hipótesis, especulaciones, contradicciones y ausencia de datos — medidas con calma y sin prisa.
+
+---
+
+## Notas
+
+[^1]: El mapa de Piri Reis (1513) se conserva en la Biblioteca del Palacio de Topkapi, Estambul (ms. 1480). Para el análisis cartográfico, véase Steven Dutch, "The Piri Reis Map" (1998). (DCA-000019; CLM-000027.)
+
+[^2]: Oronce Fine (Oronteus Finaeus), *Nova et integra universi orbis descriptio*, 1531. Para la lectura crítica, véase "The Orontius Finaeus Map", *Bad Archaeology* (2011). (DCA-000019.)
+
+[^3]: Charles H. Hapgood, *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age* (Nueva York: Chilton Books, 1966). La difusión popular posterior incluye Graham Hancock, *Fingerprints of the Gods* (Londres: William Heinemann, 1995). (DCA-000019; CLM-000027, 000032–000034.)

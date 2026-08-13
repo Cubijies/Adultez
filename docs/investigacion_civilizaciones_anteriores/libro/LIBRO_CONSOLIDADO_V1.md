@@ -4,9 +4,55 @@
 
 *Investigación narrativa · no ficción*
 
-**Estado:** Cuerpo completo — Prólogo, Introducción, Caps. 1–12. Todos cumplen la extensión del Canon Editorial.
+**Estado final:** Prólogo, Introducción, Caps. 1–12 y Epílogo (cuerpo completo), más el aparato (glosario, bibliografía Chicago, apéndices A–C e índice analítico). Todas las piezas del cuerpo cumplen la extensión del Canon Editorial (verificado con `scripts/check_libro_ext.py`).
 
 ---
+# Prólogo
+Por qué escribí esto.
+
+## Introducción
+Cómo leer este libro: la pregunta, el método, el mapa de la obra y el contrato con el lector.
+
+## Parte I — La pregunta
+1. La pregunta prohibida
+2. El estándar de la evidencia
+3. Las huellas reales de la prehistoria profunda
+
+## Parte II — Los casos
+4. La Esfinge y su enigma
+5. Los mapas que "mostraban" la Antártida
+6. Atlántida y Mu: los continentes que se hundieron
+7. Cuando el cielo cayó
+8. Las ciudades sumergidas
+9. Los dioses, los astros y las máquinas
+10. El arma que no fue
+
+## Parte III — Lo que queda
+11. Lo que sabemos y lo que no
+12. Cómo se sabría
+
+## Epílogo
+El sedimento y la vara del método.
+
+---
+
+## Aparato
+- **Glosario** — 53 términos técnicos y nombres propios.
+- **Bibliografía** — 66 entradas en estilo Chicago 17.ª.
+- **Apéndice A.** Protocolo de verificación (6 etiquetas, 5 criterios, 5 preguntas).
+- **Apéndice B.** Catálogo de casos.
+- **Apéndice C.** Tabla de estados probatorios.
+- **Índice analítico.**
+
+---
+
+*El libro se apoya en un proyecto documental trazable: 28 fuentes, 37 afirmaciones consolidadas, 33 hallazgos de evidencia primaria, cotejo Mahābhārata resuelto.*
+
+*Todas las piezas del cuerpo cumplen la auditoría de extensión del Canon Editorial (verificado con `scripts/check_libro_ext.py`).*
+
+
+---
+
 
 # Prólogo
 
@@ -110,7 +156,9 @@ Hay, sin embargo, una advertencia que debo hacer antes de que pases la página. 
 
 Empecemos.
 
+
 ---
+
 
 # Introducción
 
@@ -237,7 +285,9 @@ Si aceptas ese doble desafío —dudar de lo que te han contado y dudar también
 
 Porque hay una diferencia entre hacer una pregunta y hacerla bien. Hacerla mal es aceptar la primera respuesta que nos gusta, o descartarla porque la compañía es mala. Hacerla bien es armarse de método, examinar cada caso con las seis etiquetas, soportar la ambigüedad de "no se sabe", y seguir buscando. Eso es lo que vamos a hacer en las páginas que siguen: no responder la pregunta de una vez por todas, sino aprender a hacerla como merece. Y ese aprendizaje, aunque no te lo parezca ahora, es el verdadero viaje.
 
+
 ---
+
 
 # Capítulo 1. La pregunta prohibida
 
@@ -275,7 +325,7 @@ Es importante no exagerar ni minimizar esto. No digo que en ese abismo *hubiera*
 
 ## El experimento mental de los astrofísicos
 
-En 2019, dos astrofísicos, Gavin Schmidt y Adam Frank, publicaron un artículo que cambió la forma de pensar esta pregunta. Se titulaba *"The Silurian Hypothesis"* —la hipótesis silúrica— y planteaba una cuestión aparentemente simple pero de consecuencias enormes: si existió una civilización industrial en la Tierra hace millones de años, ¿qué huellas habría dejado en el registro geológico? ¿Cómo la detectaríamos? ¿Y qué señales buscaríamos para saber que estuvo aquí?
+En 2019, dos astrofísicos, Gavin Schmidt y Adam Frank, publicaron un artículo que cambió la forma de pensar esta pregunta. Se titulaba *"The Silurian Hypothesis"* —la hipótesis silúrica—[^1] y planteaba una cuestión aparentemente simple pero de consecuencias enormes: si existió una civilización industrial en la Tierra hace millones de años, ¿qué huellas habría dejado en el registro geológico? ¿Cómo la detectaríamos? ¿Y qué señales buscaríamos para saber que estuvo aquí?
 
 La respuesta fue sorprendente, y es importante entender por qué, porque toca el corazón de todo lo que sigue en este libro. Schmidt y Frank no afirmaban que esa civilización existiera. Eran explícitos al respecto: no proponían que hubiera habido una, solo preguntaban *qué señal dejaría*. Su artículo era un experimento mental, una manera de pensar, no una afirmación sobre el pasado. Y su conclusión fue que una civilización industrial, incluso de la escala de la nuestra, podría ser **casi invisible** en el registro geológico después de millones de años.
 
@@ -285,7 +335,7 @@ Este experimento mental es profundamente incómodo, y conviene detenerse en por 
 
 Y aquí hay una ironía que vale la pena subrayar. La hipótesis silúrica, que a primera vista parece dar alas a las teorías de civilizaciones perdidas, en realidad hace lo contrario. No porque niegue la posibilidad, sino porque la sitúa en su justo lugar: como una posibilidad que, en ausencia de evidencia positiva, no puede afirmarse. Schmidt y Frank no están diciendo "pudo haber una civilización, luego probablemente la hubo". Están diciendo "una civilización industrial podría ser casi invisible, luego la ausencia de ruinas no es un argumento ni a favor ni en contra; es un punto de partida para buscar mejor". La hipótesis silúrica no convierte la especulación en hecho; convierte la especulación en una pregunta legítima que requiere datos.
 
-Jason Wright, otro astrofísico, llevó la idea un paso más allá en 2018. Señaló que, si queremos buscar los restos de una civilización tecnológica anterior, el peor lugar para buscar es la superficie de la Tierra — porque se recicla continuamente, se erosiona, se pliega y se cubre. La corteza terrestre es un archivo que se destruye a sí mismo, y la mayor parte de cualquier registro antiguo habría sido borrada o enterrada más allá del alcance. Los mejores lugares, sugirió Wright, serían las superficies antiguas y no recicladas: el fondo de la Luna, que no tiene viento ni agua ni tectónica que lo borren, o Marte, que ha conservado su superficie durante miles de millones de años. Es una idea fascinante, y una que retomaremos en el último capítulo. Por ahora, basta con anotarla: la búsqueda no es absurda, solo requiere mirar en los lugares donde el tiempo conserva, no en donde borra.
+Jason Wright, otro astrofísico, llevó la idea un paso más allá en 2018.[^2] Señaló que, si queremos buscar los restos de una civilización tecnológica anterior, el peor lugar para buscar es la superficie de la Tierra — porque se recicla continuamente, se erosiona, se pliega y se cubre. La corteza terrestre es un archivo que se destruye a sí mismo, y la mayor parte de cualquier registro antiguo habría sido borrada o enterrada más allá del alcance. Los mejores lugares, sugirió Wright, serían las superficies antiguas y no recicladas: el fondo de la Luna, que no tiene viento ni agua ni tectónica que lo borren, o Marte, que ha conservado su superficie durante miles de millones de años. Es una idea fascinante, y una que retomaremos en el último capítulo. Por ahora, basta con anotarla: la búsqueda no es absurda, solo requiere mirar en los lugares donde el tiempo conserva, no en donde borra.
 
 Estas dos contribuciones —Schmidt y Frank, Wright— cambian el carácter de la pregunta. La sacan del terreno del misterio barato y la colocan en el terreno de la investigación seria. No la vuelven más probable; la vuelven *investigable*. Y eso, como veremos, es exactamente lo que este libro quiere hacer con cada uno de los casos que examinará.
 
@@ -412,6 +462,16 @@ La escala temporal, la hipótesis silúrica, las seis etiquetas, la regla de oro
 **La pregunta que queda:** ¿qué contaría como prueba? Ese es el terreno del capítulo siguiente.
 
 ---
+
+## Notas
+
+[^1]: Gavin A. Schmidt y Adam Frank, "The Silurian Hypothesis: Would It Be Possible to Detect an Industrial Civilization in the Geological Record?", *International Journal of Astrobiology* 18 (2019): 142–150. (H01.)
+
+[^2]: Jason T. Wright, "Prior Indigenous Technological Species", *International Journal of Astrobiology* 17 (2018): 96–100. (H02.)
+
+
+---
+
 
 # Capítulo 2. El estándar de la evidencia
 
@@ -651,7 +711,9 @@ Es un lugar común decir que "la verdad os hará libres". En este tema, la frase
 
 **La pregunta que queda:** el estándar está listo. Pero antes de usarlo, necesitamos ver con precisión qué es lo que la ciencia ha verificado de verdad en el pasado profundo — porque eso nos da la medida de todo lo demás. Vamos a ello.
 
+
 ---
+
 
 # Capítulo 3. Las huellas reales de la prehistoria profunda
 
@@ -689,7 +751,7 @@ Empecemos por el hallazgo que más altera nuestra imagen del pasado profundo: Ka
 
 En la frontera entre Zambia y Tanzania, junto a una cascada del río Kalambo, hay un yacimiento que se excava desde mediados del siglo XX. Es un lugar húmedo, anegado, y esa humedad es la clave de su valor: el agua sin oxígeno ha preservado materia orgánica que en casi cualquier otro lugar se habría descompuesto.
 
-Lo que se encontró allí, en los niveles más antiguos, es excepcional: **dos troncos de madera trabajados, con muescas talladas que permitían encajarlos transversalmente.** No son dos troncos apilados por casualidad; son dos piezas diseñadas para unirse, como las de una estructura. La datación por luminiscencia situó el hallazgo en al menos 476.000 años, y las herramientas de madera asociadas, en torno a 390.000–324.000 años.
+Lo que se encontró allí, en los niveles más antiguos, es excepcional: **dos troncos de madera trabajados, con muescas talladas que permitían encajarlos transversalmente.** No son dos troncos apilados por casualidad; son dos piezas diseñadas para unirse, como las de una estructura. La datación por luminiscencia situó el hallazgo en al menos 476.000 años, y las herramientas de madera asociadas, en torno a 390.000–324.000 años.[^1]
 
 Piensa en lo que esto significa. Hace casi medio millón de años, alguien —probablemente una especie humana anterior al *Homo sapiens*— tomó un tronco, lo talló con una muesca, tomó otro, lo talló con otra, y los encajó para formar una estructura. Eso requiere planificación, previsión, y la capacidad de pensar en términos de encaje y ensamblaje. Es la diferencia entre usar un palo y construir con él.
 
@@ -703,7 +765,7 @@ Hay, además, un detalle de Kalambo que conviene subrayar, porque revela cómo t
 
 El segundo control nos lleva a Europa, al suroeste de Francia, y a un hallazgo que todavía sorprende por su sofisticación.
 
-En la cueva de Bruniquel, a más de trescientos metros de la entrada —en la oscuridad total, donde no llega la luz del día—, los neandertales construyeron algo extraordinario. Rompieron columnas de roca caliza, los espeleotemas, y las dispusieron en círculos, con restos de fuego en el interior. La datación dio unos 176.000 años.
+En la cueva de Bruniquel, a más de trescientos metros de la entrada —en la oscuridad total, donde no llega la luz del día—, los neandertales construyeron algo extraordinario. Rompieron columnas de roca caliza, los espeleotemas, y las dispusieron en círculos, con restos de fuego en el interior. La datación dio unos 176.000 años.[^2]
 
 Para apreciar la magnitud, hay que imaginar la escena. Entrar a trescientos metros de profundidad en una cueva, en la oscuridad absoluta, sin lámparas modernas, exige fuego o antorchas. Transportar materiales de roca hasta ese punto, romperlos con la fuerza necesaria, y disponerlos en círculos regulares con fuego — eso es un proyecto organizado, con un propósito, que requirió planificación y cooperación. No fue improvisación.
 
@@ -719,7 +781,7 @@ El tercer control está en Alemania, en el yacimiento de Schöningen, y tiene un
 
 Se recuperaron allí **lanzas de madera completas**, de unos dos metros de largo, talladas con simetría y con el centro de gravedad hacia la punta — como una jabalina moderna. Junto a ellas, miles de herramientas de piedra y los restos de más de cincuenta caballos procesados. La interpretación es que un grupo organizado cazaba caballos en manada y los despiezaba: caza cooperativa, planificada, con armas fabricadas.
 
-Aquí viene el detalle que conviene no perder. Durante años, estas lanzas se citaron con una antigüedad de unos **400.000 años**. Era la cifra que aparecía en los libros, en los documentales, en las conferencias. Luego, una revisión más reciente con métodos geocronológicos de aminoácidos la corrigió: las lanzas tienen unos **200.000 años**, la mitad.
+Aquí viene el detalle que conviene no perder. Durante años, estas lanzas se citaron con una antigüedad de unos **400.000 años**. Era la cifra que aparecía en los libros, en los documentales, en las conferencias. Luego, una revisión más reciente con métodos geocronológicos de aminoácidos la corrigió: las lanzas tienen unos **200.000 años**, la mitad.[^3]
 
 ¿Por qué es tan valioso este detalle para nuestro método? Porque demuestra algo que este libro repetirá: **ninguna fecha es un dogma; toda fecha es un dato con un método detrás, y los métodos se corrigen.** La cifra de 400.000 años no era una mentira; era el resultado de un método que luego se perfeccionó. Pero mientras circuló, mucha gente la repitió como un hecho sólido, sin saber que era provisional.
 
@@ -743,7 +805,7 @@ Hay una reflexión que Flores invita a hacer, y que tiene que ver con el tema ce
 
 El quinto control es el más reciente en el calendario —hace unos once mil años— pero quizá el que más ha sacudido las ideas recibidas.
 
-En el sureste de Turquía, en Göbekli Tepe, se ha excavado un conjunto de enormes pilares de piedra dispuestos en círculos, algunos de varias toneladas, decorados con relieves de animales — serpientes, aves, jabalíes. La fecha es de alrededor de 11.000 años, y aquí está el detalle que lo hace tan importante: **fue construido por cazadores-recolectores, gente que aún no había domesticado plantas ni animales.**
+En el sureste de Turquía, en Göbekli Tepe, se ha excavado un conjunto de enormes pilares de piedra dispuestos en círculos, algunos de varias toneladas, decorados con relieves de animales — serpientes, aves, jabalíes. La fecha es de alrededor de 11.000 años, y aquí está el detalle que lo hace tan importante: **fue construido por cazadores-recolectores, gente que aún no había domesticado plantas ni animales.**[^4]
 
 Durante décadas, el relato dominante fue que la agricultura precedió a la arquitectura monumental: primero aprendiste a sembrar, luego te asentaste, luego construiste. Göbekli Tepe invierte el orden, o al menos lo complica: aquí hay arquitectura monumental *antes* de la agricultura. Esto sugiere que la capacidad de organizar grandes proyectos —coordinar a mucha gente, transportar piedra pesada, planificar— precedió al sedentarismo agrícola.
 
@@ -859,11 +921,23 @@ Con eso, la Parte I queda cerrada. La pregunta está formulada, el estándar est
 
 Conviene que recuerdes, mientras cruzamos a la segunda parte, la imagen de la vara. No es un instrumento que castiga; es un instrumento que mide. Cuando miremos la Esfinge, la vara nos dirá cuánto pesa cada afirmación. Cuando miremos los mapas, nos dirá qué muestra de verdad. Cuando miremos las ciudades sumergidas, nos dirá si son ciudades o formas. La vara no decide por nosotros; nos da la medida para que decidamos con fundamento. Y eso, como decía al principio, es lo mejor que un método puede ofrecer: no las respuestas, sino la capacidad de buscarlas sin engañarse.
 
-**La pregunta que queda:**
-
 **La pregunta que queda:** ya tenemos la vara. Ahora, al primer caso: la Gran Esfinge de Guiza.
 
 ---
+
+## Notas
+
+[^1]: Lawrence Barham et al., "Evidence for the Earliest Structural Use of Wood at Least 476,000 Years Ago", *Nature* 622 (2023): 458–462. (P01.)
+
+[^2]: Jacques Jaubert et al., "Early Neanderthal Constructions Deep in Bruniquel Cave in Southwestern France", *Nature* 534 (2016): 111–114; datación U/Th de 176,5 ± 2,1 ka. (P02.)
+
+[^3]: Karen Ruebens et al., "Revised Age for Schöningen Hunting Spears Indicates Intensification of Neanderthal Cooperative Behavior around 200,000 Years Ago", *Science Advances* 11 (2025): adv0752. (P03.)
+
+[^4]: Klaus Schmidt, "Göbekli Tepe – The Stone Age Sanctuaries", *Documenta Praehistorica* 37 (2010): 239–256. (P05.)
+
+
+---
+
 
 # Capítulo 4. La Esfinge y su enigma
 
@@ -915,9 +989,9 @@ La controversia sobre la edad de la Esfinge no es nueva; tiene más de un siglo 
 
 A finales del siglo XIX y principios del XX, algunos observadores notaron que la erosión de la Esfinge era inusualmente profunda, y especularon sobre su antigüedad. Pero fue en el siglo XX cuando el debate se formalizó. En los años setenta, John Anthony West, un egiptólogo independiente (sin formación académica oficial), publicó *Serpent in the Sky*, donde retomó la idea de que la Esfinge presentaba erosión por agua. West se inspiró en la obra de R. A. Schwaller de Lubicz, un estudioso francés que había observado lo mismo años antes.
 
-West buscó un geólogo que examinara la evidencia, y lo encontró en Robert Schoch. En 1990, Schoch viajó a Guiza, examinó el monumento y las paredes del recinto, y se convenció de que la erosión no podía explicarse solo por el viento y la arena del desierto actual. En 1991, presentó sus conclusiones en una reunión de la Asociación Americana para el Avance de la Ciencia (AAAS), un foro científico importante. La noticia se difundió, y la Esfinge se convirtió en un caso célebre.
+West buscó un geólogo que examinara la evidencia, y lo encontró en Robert Schoch. En 1990, Schoch viajó a Guiza, examinó el monumento y las paredes del recinto, y se convenció de que la erosión no podía explicarse solo por el viento y la arena del desierto actual. En 1991, presentó sus conclusiones en una reunión de la Asociación Americana para el Avance de la Ciencia (AAAS), un foro científico importante.[^1] La noticia se difundió, y la Esfinge se convirtió en un caso célebre.
 
-Lo que hace este caso diferente de otras teorías de civilizaciones perdidas es que no murió en el sensacionalismo. Generó una respuesta académica seria. En 1992, la revista *Science* informó del debate. En 1995, Gauri y sus colegas publicaron su réplica geológica en *Geoarchaeology*. En 2001, Colin Reader publicó su análisis geomorfológico en *Archaeometry*. Y en 2015, Liritzis y su equipo publicaron la datación por luminiscencia de los templos en el *Journal of Cultural Heritage*.
+Lo que hace este caso diferente de otras teorías de civilizaciones perdidas es que no murió en el sensacionalismo. Generó una respuesta académica seria. En 1992, la revista *Science* informó del debate. En 1995, Gauri y sus colegas publicaron su réplica geológica en *Geoarchaeology*.[^2] En 2001, Colin Reader publicó su análisis geomorfológico en *Archaeometry*.[^3] Y en 2015, Liritzis y su equipo publicaron la datación por luminiscencia de los templos en el *Journal of Cultural Heritage*.[^4]
 
 Es decir: a diferencia de casi todo lo que examinaremos en este libro, la controversia de la Esfinge se libró, en parte, en el terreno de la ciencia revisada por pares. Hubo datos, hubo réplicas, hubo revistas académicas. Eso la convierte en el caso perfecto para aplicar el método: no tenemos que reconstruir el debate desde cero, ni depender de rumores; tenemos las publicaciones.
 
@@ -1113,9 +1187,23 @@ Ahora, a los mapas. La vara, esta vez, medirá líneas en lugar de piedra.
 
 ---
 
+## Notas
+
+[^1]: Robert M. Schoch, "Redating the Great Sphinx of Giza", *KMT: A Modern Journal of Ancient Egypt* 3, n.º 2 (1992); presentación ante la AAAS, octubre de 1991. Véase también Robert M. Schoch y Robert Bauval, *Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization* (Rochester, VT: Inner Traditions, 2017). (DCA-000021; CLM-000001.)
+
+[^2]: K. Lal Gauri, John J. Sinai y Jayanta K. Bandyopadhyay, "Geologic Weathering and Its Implications on the Age of the Sphinx", *Geoarchaeology* 10, n.º 2 (1995): 119–133. (DCA-000012; CLM-000007.)
+
+[^3]: Colin D. Reader, "A Geomorphological Study of the Giza Necropolis, with Implications for the Development of the Site", *Archaeometry* 43, n.º 1 (2001): 149–165. (DCA-000021.)
+
+[^4]: Ioannis Liritzis y Asimina Vafiadou, "Surface Luminescence Dating of Some Egyptian Monuments", *Journal of Cultural Heritage* 16 (2015): 134–150. (DCA-000021; SLD de Guiza.)
+
+
+---
+
+
 # Capítulo 5. Los mapas que "mostraban" la Antártida
 
-En 1513, un almirante otomano llamado Piri Reis terminó un mapa que hoy se conserva en el palacio de Topkapi, en Estambul. Es una obra notable: un mapa del mundo que muestra con sorprendente detalle las costas del Atlántico, África occidental y la parte oriental de América del Sur, compilado a partir de fuentes anteriores que incluían, según su autor, mapas de los antiguos y cartas de los exploradores de su tiempo, entre ellos Cristóbal Colón.
+En 1513, un almirante otomano llamado Piri Reis terminó un mapa que hoy se conserva en el palacio de Topkapi, en Estambul.[^1] Es una obra notable: un mapa del mundo que muestra con sorprendente detalle las costas del Atlántico, África occidental y la parte oriental de América del Sur, compilado a partir de fuentes anteriores que incluían, según su autor, mapas de los antiguos y cartas de los exploradores de su tiempo, entre ellos Cristóbal Colón.
 
 Durante siglos, el mapa de Piri Reis fue una pieza de museo — fascinante, pero sin controversia. Todo cambió en la década de 1960, cuando alguien miró el borde meridional del mapa, esa franja de costa que se curva hacia el sur, y creyó ver algo imposible: la Antártida. Y no una Antártida cualquiera, sino la Antártida *sin hielo*, con sus ríos y montañas, tal como habría estado en una era anterior a la glaciación.
 
@@ -1129,9 +1217,9 @@ Antes de examinar la evidencia, conviene que tengamos clara la afirmación en su
 
 La versión básica dice que el mapa de Piri Reis muestra la Antártida. La versión ampliada añade que la muestra *sin hielo*, con la costa real bajo el glaciar, tal como la revelaron los sondeos sísmicos del siglo XX. Y la versión más ambiciosa concluye que, por tanto, el mapa solo pudo elaborarse a partir de fuentes mucho más antiguas, de una civilización que cartografió la Tierra en una era remota.
 
-A esta primera afirmación se suma, en la literatura "perdida", un segundo mapa, aún más espectacular a primera vista: el mapa de **Oronteus Finaeus** (o Oronce Fine, cartógrafo francés), de 1531. Este mapa muestra un gran continente meridional que, a escala, recuerda poderosamente a la Antártida, con ríos, montañas y una costa que parece detallada. Los partidarios de la teoría lo consideran la "prueba" definitiva: aquí no es un fragmento de costa, sino todo un continente, dibujado con una precisión que, según ellos, solo pudo venir de una fuente antigua.
+A esta primera afirmación se suma, en la literatura "perdida", un segundo mapa, aún más espectacular a primera vista: el mapa de **Oronteus Finaeus** (o Oronce Fine, cartógrafo francés), de 1531.[^2] Este mapa muestra un gran continente meridional que, a escala, recuerda poderosamente a la Antártida, con ríos, montañas y una costa que parece detallada. Los partidarios de la teoría lo consideran la "prueba" definitiva: aquí no es un fragmento de costa, sino todo un continente, dibujado con una precisión que, según ellos, solo pudo venir de una fuente antigua.
 
-Estos dos mapas —Piri Reis y Oronteus Finaeus— son los pilares de la afirmación. Y sobre ellos, el escritor Charles Hapgood construyó, en su libro *Maps of the Ancient Sea Kings* (1966), la teoría más influyente: la existencia de una antigua civilización cartográfica que habría mapeado la Tierra, incluida la Antártida, y cuyos conocimientos se habrían transmitido a través de los siglos hasta llegar a los cartógrafos renacentistas.
+Estos dos mapas —Piri Reis y Oronteus Finaeus— son los pilares de la afirmación. Y sobre ellos, el escritor Charles Hapgood construyó, en su libro *Maps of the Ancient Sea Kings* (1966), la teoría más influyente[^3]: la existencia de una antigua civilización cartográfica que habría mapeado la Tierra, incluida la Antártida, y cuyos conocimientos se habrían transmitido a través de los siglos hasta llegar a los cartógrafos renacentistas.
 
 La teoría de Hapgood es, en muchos sentidos, la más elegante de la literatura "perdida". No invoca extraterrestres ni misterios sobrenaturales; invoca una civilización antigua, avanzada pero humana, cuyos mapas habrían sobrevivido en copias y recopilaciones. Es una historia atractiva, y ha influido en escritores posteriores como Graham Hancock, que la han difundido ampliamente. Y, como veremos, no sobrevive al examen de los datos.
 
@@ -1401,6 +1489,18 @@ Y en ese examen, llevaremos con nosotros todo lo aprendido: la carga de la prueb
 
 ---
 
+## Notas
+
+[^1]: El mapa de Piri Reis (1513) se conserva en la Biblioteca del Palacio de Topkapi, Estambul (ms. 1480). Para el análisis cartográfico, véase Steven Dutch, "The Piri Reis Map" (1998). (DCA-000019; CLM-000027.)
+
+[^2]: Oronce Fine (Oronteus Finaeus), *Nova et integra universi orbis descriptio*, 1531. Para la lectura crítica, véase "The Orontius Finaeus Map", *Bad Archaeology* (2011). (DCA-000019.)
+
+[^3]: Charles H. Hapgood, *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age* (Nueva York: Chilton Books, 1966). La difusión popular posterior incluye Graham Hancock, *Fingerprints of the Gods* (Londres: William Heinemann, 1995). (DCA-000019; CLM-000027, 000032–000034.)
+
+
+---
+
+
 # Capítulo 6. Atlántida y Mu: los continentes que se hundieron
 
 De todos los continentes perdidos, ninguno tiene el pedigrí de la Atlántida. No hay otra historia que haya recorrido un camino tan largo: de un filósofo griego del siglo IV a.C., a los libros superventas del siglo XIX, a los documentales de hoy. Y no hay otra que haya sido contada de tantas maneras distintas, cada una añadiendo una capa a la leyenda.
@@ -1429,7 +1529,7 @@ Estas tres afirmaciones se presentan casi siempre como una sola —"Atlántida e
 
 Empecemos por el origen, que es la única parte de la historia que es un hecho documentado con seguridad.
 
-En el siglo IV a.C., el filósofo griego Platón escribió dos diálogos, el *Timeo* y el *Critias*, en los que narra la historia de la Atlántida. Según su relato, un sabio egipcio le contó la historia a Solón, un legislador ateniense, durante un viaje a Egipto; Solón la llevó a Grecia, y Platón la escribió. La historia dice que, hace unos 9.000 años (según la cronología del relato), existió una poderosa isla llamada Atlántida, situada más allá de las Columnas de Hércules —el estrecho de Gibraltar—. Era una potencia marítima que libró una guerra con Atenas; los atenienses, según el relato, la vencieron; y poco después, Atlántida fue destruida y sumergida en el mar por un castigo divino.
+En el siglo IV a.C., el filósofo griego Platón escribió dos diálogos, el *Timeo* y el *Critias*, en los que narra la historia de la Atlántida.[^1] Según su relato, un sabio egipcio le contó la historia a Solón, un legislador ateniense, durante un viaje a Egipto; Solón la llevó a Grecia, y Platón la escribió. La historia dice que, hace unos 9.000 años (según la cronología del relato), existió una poderosa isla llamada Atlántida, situada más allá de las Columnas de Hércules —el estrecho de Gibraltar—. Era una potencia marítima que libró una guerra con Atenas; los atenienses, según el relato, la vencieron; y poco después, Atlántida fue destruida y sumergida en el mar por un castigo divino.
 
 Aquí hay varias cosas que el método debe aclarar, y que a menudo se confunden.
 
@@ -1469,7 +1569,7 @@ Este contexto es importante para el método por una razón concreta. La Atlánti
 
 ## La construcción moderna: Donnelly
 
-La Atlántida moderna —la de los libros de misterio y los documentales— no nació con Platón. Nació, en su forma más influyente, con Ignatius Donnelly, un político y escritor estadounidense del siglo XIX, que publicó en 1882 el libro *Atlantis: The Antediluvian World*.
+La Atlántida moderna —la de los libros de misterio y los documentales— no nació con Platón. Nació, en su forma más influyente, con Ignatius Donnelly, un político y escritor estadounidense del siglo XIX, que publicó en 1882 el libro *Atlantis: The Antediluvian World*.[^2]
 
 Donnelly no era un arqueólogo ni un geólogo; era un hombre político y un compilador entusiasta. En su libro, reunió una enorme cantidad de material —mitos, tradiciones, paralelos culturales, referencias a textos antiguos— para sostener una tesis ambiciosa: que la Atlántida fue el mundo antediluviano, el Jardín del Edén, y la cuna de la civilización. Según Donnelly, de Atlántida descendieron todas las grandes civilizaciones: Egipto, el valle del Indo, las Américas, y sus supervivientes llevaron las artes, la agricultura y el conocimiento a todo el mundo.
 
@@ -1495,7 +1595,7 @@ Un paralelo, para ser evidencia de difusión, tendría que ser específico, comp
 
 Si Donnelly es el padre de la Atlántida moderna, James Churchward es el padre de la versión paralela: Mu, el continente perdido del Pacífico.
 
-Churchward, un escritor británico de principios del siglo XX, publicó en 1926 *The Lost Continent of Mu*. Su tesis era aún más ambiciosa que la de Donnelly: Mu, decía, fue la cuna de la humanidad, situada en el Pacífico, con una civilización avanzada que se hundió hace decenas de miles de años. Sus supervivientes habrían poblado el mundo, llevando la civilización a todas partes.
+Churchward, un escritor británico de principios del siglo XX, publicó en 1926 *The Lost Continent of Mu*.[^3] Su tesis era aún más ambiciosa que la de Donnelly: Mu, decía, fue la cuna de la humanidad, situada en el Pacífico, con una civilización avanzada que se hundió hace decenas de miles de años. Sus supervivientes habrían poblado el mundo, llevando la civilización a todas partes.
 
 La peculiaridad de Churchward es su "fuente": unas supuestas **tablillas Naacal**, que él decía haber visto y traducido en la India, con la ayuda de un sacerdote hindú, durante una visita en su juventud. Según Churchward, las tablillas registraban la historia de Mu, y estaban escritas en una lengua antigua que él había aprendido a leer.
 
@@ -1655,6 +1755,18 @@ La transición a las catástrofes es la más natural y, quizá, la más necesari
 
 ---
 
+## Notas
+
+[^1]: Platón, *Timeo* (24e–25d) y *Critias* (106a–108c, 113a–121c). Traducción al español en Platón, *Obras completas* (Madrid: Gredos, 1983). El relato atribuye la historia a un sabio egipcio transmitido vía Solón. (T02.)
+
+[^2]: Ignatius Donnelly, *Atlantis: The Antediluvian World* (Nueva York: Harper & Brothers, 1882).
+
+[^3]: James Churchward, *The Lost Continent of Mu* (Nueva York: William Edwin Rudge, 1926). Sobre las tablillas Naacal y su ausencia de cadena documental, véase "Mu", *Bad Archaeology* (2011) y "Naacal Tablets", *Fake Archaeology Wiki* (2017). (DCA-000010.)
+
+
+---
+
+
 # Capítulo 7. Cuando el cielo cayó
 
 Hay un momento, en casi todas las teorías de civilizaciones perdidas, en que la civilización desaparece. Y el agente de la destrucción suele ser una catástrofe: un cometa que se estrella contra la Tierra, un diluvio que engulle las costas, un desplazamiento de la corteza que arrasa continentes, una inundación gigante que borra un imperio. Esta literatura es poderosa porque apela a algo real: la Tierra ha sufrido catástrofes, y algunas han sido devastadoras. Pero comete, casi siempre, el error que anunciamos en el primer capítulo y que ahora vamos a examinar en detalle:
@@ -1717,7 +1829,7 @@ Empecemos por la más ambiciosa de las dos: la idea de que un cometa golpeó la 
 
 La historia comienza con un fenómeno real y bien documentado: el **Dryas reciente** (Younger Dryas). Hace unos 12.900 años, en pleno calentamiento que seguía a la última glaciación, el clima de la Tierra dio un giro brusco. Las temperaturas cayeron de nuevo, durante unos mil años, antes de que el calentamiento se reanudara. Este periodo de frío se llama Dryas reciente, por una pequeña planta alpina cuyos restos aparecen en los sedimentos de esa época. El fenómeno es real, está bien fechado, y sigue siendo objeto de estudio — la causa más aceptada es un cambio en la circulación oceánica, que interrumpió el transporte de calor.
 
-En 2007, un equipo de investigadores liderado por el físico Richard Firestone publicó en la prestigiosa revista *PNAS* una propuesta audaz: el Dryas reciente fue causado por el impacto de un cometa o de varios fragmentos, que además habría extinguido la megafauna (mamuts, perezosos gigantes) y acabado con la cultura Clovis en América del Norte. La hipótesis se conoció como la **hipótesis del impacto del Younger Dryas** (YDIH).
+En 2007, un equipo de investigadores liderado por el físico Richard Firestone publicó en la prestigiosa revista *PNAS* una propuesta audaz: el Dryas reciente fue causado por el impacto de un cometa o de varios fragmentos[^1], que además habría extinguido la megafauna (mamuts, perezosos gigantes) y acabado con la cultura Clovis en América del Norte. La hipótesis se conoció como la **hipótesis del impacto del Younger Dryas** (YDIH).
 
 La propuesta generó un enorme interés, porque combinaba varias cosas apasionantes: un impacto cósmico, una extinción masiva, el fin de una cultura, y —en las versiones posteriores, difundidas por escritores como Graham Hancock— la destrucción de una civilización perdida. Se convirtió en uno de los pilares de la literatura "perdida".
 
@@ -1739,7 +1851,7 @@ Hay un aspecto de esta polarización que conviene examinar, porque ilustra cómo
 
 Es importante, además, distinguir dos cosas que a menudo se mezclan. Una cosa es decir "no se ha demostrado que un impacto causara el Dryas reciente". Otra, muy distinta, es decir "no pudo haber habido un impacto". La primera es la posición de la ciencia: no se ha demostrado, y los intentos de demostrarlo no han pasado la verificación. La segunda —afirmar la imposibilidad— no es lo que la ciencia dice. Puede que algún día aparezca evidencia sólida de un impacto; no hay por qué descartarlo en principio. Pero mientras esa evidencia no exista y se reproduzca, la hipótesis queda sin apoyo. Esta distinción —entre "no demostrado" y "imposible"— es la que el método nos enseña a mantener, y es la misma que hemos aplicado en todos los capítulos.
 
-El golpe más duro llegó en 2025, cuando un artículo muy publicitado —que afirmaba haber encontrado evidencias de un impacto en un sitio de Oriente Próximo llamado Tell el-Hammam— fue **retractado por la revista *Scientific Reports***, por problemas de metodología y de datos. La retractación no refutó toda la hipótesis, pero eliminó uno de sus casos más citados, y reforzó la conclusión de la comunidad científica: la YDIH, en su forma actual, no está sostenida por la evidencia.
+El golpe más duro llegó en 2025, cuando un artículo muy publicitado —que afirmaba haber encontrado evidencias de un impacto en un sitio de Oriente Próximo llamado Tell el-Hammam— fue **retractado por la revista *Scientific Reports***, por problemas de metodología y de datos.[^2] La retractación no refutó toda la hipótesis, pero eliminó uno de sus casos más citados, y reforzó la conclusión de la comunidad científica: la YDIH, en su forma actual, no está sostenida por la evidencia.
 
 La historia de Tell el-Hammam es instructiva para el método, porque muestra cómo un caso se monta, se difunde y luego se desmonta. El artículo afirmaba que el sitio había sido destruido por un impacto cósmico, y su historia —una "ciudad bíblica" destruida por fuego del cielo— se difundió ampliamente en los medios y en la literatura "perdida", que la presentó como prueba de un cataclismo. Pero cuando la revista examinó el artículo tras las críticas, encontró problemas de metodología y de interpretación, y lo retiró. El caso, que había sido "la prueba", dejó de serlo.
 
@@ -1773,7 +1885,7 @@ Hace entre 20.000 y 6.000 años, el hielo se derritió y el mar subió de forma 
 
 Este es un **hecho paleogeográfico documentado.** No es una hipótesis ni una leyenda; es lo que la batimetría (el mapa del fondo marino), los núcleos de sedimento y el registro del nivel del mar demuestran. Sundaland existió, se extendió durante la glaciación, y se inundó cuando el hielo se derritió. Eso es tan sólido como cualquier hecho geológico de este libro.
 
-Ahora viene la parte donde el método se vuelve delicado. Porque sobre la base de este hecho real —la inundación de Sundaland—, se ha construido una afirmación mucho más ambiciosa. El autor Stephen Oppenheimer, en su libro *Eden in the East* (1998), propuso que la inundación de Sundaland dispersó poblaciones, lenguas y mitos de diluvio por el Sudeste Asiático y más allá, y que esos mitos son, en parte, la memoria cultural de esa inundación real. Y algunos autores han ido más lejos, sugiriendo que Sundaland albergó una civilización avanzada, hoy perdida.
+Ahora viene la parte donde el método se vuelve delicado. Porque sobre la base de este hecho real —la inundación de Sundaland—, se ha construido una afirmación mucho más ambiciosa. El autor Stephen Oppenheimer, en su libro *Eden in the East* (1998), propuso que la inundación de Sundaland dispersó poblaciones, lenguas y mitos de diluvio por el Sudeste Asiático y más allá[^3], y que esos mitos son, en parte, la memoria cultural de esa inundación real. Y algunos autores han ido más lejos, sugiriendo que Sundaland albergó una civilización avanzada, hoy perdida.
 
 Vale la pena dedicar un momento a entender qué sabemos realmente de Sundaland, porque es un campo de estudio real y fascinante, con datos concretos.
 
@@ -1947,6 +2059,18 @@ La transición es natural, porque las ciudades sumergidas se sitúan precisament
 
 ---
 
+## Notas
+
+[^1]: Richard B. Firestone et al., "Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling", *PNAS* 104, n.º 41 (2007): 16016–16021. Para la revisión crítica, véase Nicholas Pinter et al., "The Younger Dryas Impact Hypothesis: A Critical Review", *Quaternary Science Reviews* 30 (2011): 1301–1313. (DCA-000017; P10.)
+
+[^2]: El artículo sobre Tell el-Hammam fue publicado y luego retractado por *Scientific Reports* en 2025. La controversia más amplia: Vance T. Holliday et al., "Comprehensive Refutation of the Younger Dryas Impact Hypothesis (YDIH)", *Earth-Science Reviews* 247 (2023): 104502; respondida por Martin B. Sweatman, Christopher R. Powell y Allen West, *Earth-Science Reviews* 258 (2024): 104960. (DCA-000017; P10.)
+
+[^3]: Stephen Oppenheimer, *Eden in the East: The Drowned Continent of Southeast Asia* (Londres: Weidenfeld & Nicolson, 1998). Sobre el hecho paleogeográfico, véase "Where Is Sundaland and Why Did It Disappear?", *Biology Insights* (2025). (DCA-000027.)
+
+
+---
+
+
 # Capítulo 8. Las ciudades sumergidas
 
 Hay una imagen que ha fascinado a la humanidad durante siglos: la de una ciudad bajo el mar. Palacios y templos, calles y plazas, sumergidos bajo las aguas, esperando a que alguien los redescubra. Es una imagen poderosa, que combina el misterio de lo perdido con la promesa de un descubrimiento. Y ha alimentado la leyenda —de la Atlántida de Platón a las historias modernas— durante milenios.
@@ -1959,7 +2083,7 @@ Este capítulo examina ambos casos, y la pregunta que los atraviesa es la misma 
 
 La historia de cómo Yonaguni pasó de ser una formación submarina a un caso célebre de "ciudad perdida" es instructiva, porque muestra cómo se construye una afirmación a lo largo del tiempo, y cómo los ecos la amplifican.
 
-En 1986, un buceador local descubrió las formaciones. Durante unos años, fueron una curiosidad para los buzos de la zona. Fue Masaaki Kimura quien, a partir de los años noventa, las estudió de forma sistemática y las convirtió en una afirmación. Kimura, geólogo marino de la Universidad de las Ryukyu, pasó años buceando, midiendo y mapeando las formaciones, y se convenció de que eran artificiales.
+En 1986, un buceador local descubrió las formaciones. Durante unos años, fueron una curiosidad para los buzos de la zona. Fue Masaaki Kimura quien, a partir de los años noventa, las estudió de forma sistemática[^1] y las convirtió en una afirmación. Kimura, geólogo marino de la Universidad de las Ryukyu, pasó años buceando, midiendo y mapeando las formaciones, y se convenció de que eran artificiales.
 
 Su afirmación, presentada en congresos y publicada en artículos, creció en detalle con los años. Kimura habló de una "pirámide" escalonada de decenas de metros, de terrazas, de una "calzada" que rodeaba la estructura, de canales de drenaje, de una puerta o arco, de piedras talladas con símbolos. Incluso mencionó la conexión con la leyenda de Mu —el continente perdido del Pacífico que vimos en el capítulo 6—, sugiriendo que las formaciones podrían ser restos de esa civilización.
 
@@ -1989,7 +2113,7 @@ Según Kimura, la datación se basa en muestras de carbono-14 y de berilio-10 re
 
 Pero aquí está el problema de método, que ya hemos visto en el capítulo 2: **la fecha de una muestra no es la fecha de una construcción.** Que una estalactita tenga 10.000 o 40.000 años no dice nada sobre cuándo se talló la "pirámide" — si es que se talló. Las estalactitas datan cuándo la cueva estuvo emergida, no cuándo se cortó la roca. Usarlas para datar la supuesta talla es un salto que no está justificado.
 
-Hay, además, una discrepancia reveladora en las propias dataciones de Kimura. Un estudio de berilio-10 que él mismo presentó dató la torre costera asociada (Sanninu-dai) en unos 2.000–3.000 años, no en 10.000. Es decir, las cifras no son consistentes entre sí: unas apuntan a 10.000 años, otras a 2.000–3.000. Esa inconsistencia es una señal de alerta, porque una datación sólida debería converger.
+Hay, además, una discrepancia reveladora en las propias dataciones de Kimura. Un estudio de berilio-10 que él mismo presentó dató la torre costera asociada (Sanninu-dai) en unos 2.000–3.000 años, no en 10.000.[^2] Es decir, las cifras no son consistentes entre sí: unas apuntan a 10.000 años, otras a 2.000–3.000. Esa inconsistencia es una señal de alerta, porque una datación sólida debería converger.
 
 Y, sobre todo, ninguna de estas fechas data directamente el momento en que se habría tallado la roca. Para datar una talla en roca viva, haría falta un método como la exposición cosmogénica sobre la propia superficie tallada — y eso no se ha hecho de forma concluyente en Yonaguni. La cifra de "10.000 años" circula por los documentales, pero no tiene detrás una datación de la supuesta construcción.
 
@@ -2071,7 +2195,7 @@ Conviene precisar el estado de Yonaguni con la misma honestidad que hemos usado 
 
 Pasemos ahora al segundo caso: el golfo de Cambay (o Khambhat), frente a la costa occidental de la India. Aquí la historia es diferente de la de Yonaguni, porque no se trata solo de formas vistas por buceadores, sino de prospecciones con sonar y de artefactos recuperados.
 
-En diciembre de 2000, el Instituto Nacional de Tecnología Oceánica de la India (NIOT), mientras realizaba estudios de contaminación en el golfo de Cambay, detectó con sonar de barrido lateral unas formas geométricas en el fondo marino, a 20–40 metros de profundidad, a lo largo de un paleocanal —un antiguo cauce de río sumergido. Las formas parecían rectangulares, organizadas, casi como un plano de asentamiento. Los investigadores, sorprendidos, ampliaron el estudio y recuperaron, mediante dragados, una serie de materiales que interpretaron como artefactos: una cuenta de piedra, fragmentos de cerámica, herramientas de piedra, huesos humanos, y madera.
+En diciembre de 2000, el Instituto Nacional de Tecnología Oceánica de la India (NIOT), mientras realizaba estudios de contaminación en el golfo de Cambay, detectó con sonar de barrido lateral unas formas geométricas en el fondo marino, a 20–40 metros de profundidad, a lo largo de un paleocanal[^3] —un antiguo cauce de río sumergido. Las formas parecían rectangulares, organizadas, casi como un plano de asentamiento. Los investigadores, sorprendidos, ampliaron el estudio y recuperaron, mediante dragados, una serie de materiales que interpretaron como artefactos: una cuenta de piedra, fragmentos de cerámica, herramientas de piedra, huesos humanos, y madera.
 
 La madera fue el detalle que lo cambió todo. Se dató por radiocarbono, y el resultado fue llamativo: unos 9.500 años. Es decir, mucho antes de cualquier civilización conocida en la región —el Indo, que es de hace unos 5.000 años. La noticia se difundió en 2002, cuando el ministro indio anunció el hallazgo de una "ciudad urbana sumergida" que precedía a la civilización del Indo. Fue noticia mundial, y la historia —una ciudad de 9.500 años bajo el golfo— se convirtió en un pilar de la literatura "perdida".
 
@@ -2095,7 +2219,7 @@ Los materiales se recuperaron mediante **dragado** —un procedimiento en el que
 
 Cuando se drague, el resultado es un conjunto de objetos —cuentas, cerámica, herramientas, huesos, madera— que han sido arrancados del fondo sin saber de qué capa salió cada uno, ni si estaban asociados entre sí. Un objeto dragado es, en el mejor de los casos, un objeto sin contexto. Y un objeto sin contexto no puede sostener una afirmación sobre una ciudad: no sabemos si estaba en una estructura, si formaba parte de un asentamiento, o si fue arrastrado allí por las corrientes desde otro lugar.
 
-Es aquí donde los críticos del hallazgo —arqueólogos del Indo como Iravatham Mahadevan y Asko Parpola— hicieron las preguntas más afiladas. Parpola, en particular, señaló las tres preguntas que ya hemos visto: ¿la edad de la madera bajo el mar data la ciudad? ¿basta una muestra para concluir la antigüedad del sitio? ¿es el golfo, con sus corrientes y arena móvil, un contexto seguro para datar? La respuesta a las tres, en el estado actual de la evidencia, es no.
+Es aquí donde los críticos del hallazgo —arqueólogos del Indo como Iravatham Mahadevan y Asko Parpola— hicieron las preguntas más afiladas. Parpola, en particular, señaló las tres preguntas que ya hemos visto[^4]: ¿la edad de la madera bajo el mar data la ciudad? ¿basta una muestra para concluir la antigüedad del sitio? ¿es el golfo, con sus corrientes y arena móvil, un contexto seguro para datar? La respuesta a las tres, en el estado actual de la evidencia, es no.
 
 Y hay un detalle adicional que conviene mencionar: el anuncio de 2002 fue, en gran parte, político y mediático. El ministro indio anunció el hallazgo en una rueda de prensa, con gran énfasis, y la historia se difundió como un descubrimiento que "reescribiría la historia". Pero ese anuncio se adelantó a la verificación arqueológica. Los objetos no se habían excavado; se habían dragado. La "ciudad" no se había verificado sobre el terreno; se había inferido del sonar. Y esa brecha —entre el anuncio y la verificación— es exactamente la que el método nos enseña a vigilar.
 
@@ -2217,6 +2341,20 @@ La transición a los dioses, los astros y las máquinas es la más variada de la
 
 ---
 
+## Notas
+
+[^1]: Masaaki Kimura, *Diving Survey Report for Submarine Ruins Off Yonaguni, Japan* (Universidad de las Ryukyu, 2001); "Diving Survey of Underwater Ruins off Yonaguni Island", *Marine Technology Society Journal* 38, n.º 4 (2004): 92–108; "Ancient Megalithic Construction Beneath the Sea off Ryukyu Islands in Japan", *Proceedings of Oceans'04 MTS/IEEE Techno-Ocean'04* (2004): 947–953. (DCA-000014.)
+
+[^2]: Datación por berilio-10 de la torre costera de Sanninu-dai, según las propias presentaciones de Kimura. Para el contexto geológico (fracturación natural de la arenisca de la formación Yaeyama), véase la lectura de Robert Schoch y el informe de *National Geographic*, "Japan's Ancient Underwater 'Pyramid'", 2021. (DCA-000014.)
+
+[^3]: El hallazgo del NIOT en el golfo de Cambay y el anuncio público de 2002: "The Gulf of Khambat Debate", *Frontline* (2002); S. Kathiroli, S. Badrinarayanan y D. Venkata Rao, "Marine Archaeological Exploration in the Gulf of Khambhat (Cambay)", *Journal of the Geological Society of India* 60, n.º 4 (2002): 419–428; K. V. Ramakrishna Rao, *Review of the Media Reports and Research Papers on the NIOT Survey* (2025). (DCA-000008.)
+
+[^4]: Las críticas de Iravatham Mahadevan, Asko Parpola y Justin Morris (British Museum) al hallazgo de Cambay. Véase el debate en *Journal of the Geological Society of India* 61 (2003), con comentario de R. V. Karanth y réplica de Kathiroli et al. (DCA-000002; DCA-000008.)
+
+
+---
+
+
 # Capítulo 9. Los dioses, los astros y las máquinas
 
 Hay una familia de teorías que no busca una civilización humana perdida en el pasado, sino algo más audaz: que civilizaciones avanzadas visitaron o moldearon la Tierra en tiempos remotos. Los dioses de los mitos no serían dioses, sino visitantes; los relatos antiguos no serían leyendas, sino crónicas; y ciertos objetos de la antigüedad no serían logros humanos, sino restos de una tecnología superior.
@@ -2245,7 +2383,7 @@ Examinemos cada capa con el método.
 
 ## Sitchin y los Anunnaki
 
-Empecemos por la más ambiciosa: la lectura de Sitchin. En su libro *El 12º Planeta* (1976) y en la serie de las "Crónicas de la Tierra", Zecharia Sitchin construyó una narrativa completa: un planeta llamado Nibiru, de órbita elíptica, pasaría cerca de la Tierra en un pasado remoto; sus habitantes, los Anunnaki, habrían venido a la Tierra, creado a la humanidad mediante ingeniería genética, y dejado registros en los mitos mesopotámicos. La humanidad sería, según Sitchin, un producto de la ingeniería de los Anunnaki.
+Empecemos por la más ambiciosa: la lectura de Sitchin. En su libro *El 12º Planeta* (1976) y en la serie de las "Crónicas de la Tierra", Zecharia Sitchin construyó una narrativa completa: un planeta llamado Nibiru[^1], de órbita elíptica, pasaría cerca de la Tierra en un pasado remoto; sus habitantes, los Anunnaki, habrían venido a la Tierra, creado a la humanidad mediante ingeniería genética, y dejado registros en los mitos mesopotámicos. La humanidad sería, según Sitchin, un producto de la ingeniería de los Anunnaki.
 
 Sitchin se presentaba como alguien capaz de leer las tablillas sumerias y de descifrar en ellas esta historia. Pero cuando se examina su obra con los métodos de la asiriología —la disciplina que estudia el antiguo Oriente Próximo—, el edificio se desmorona.
 
@@ -2325,7 +2463,7 @@ Y hay una pregunta que el método sugiere hacer ante cualquier texto de largas c
 
 Para no caer en el error simétrico —creer que la antigüedad nunca fue sofisticada—, conviene examinar ahora el tercer tipo de afirmación, y su caso más célebre: el mecanismo de Anticitera. Porque aquí, a diferencia de los mitos, hay un objeto real, y el método debe ser preciso sobre lo que prueba y lo que no.
 
-El mecanismo de Anticitera fue recuperado en 1901 de un naufragio frente a la isla griega de Anticitera. Es un dispositivo de bronce, con al menos treinta engranajes de precisión, que calculaba las posiciones del sol, la luna y los planetas, y predecía eclipses. Está fechado en torno al 205–60 a.C., y es, en efecto, una computadora analógica de la antigüedad, de una sofisticación que no se volvió a ver hasta siglos después.
+El mecanismo de Anticitera fue recuperado en 1901 de un naufragio frente a la isla griega de Anticitera. Es un dispositivo de bronce, con al menos treinta engranajes de precisión[^2], que calculaba las posiciones del sol, la luna y los planetas, y predecía eclipses. Está fechado en torno al 205–60 a.C., y es, en efecto, una computadora analógica de la antigüedad, de una sofisticación que no se volvió a ver hasta siglos después.
 
 Durante décadas, el mecanismo fue un misterio para los estudiosos: un montón de bronce corroído que, visto por dentro con rayos X, revelaba una complejidad asombrosa. Los estudios modernos, con tomografía de alta resolución, han permitido descifrar sus inscripciones, reconstruir su funcionamiento y comprender su propósito. El mecanismo calculaba ciclos astronómicos complejos, incluido el ciclo de Saros para predecir eclipses. Es, sin exageración, un instrumento de una ingeniería y un conocimiento astronómico notables.
 
@@ -2493,6 +2631,16 @@ Con el Mahābhārata, la segunda parte llega a su último caso. Después de él,
 
 ---
 
+## Notas
+
+[^1]: Zecharia Sitchin, *El 12º Planeta* (Nueva York: Stein and Day, 1976), primer volumen de las "Crónicas de la Tierra". Para la lectura crítica desde la asiriología, no hay apoyo en las tablillas mesopotámicas para el Nibiru y los Anunnaki tal como Sitchin los describe. (DCA-000024; Cap. 9.)
+
+[^2]: El mecanismo de Anticitera, recuperado en 1901 de un naufragio frente a Anticitera, está fechado en torno al 205–60 a.C. Estudio de referencia: Tony Freeth et al., "Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism", *Nature* 454 (2008): 587–591. (DCA-000024.)
+
+
+---
+
+
 # Capítulo 10. El arma que no fue
 
 De todas las afirmaciones sobre civilizaciones perdidas, quizá ninguna ha tenido tanta circulación como la de las "armas nucleares en el Mahābhārata". La historia suele contarse así: el gran poema épico de la India describe, hace miles de años, explosiones que "parecían diez mil soles", ejércitos enteros quemados, cabellos y uñas que se caían a los soldados, alimentos envenenados, tierra arrasada. Esos efectos, se dice, son exactamente los de una bomba nuclear. Si el poema los describe con tanta precisión, solo puede significar una cosa: que en la antigüedad existió una tecnología nuclear, y que la India la conoció hace milenios.
@@ -2507,7 +2655,7 @@ Antes de examinar el pasaje, conviene reconocer lo que el Mahābhārata es realm
 
 El Mahābhārata es una de las grandes epopeyas de la humanidad, y una de las obras más largas jamás compuestas: cerca de cien mil versos, más que la Ilíada y la Odisea juntas y multiplicadas. Narra la guerra entre dos ramas de una misma familia —los Kauravas y los Pandavas— por el trono, en el marco de una gran batalla en la llanura de Kurukshetra. Pero es mucho más que un relato de guerra: contiene filosofía (como el célebre *Bhagavad Gita*, que se inserta en el poema), mitos, leyendas, cosmología, derecho, moral y una riqueza narrativa y poética inmensa.
 
-El Mahābhārata es, además, una obra de una civilización real: la India antigua, con su religión, su filosofía, su literatura. Se compuso y se transmitió durante siglos, con una historia textual compleja, que los eruditos han estudiado con métodos filológicos rigurosos. La edición crítica, preparada por el Instituto de Investigación Oriental de Bhandarkar (BORI) a lo largo de varias décadas, colaciona cientos de manuscritos para reconstruir el texto. Este trabajo filológico es la base sobre la que cualquier cita del poema debe apoyarse.
+El Mahābhārata es, además, una obra de una civilización real: la India antigua, con su religión, su filosofía, su literatura. Se compuso y se transmitió durante siglos, con una historia textual compleja, que los eruditos han estudiado con métodos filológicos rigurosos. La edición crítica, preparada por el Instituto de Investigación Oriental de Bhandarkar (BORI) a lo largo de varias décadas, colaciona cientos de manuscritos para reconstruir el texto.[^1] Este trabajo filológico es la base sobre la que cualquier cita del poema debe apoyarse.
 
 Esta riqueza es, paradójicamente, parte de la razón por la que el poema se presta tanto a la sobrelectura. El Mahābhārata contiene tantas cosas —guerra, mito, filosofía, moral, cosmología— que es fácil encontrar en él casi cualquier cosa que se busque. Si quieres encontrar una guerra, la hay; si quieres encontrar una filosofía profunda, la hay (el *Bhagavad Gita*); si quieres encontrar armas poderosas, las hay, descritas con lenguaje grandioso. Esa amplitud es lo que hace que la obra sea tan rica —y también lo que permite que se le atribuyan lecturas que no están en su intención. La pregunta del método no es si se puede encontrar algo en el poema, sino si ese algo es lo que el poema dice, en su contexto. Y eso es lo que el cotejo determina.
 
@@ -2551,7 +2699,7 @@ Aquí es donde el método empieza su trabajo, y donde aparece un primer hallazgo
 
 Ahora llega el momento central de este capítulo: ir al texto real y cotejar la cita. Hice esto en la investigación que dio origen a este libro, y el resultado merece ser contado con cuidado.
 
-Localicé el pasaje en el **Drona Parva**, en la sección que narra el arma desatada por Aśvatthāman. En la numeración de la edición crítica, y en la traducción clásica de Ganguli, el pasaje corresponde a la **Sección CCI** del Drona-vadha Parva —la parte que en la numeración tradicional se identifica como el pasaje del arma de Aśvatthāman. Y el texto dice, en la traducción de Ganguli, algo como esto:
+Localicé el pasaje en el **Drona Parva**, en la sección que narra el arma desatada por Aśvatthāman. En la numeración de la edición crítica, y en la traducción clásica de Ganguli, el pasaje corresponde a la **Sección CCI** del Drona-vadha Parva[^2] —la parte que en la numeración tradicional se identifica como el pasaje del arma de Aśvatthāman. Y el texto dice, en la traducción de Ganguli, algo como esto:
 
 > "...el hijo del preceptor invocó el **arma Agneya** (el arma de fuego)... Endudada de llamas ardientes... **Meteoros cayeron del firmamento. Una densa oscuridad envolvió al ejército**... **El sol mismo ya no daba calor**... **Los elementos parecían perturbados. El sol parecía girar. El universo, abrasado por el calor, parecía estar en fiebre. Los elefantes y demás criaturas, abrasados por la energía de esa arma, huían aterrorizados**... Abrasados por la energía del arma de Aśvatthāman, los cuerpos de los caídos no podían distinguirse."
 
@@ -2617,7 +2765,7 @@ Este contexto es decisivo para el método. Cuando se lee el pasaje de Aśvatthā
 
 El problema de la cita viral merece un desarrollo propio, porque su historia es una de las lecciones más claras de trazabilidad de todo el libro.
 
-La cita que circula por internet —la de "diez mil soles", "cabellos y uñas", "alimentos envenenados"— no proviene de una traducción filológica directa y fiel del pasaje. Proviene de una cadena de transformaciones. El investigador Jason Colavito ha rastreado esta genealogía, y ha mostrado que la cita se remonta a una versión condensada de la traducción de Ganguli del siglo XIX, que fue a su vez transformada por autores posteriores. Erich von Däniken, en su libro *Chariots of the Gods* (1968), presentó una versión de la cita como prueba de tecnología antigua, y desde entonces la cita se ha copiado y transformado en innumerables libros, sitios y documentales.
+La cita que circula por internet —la de "diez mil soles", "cabellos y uñas", "alimentos envenenados"— no proviene de una traducción filológica directa y fiel del pasaje. Proviene de una cadena de transformaciones. El investigador Jason Colavito ha rastreado esta genealogía, y ha mostrado que la cita se remonta a una versión condensada de la traducción de Ganguli del siglo XIX[^3], que fue a su vez transformada por autores posteriores. Erich von Däniken, en su libro *Chariots of the Gods* (1968), presentó una versión de la cita como prueba de tecnología antigua[^4], y desde entonces la cita se ha copiado y transformado en innumerables libros, sitios y documentales.
 
 En cada paso de esta cadena, la cita se ha ido alejando del texto original. Se han condensado pasajes, se han añadido detalles, se han alterado imágenes. La versión que circula hoy —con "diez mil soles", "cabellos y uñas", "alimentos envenenados"— ya no corresponde al pasaje real, tal como lo da la traducción de Ganguli y la edición crítica. Es una versión transformada por décadas de copiado e interpretación.
 
@@ -2753,6 +2901,20 @@ Hay, para terminar, una imagen que resume este capítulo y que conviene conserva
 
 ---
 
+## Notas
+
+[^1]: Edición crítica del *Mahābhārata* del Bhandarkar Oriental Research Institute (BORI), Pune, completada a lo largo de varias décadas (1933–1966). La traducción filológica moderna en que se apoya la cotejo: Bibek Debroy, *Mahabharata*, edición crítica BORI, 10 vols. (Gurgaon: Penguin Books India, 2010–2014). (DCA-000017.)
+
+[^2]: *Mahabharata*, Libro 7 (*Drona Parva*), *Drona-vadha Parva*, Sección CCI (= Drona Parva 7.202 en la numeración de Ganguli), Vol. VII, pp. 544–545, trad. Kisari Mohan Ganguli (Calcuta: Bharata Press, 1883–1896). El pasaje describe el arma Agneya (de fuego). (DCA-000017.)
+
+[^3]: Jason Colavito, "Tracking Down the Mahabharata 'Nuclear Bomb' Passage", Jason Colavito: A Skeptical Field Guide, 2014. (DCA-000017.)
+
+[^4]: Erich von Däniken, *Chariots of the Gods?* (Nueva York: G. P. Putnam's Sons, 1969; edición original alemana de 1968). Sobre la versión condensada/alterada de la cita, véase también la nota anterior y el cotejo con Ganguli. (DCA-000017.)
+
+
+---
+
+
 # Capítulo 11. Lo que sabemos y lo que no
 
 Hemos recorrido un largo camino. Siete casos —la Esfinge, los mapas, los continentes hundidos, las catástrofes, las ciudades sumergidas, los dioses y las máquinas, el arma que no fue—, y en cada uno hemos aplicado el mismo método: separar el hecho de la interpretación, la hipótesis de la especulación, y preguntarnos cómo se sabría la respuesta.
@@ -2873,7 +3035,7 @@ Este es, quizá, el ejemplo más claro de una ausencia de datos que no es una re
 
 Es importante ser honestos sobre esta ausencia, porque abre una puerta que la literatura "perdida" explota con frecuencia: "el océano es vasto, no sabemos lo que oculta". Es cierto que no lo sabemos. Pero, como vimos en el capítulo de Atlántida y Mu, la vastedad del océano no es un argumento a favor de una civilización perdida; es una razón para no cerrar la búsqueda. La diferencia es sutil pero crucial: la ausencia de exploración completa deja la pregunta abierta, pero no la sostiene. Una cosa es decir "no hemos buscado en todas partes"; otra, muy distinta, es decir "por tanto, existe". La primera es honesta; la segunda es un salto.
 
-**La hipótesis silúrica nos recuerda que la ausencia no es conclusiva.** Si una civilización industrial existió hace millones de años, podría ser casi invisible en el registro geológico. Esto no hace que la hipótesis sea *probable*; hace que no sea *descartable por la mera ausencia*.
+**La hipótesis silúrica nos recuerda que la ausencia no es conclusiva.**[^1] Si una civilización industrial existió hace millones de años, podría ser casi invisible en el registro geológico. Esto no hace que la hipótesis sea *probable*; hace que no sea *descartable por la mera ausencia*.
 
 Esta es la lección más incómoda de todo el libro, y la más importante para no confundir la ausencia con la refutación. La hipótesis silúrica no dice que existió una civilización previa; dice que, si existió, sería casi indetectable. Por tanto, la ausencia de evidencia no es un argumento concluyente en contra. Pero —y esto es crucial— tampoco es un argumento a favor. La ausencia deja la pregunta abierta en ambas direcciones: no refuta, pero no sostiene. El método nos obliga a mantener ese equilibrio, sin dejar que la ausencia se convierta ni en una refutación cómoda ni en una invitación a la fantasía.
 
@@ -2958,6 +3120,14 @@ Hay, además, una última observación que conviene hacer antes de cerrar, porqu
 Porque saber que "no se sabe" no basta: hace falta saber qué habría que hacer para saberlo. Y ese protocolo —los cinco criterios, las preguntas que hacer, los datos que buscar— es el que convierte la incertidumbre en un camino. Es, en cierto modo, el regalo final del libro: no la respuesta, sino la manera de buscarla, formulada con la precisión que permite distinguir, algún día, el hallazgo real del accidente, la evidencia de la fantasía, y la civilización perdida de la que no lo es. Ese es el protocolo que nos espera, y es el que cierra el viaje y da sentido a todo el libro.
 
 ---
+
+## Notas
+
+[^1]: Gavin A. Schmidt y Adam Frank, "The Silurian Hypothesis", *International Journal of Astrobiology* 18 (2019): 142–150; Jason T. Wright, "Prior Indigenous Technological Species", *International Journal of Astrobiology* 17 (2018): 96–100. Para las tecnofirmas, véase NASA, *NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop* (2018). (H01, H02, H03.)
+
+
+---
+
 
 # Capítulo 12. Cómo se sabría
 
@@ -3170,5 +3340,619 @@ Estos límites no debilitan el protocolo; lo definen. Un método que reconociera
 **La pregunta que queda:** si el protocolo está listo, ¿qué queda por hacer? La respuesta es la más sencilla y la más difícil de todo el libro: seguir buscando, con el método, los datos decisivos que algún día —quizá— resolverán la cuestión. Y mientras tanto, mantener la pregunta abierta, con la honestidad de saber lo que se sabe, lo que no se sabe, y cómo se sabría.
 
 Y con esto, el cuerpo del libro llega a su fin. Doce capítulos: la pregunta, el estándar, los controles, los siete casos, y el protocolo — un arco completo que va de la curiosidad al método, del misterio a la investigación, de la pregunta a la capacidad de responderla. Un recorrido que empezó en un museo, ante la pregunta de un visitante, y que termina con una vara de medir en la mano —la vara del método, la que separa lo real de lo falso, lo demostrado de lo especulado, y la que permite, algún día, reconocer el hallazgo que cambiaría nuestra historia. La búsqueda no ha terminado; empieza ahora, con mejores herramientas, con la vara del método en la mano, y con la honestidad de saber dónde estamos. Y esa, quizá, sea la mejor conclusión que un libro sobre civilizaciones perdidas puede ofrecer: no la respuesta, sino la capacidad de buscarla sin engañarse, la honestidad de reconocer dónde estamos, y la esperanza activa y paciente de que, algún día, la búsqueda —hecha con método, con honestidad y con respeto— dará su fruto.
+
+
+---
+
+
+# Epílogo
+
+Vuelvo a pensar en la vitrina del museo, en aquel visitante del abrigo manchado de lluvia, y en la frase que dijo en voz baja: *—Y qué si hubo algo antes.* Cuando empecé este libro creía que el viaje terminaría respondiendo esa pregunta. Ahora, al cerrarlo, entiendo que el viaje no terminaba en una respuesta, y que eso es, precisamente, lo que hizo que valiera la pena recorrerlo.
+
+Han pasado muchas páginas desde aquella tarde de invierno. He seguido un hilo que me llevó por desiertos, mapas antiguos, mitos de continentes hundidos, catástrofes que habrían borrado imperios, ciudades sumergidas, dioses y máquinas, y una supuesta guerra nuclear librada en un poema épico de la India. He examinado afirmaciones que circulaban con la seguridad de los hechos probados y he descubierto que casi ninguna soportaba el peso de una inspección cuidadosa. Y sin embargo, al terminar, no me siento defraudado. Me siento —esta es la palabra exacta— *informado*. Informado no en el sentido de que ya sepa la respuesta, sino en el sentido de que por fin sé cómo se sabría, y qué falta para saberlo.
+
+Permítanme recapitular el viaje con la emoción con la que se recapitula una travesía, y no con la frialdad con la que se resume un expediente. Porque este libro ha sido ambas cosas a la vez: un expediente riguroso y una travesía personal.
+
+## El viaje
+
+Todo empezó con la pregunta más simple del mundo, esa que todo el mundo se ha hecho alguna vez y que casi nadie sabe cómo abordar: ¿hubo una civilización antes de las que conocemos? La pregunta tiene el extraño poder de dividir a la gente en dos bandos que se miran con desdén mutuo. Están quienes la aceptan sin examen, dispuestos a ver un astronauta antiguo en cualquier piedra rara, un continente hundido en cualquier leyenda, un arma nuclear en cualquier poema. Y están quienes la descartan sin examen, convencidos de que asociarla con el sensacionalismo basta para condenarla, y que no merece ni siquiera la molestia de una refutación. Los primeros pecaban de credulidad; los segundos, de pereza. Y yo, al empezar, no quería ser ninguno de los dos.
+
+Por eso el primer tramo del viaje no fue hacia los misterios, sino hacia las herramientas. Antes de mirar la Esfinge o los mapas de Piri Reis, tuve que construir el instrumento con el que iba a mirarlos. Ese instrumento resultó ser sencillo y, precisamente por su sencillez, poderoso: seis etiquetas que se aplican a cada afirmación sobre el pasado —*hecho documentado, interpretación, hipótesis, especulación, contradicción y ausencia de datos*—. Seis casillas, como las de un portero que no deja pasar nada sin sello. La disciplina de etiquetar parecía, al principio, un empobrecimiento: ¿cómo iba a caber el asombro del pasado en seis casillas? Pero pronto descubrí lo contrario. El asombro no cabe en las casillas, pero la *verdad* sí, y sin la verdad el asombro se vuelve ruido. Las seis etiquetas no matan el misterio; lo ordenan. Y solo lo que está ordenado puede examinarse con honestidad.
+
+Recorrí con ese instrumento los siete grandes casos que componen la segunda parte de este libro. No voy a repetir aquí sus veredictos, porque están en sus capítulos, pero sí quiero recuperar lo que cada uno me enseñó, porque cada uno fue una lección distinta, y juntas forman el mapa del viaje.
+
+La Esfinge me enseñó que una pregunta puede ser legítima y, sin embargo, no tener todavía respuesta. No es absurdo preguntar si el monumento es más antiguo de lo que dice el manual; hay indicios, dataciones discutidas y desacuerdos técnicos reales. Pero de ahí a decir que la Esfinge fue esculpida por una civilización desconocida hay un abismo que la evidencia no cruza. La pregunta queda, honestamente, abierta: la respuesta depende de un dato que aún no tenemos —la datación definitiva del recinto—, no de la obstinación de ninguna de las partes.
+
+Los mapas me enseñaron algo más humilde: que una coincidencia sorprendente puede tener una explicación aburrida y correcta. El mapa de Piri Reis y el de Oronteus Fineo parecen, a primera vista, mostrar una Antártida sin hielo o continentes que nadie debería haber conocido. Pero cuando se examinan con método, las deformaciones se explican por la geometría de la proyección, y las anotaciones del propio mapa delatan que su autor no dibujaba un conocimiento perdido, sino el mundo tal como lo entendía su época. La maravilla se deshace ante la inspección. No porque alguien quisiera deshacerla, sino porque la realidad es así de tozuda.
+
+Atlántida y Mu me enseñaron que un relato poderoso no es lo mismo que una evidencia, y que la belleza de una historia no la convierte en un hecho. Desde Platón hasta las tablillas de Churchward, la idea de un continente hundido ha sido uno de los mitos más fértiles de la imaginación occidental. Pero cuando se sigue el hilo hasta su origen, cada versión se revela como filosofía, como política, como novela disfrazada de historia o como documento sin cadena de custodia. El mito no es mentira; es otra cosa: es una manera de hablar de lo que no se puede nombrar. Pero un mito, por hermoso que sea, no es un continente.
+
+Las catástrofes me enseñaron la lección más delicada de todo el libro: que un evento real no es una civilización. Que el cielo haya caído alguna vez —que haya habido impactos, inundaciones, hundimientos— es un hecho. Que Yonaguni sea una fractura natural es casi seguro. Pero que una catástrofe haya borrado una civilización es otra afirmación, mucho más exigente, y la carga de la prueba recae sobre quien la sostiene. La regla que repetí una y otra vez —*no confundir la catástrofe con la civilización*— es la que más veces tuve que recordarme a mí mismo, porque es la más fácil de olvidar: la emoción de la catástrofe empuja a saltar el paso que el método prohíbe.
+
+Las ciudades sumergidas me enseñaron que un descubrimiento puede ser real y no ser lo que se afirma. Yonaguni existe; Cambay existe; los restos sumergidos existen. Pero la distancia entre "hay una estructura sumergida" y "hay una ciudad de una civilización perdida" es enorme, y cada vez que alguien la recorre sin documento, la recorre sin prueba. El ruido del dragado, la falta de contexto estratigráfico, la madera que no se asocia a ningún muro: la evidencia se deshace entre los dedos cuando se exige el contexto que la haría sólida.
+
+Los dioses, los astros y las máquinas me enseñaron la lección más paradójica: que lo que algunos presentan como "prueba de una civilización perdida" a veces es, en realidad, una prueba de lo contrario. El mecanismo de Anticitera no demuestra que unos astronautas antiguos nos dejaron máquinas; demuestra que una sociedad helenística, con toda su inteligencia, fabricó un mecanismo extraordinario. Es más impresionante así. La realidad, bien mirada, suele ser más asombrosa que la fantasía, pero pide un tipo de asombro distinto: el que nace de comprender, no el que nace de engañarse.
+
+Y el arma de los dioses —el caso del Mahābhārata, el que más trabajo exigió y el que más me obligó a corregirme— me enseñó la lección más importante de todas, la que resume el método entero: que una cita famosa puede ser falsa, que una traducción puede alterar un texto, que un pasaje citado con seguridad puede no existir donde se dice. Cuando el lector y yo seguimos el hilo hasta el original, descubrimos que la supuesta "guerra nuclear" no estaba donde se afirmaba, que la referencia era un error, y que el pasaje real describe fuego y oscuridad, no "diez mil soles". El caso no se resolvió por escepticismo: se resolvió por cotejo. Y en eso —en esa palabra, *cotejo*— está la clave de todo el método: no desconfiar de las afirmaciones por desconfianza, sino verificarlas contra la fuente, y dejar que la fuente hable.
+
+## El veredicto honesto
+
+Ahora, con el viaje recorrido, toca pronunciar el veredicto. Y quiero hacerlo con toda la claridad de que soy capaz, porque un libro que ha predicado la honestidad no puede titubear en su propia conclusión.
+
+El veredicto es este: **de todos los casos que hemos examinado —los siete de la segunda parte, y todos los que aparecieron por el camino—, ninguno cumple hoy los criterios para demostrar la existencia de una civilización tecnológica anterior a las que conocemos.** Ninguno. No porque sea imposible que existiera, sino porque la evidencia disponible no lo demuestra. Cada caso ha caído, con su propia lógica, en una de las casillas del método: la Esfinge es una hipótesis no confirmada; los mapas están falsados; Atlántida y Mu, sin confirmar; las catástrofes, un evento real sin civilización; las ciudades sumergidas, no confirmadas; los dioses y las máquinas, una sobrelectura; y el arma del Mahābhārata, una interpretación moderna sin base en el texto.
+
+Pero quiero que se entienda bien qué significa este veredicto, y qué no significa. No significa que la pregunta sea estúpida. No significa que quienes la han planteado sean crédulos. No significa que no haya nada que buscar. Significa, exactamente y solo, esto: que **con la evidencia actual, la afirmación no se sostiene, y que la ausencia de prueba no es una prueba de ausencia.**
+
+Porque aquí está la otra mitad del veredicto, la que conviene no olvidar al cerrar el libro. Que nada de lo que hemos visto *demuestre* una civilización anterior no es lo mismo que afirmar que *no pudo haberla*. Son cosas radicalmente distintas. La primera es una declaración sobre la evidencia: dice que la evidencia actual no alcanza. La segunda es una declaración sobre el mundo: dice que el fenómeno no ocurrió. Y de la primera no se sigue la segunda. Este es el punto más fácil de malentender de todo el libro, y por eso lo repito: **la ausencia de datos no es una refutación.** No es una prueba de que no existió; es, sencillamente, un dato que aún no tenemos. La puerta no está cerrada con llave; está abierta, pero aún no hemos visto lo que hay al otro lado.
+
+Así que el veredicto honesto no es "no hay nada que buscar". Es, más precisamente: "todavía no hemos encontrado lo que demostraría que hay algo, y mientras tanto, ninguna de las afirmaciones examinadas pasa el examen". Es un veredicto a la vez firme y humilde: firme sobre lo que sabemos, humilde sobre lo que no sabemos. Y esa doble actitud —firmeza en lo demostrado, humildad en lo desconocido— es, en mi opinión, la única postura que una mente seria puede adoptar ante esta pregunta.
+
+## La pregunta que permanece
+
+Y sin embargo, y con todo, la pregunta permanece. Al cerrar el libro, al apagar la luz, la pregunta de aquel visitante sigue ahí, esperando, igual que esperaba cuando él la formuló en voz baja junto a la vitrina.
+
+*¿Y si hubo algo antes?*
+
+No puedo responderla. Ninguno de nosotros puede, hoy. Pero he aprendido algo que vale más que una respuesta: he aprendido a distinguir entre las preguntas que están cerradas y las preguntas que están abiertas. Una pregunta cerrada es la que tiene respuesta, aunque sea "no". Una pregunta abierta es la que espera un dato que aún no tenemos. Y la pregunta de las civilizaciones anteriores es, con toda honestidad, una pregunta abierta. No está cerrada por la ciencia, porque la ciencia no tiene el dato que la cerraría. Está abierta, y permanecerá abierta hasta que aparezca —si es que aparece— el hallazgo que la resuelva.
+
+Lo que este libro cambia no es el estado de la pregunta; es el estado de *nosotros frente a la pregunta*. Antes de recorrer este camino, uno podía elegir entre creer y descreer, entre el asombro crédulo y el desdén perezoso. Ahora hay una tercera opción, la que este libro ha intentado practicar: *investigar* — sostener la pregunta abierta sin dejarse llevar ni por el deseo de que sea verdad ni por el miedo de que lo sea. Mantenerla abierta con la honestidad de quien sabe lo que sabe, lo que no sabe, y cómo se sabría.
+
+Porque eso es lo que permanece al final, más allá de cualquier caso concreto. No una respuesta, sino una pregunta *bien formulada*. Y una pregunta bien formulada —una que sabe qué evidencia la respondería, qué dato la cerraría, qué hallazgo la cambiaría— vale más que mil respuestas apresuradas. La pregunta permanece, sí. Pero ahora permanece con herramientas. Ahora permanece como una pregunta que se puede llevar a la investigación, y no como un grito al que se responde con fe o con desprecio.
+
+## La invitación al método
+
+Y aquí está la parte que más quiero que el lector se lleve de este libro: el método no es una propiedad de los investigadores profesionales. Es una herramienta que cualquiera puede usar, y que este libro ha intentado entregar, pieza por pieza, caso por caso.
+
+No hace falta ser arqueólogo para etiquetar una afirmación. Cuando alguien dice "las pirámides fueron construidas por extraterrestres", no hace falta ser geólogo para preguntar: ¿esto es un hecho documentado, o una interpretación, o una especulación? Basta con aplicar las seis etiquetas. Cuando alguien dice "los mapas muestran una Antártida sin hielo", no hace falta ser cartógrafo para pedir: ¿cuál es el mapa, cuál es la fuente, y qué dice la anotación del propio mapa? Basta con seguir el hilo hasta la fuente. Cuando alguien dice "el Mahābhārata describe una guerra nuclear", no hace falta ser sánscrito para pedir: ¿en qué pasaje exacto, y qué dice el texto de verdad? Basta con exigir el cotejo.
+
+El método es, en el fondo, una lista de preguntas que cualquiera puede hacerse antes de creer. ¿Cuál es la afirmación exacta? ¿De dónde viene? ¿Cuál es la evidencia? ¿Es una interpretación o un hecho? ¿Qué la refutaría? ¿Qué no sabemos todavía? Cinco preguntas sencillas que, aplicadas con paciencia, convierten al lector —al ciudadano, al curioso, al escéptico— en un investigador. No en un investigador profesional, sino en algo que quizá sea más valioso: en una persona que no puede ser engañada con facilidad, porque ha aprendido a hacer las preguntas que desarman el engaño.
+
+Esta es la invitación que este libro deja al cerrarse: la próxima vez que alguien te diga que encontró una ciudad sumergida, un arma de los dioses, un mapa del pasado imposible, no respondas ni con fe ni con desprecio. Responde con una pregunta: *¿cómo se sabría?* Pide la fuente, pide el contexto, pide el dato que lo demostraría. No lo hagas por hostilidad hacia quien afirma —hazlo por respeto a la verdad, y por respeto a ti mismo, que no mereces ser engañado. El método es, en última instancia, una forma de respeto: respeto por los hechos, respeto por la evidencia, y respeto por la propia inteligencia de quien se niega a renunciar a ella.
+
+No te pido que descreas. Te pido que distingas. Te pido que, ante cada afirmación extraordinaria, hagas lo que este libro ha hecho con los siete grandes casos: que la examines con calma, que la etiquetes con honestidad, y que la sostengas en la casilla que le corresponde —hecho, interpretación, hipótesis, especulación, contradicción o ausencia— sin dejarte llevar ni por la emoción de la maravilla ni por la comodidad del desdén. Eso es todo. Y eso es mucho.
+
+## El cierre simbólico
+
+Ahora, para terminar, quiero volver a la imagen que ha acompañado todo este libro: la del sedimento.
+
+Un sedimento es una capa de tierra que se deposita sobre otra, que sepulta y que preserva. Cada época de la historia deja su capa; la capa siguiente la cubre, y así, de abajo arriba, se construye el registro de lo que fue. El arqueólogo no excava el pasado como quien abre un libro: excava como quien separa capas, con cuidado de no mezclar lo que cada una contiene. Y el sedimento es también una imagen de la memoria, y del olvido, y de todo lo que puede quedar sepultado bajo el paso del tiempo.
+
+Cuando empecé este libro, creía —como cree la mayor parte de quienes se acercan a esta pregunta— que buscar una civilización anterior era como rascar el sedimento en busca de una capa más profunda: si excavas lo bastante, quizá encuentres la capa de una civilización que quedó sepultada bajo todas las demás. Era una imagen seductora: la verdad escondida en el fondo, esperando a quien la desentierre.
+
+He aprendido, a lo largo de estas páginas, que la imagen es parcialmente cierta, pero que le falta algo esencial. Sí, hay capas más profundas, y sí, es concebible que exista una que no hemos alcanzado. Pero el sedimento no guarda las respuestas; guarda *señales*, y las señales no son respuestas. Son indicios que hay que interpretar, y la interpretación puede ser honesta o descuidada, puede ser una lectura o una fantasía. El sedimento no habla; hay que saber preguntarle. Y saber preguntarle —esa es la herramienta que este libro ha querido entregar— no es otra cosa que saber cómo se sabría.
+
+Así que el cierre simbólico de este libro no es el de quien encuentra el tesoro al fondo del sedimento. Es el de quien aprende a leer las capas sin confundirlas, a distinguir lo que cada una contiene, a no inventar lo que no está. Es el cierre de quien deja el sedimento en su lugar —honrado, intacto, esperando a quien sepa excavarlo— y se lleva, no el tesoro, sino la vara con la que un día, quizá, alguien podrá reconocerlo. Es el cierre de quien entiende que el valor del viaje no estuvo en la meta, sino en el aprendizaje de cómo buscarla.
+
+El visitante del museo no sabía nada de sedimentos, ni de etiquetas, ni de métodos. Solo hizo una pregunta, en voz baja, y siguió su camino. Pero esa pregunta —*¿y si hubo algo antes?*— era una pregunta buena. Y ahora sé, al cerrar este libro, que las preguntas buenas no merecen ni la credulidad que las acepta sin examen ni el desdén que las descarta sin oírlas: merecen la investigación que las toma en serio y las examina con honestidad. A eso he dedicado estas páginas. A eso, y a entregarte la herramienta con la que tú puedes hacer lo mismo.
+
+¿Y si hubo algo antes? No lo sé. Nadie lo sabe todavía. Pero ahora sé cómo se sabría, y sé qué buscar, y sé qué exigir antes de creer. La pregunta queda abierta —no porque sea imposible de responder, sino porque el dato que la respondería aún no ha aparecido. Y esa, y no otra, es la mejor conclusión que puede tener un libro sobre civilizaciones perdidas: no la respuesta, sino la honestidad de reconocer dónde estamos, la herramienta para seguir buscando, y la esperanza activa y paciente de que, algún día, si hay una capa más profunda en el sedimento, sepa reconocerla quien sepa excavarla con respeto.
+
+El sedimento sigue ahí. Las capas siguen esperando. Y la vara del método —esta vez sí— queda en tus manos.
+
+
+---
+
+
+# Glosario
+
+Términos técnicos y nombres propios utilizados a lo largo del libro, definidos en lenguaje llano. Cada entrada indica el capítulo donde el término se introduce o se usa con más profundidad.
+
+## A
+
+- **Agneya (arma).** En el *Mahābhārata*, el arma divina asociada a Agni, el dios del fuego. Invocada por Aśvatthāman, se describe con llamas, oscuridad y meteoros. Es una hipérbole épica, no un informe técnico. (Cap. 10)
+- **Arqueoastronomía.** Disciplina que estudia cómo las sociedades antiguas observaron, representaron y usaron el cielo, y cómo ese uso quedó registrado en monumentos y mitos. (Cap. 9)
+- **Artefacto.** Objeto hecho por manos humanas (o atribuido a una inteligencia) y conservado en el registro. Un artefacto, por sí solo, no prueba una civilización: depende de su contexto. (Cap. 2)
+- **Aśvatthāman.** Personaje del *Mahābhārata*, hijo de Drona. Desata el arma Agneya para vengar la muerte de su padre. (Cap. 10)
+- **Atra-Ḫasīs.** Poema acadio que narra la creación y un gran diluvio; a diferencia de otras versiones, vincula la destrucción con la perturbación causada por la humanidad, no con una guerra tecnológica. (Cap. 6)
+- **Ausencia de datos.** La circunstancia de que no exista evidencia (o información) sobre un punto. Regla de oro del libro: la ausencia de datos **no es** una refutación ni una prueba. No es lo mismo que "no se puede demostrar nada". (Caps. 1, 2, 12)
+
+## B
+
+- **Bibliografía de nota.** Sistema de citación (estilo Chicago) en el que las referencias completas aparecen en notas al pie y en una bibliografía final ordenada por autor. (Introducción)
+- **BORI (Bhandarkar Oriental Research Institute).** Instituto de Pune (India) que preparó la edición crítica del *Mahābhārata*, colacionando cientos de manuscritos para reconstruir el texto más cercano al original. (Cap. 10)
+
+## C
+
+- **Cadena de custodia.** El registro continuo de dónde ha estado un objeto, quién lo ha manejado y cómo, desde su recuperación hasta su análisis. Sin cadena de custodia, un objeto no puede fecharse con fiabilidad. (Caps. 8, 12)
+- **Carga de la prueba.** Principio según el cual quien afirma algo (especialmente algo extraordinario) tiene la obligación de aportar evidencia suficiente, no quien lo niega. (Caps. 2, 12)
+- **Catástrofe vs. civilización (regla anti-error).** Regla del libro: un evento destructivo real (impacto, inundación, erupción) no prueba por sí mismo la existencia de una civilización que ese evento habría borrado. Son proposiciones distintas. (Caps. 2, 7, 12)
+- **Cita viral.** Cita de internet que circula repetida sin verificar su origen ni su exactitud. En el libro se examina la cita viral de las "armas nucleares del Mahābhārata" y se muestra cómo difiere del texto real. (Cap. 10)
+- **Contexto estratigráfico.** La posición de un objeto dentro de las capas de sedimento (estratigrafía). Un objeto en posición primaria (no removido) y bien fechado tiene contexto fiable; uno dragado o removido, no. (Caps. 8, 12)
+- **Contradicción.** Etiqueta del método: cuando dos fuentes o interpretaciones afirman cosas incompatibles. La contradicción no significa que ambas estén mal; significa que hay que resolverla. (Cap. 1)
+- **Cotejo.** Comparación directa de una cita o afirmación con su fuente original (texto, edición, pasaje). El cotejo es la prueba más directa del método. (Caps. 1, 10)
+- **Cristalización salina.** Proceso por el que las sales disueltas en la piedra (halita, yeso) se recristalizan y deshacen la roca. Gauri lo usa para explicar la erosión de la Esfinge sin necesidad de lluvia antigua. (Cap. 4)
+
+## D
+
+- **Datación por luminiscencia (OSL/SLD).** Técnica que mide cuánto tiempo hace que un mineral de cuarzo o feldespato fue expuesto por última vez a la luz o al calor. Se usa para fechar sedimentos, cerámica o piedras. (Caps. 3, 4)
+- **Desplazamiento cortical (teoría de Hapgood).** Hipótesis de Charles Hapgood según la cual los polos y los continentes se habrían movido en un pasado reciente. Es la base de su interpretación de los mapas antiguos. (Cap. 5)
+- **Drona Parva.** El Libro 7 del *Mahābhārata*, que narra la parte de la guerra en la que Drona es el comandante de los Kauravas. Contiene el pasaje del arma de Aśvatthāman. (Cap. 10)
+- **Drona-vadha Parva.** Subdivisión del *Drona Parva* que relata la muerte de Drona. En la numeración tradicional, la Sección CCI corresponde al pasaje del arma de Aśvatthāman. (Cap. 10)
+
+## E
+
+- **Edición crítica.** Reconstrucción filológica del texto más cercano al original, hecha colacionando múltiples manuscritos y eligiendo variantes con criterios. Es la base fiable para citar un texto antiguo. (Cap. 10)
+- **Estratigrafía.** El estudio de las capas (estratos) de sedimento o roca, en el orden en que se depositaron. La estratigrafía permite ordenar el pasado y datar los objetos por su posición. (Caps. 2, 3)
+- **Especulación.** Etiqueta del método: una conjetura sin apoyo suficiente. Es la hipótesis que no ha hecho los deberes. (Cap. 1)
+- **Esfinge de Guiza.** Monumento de piedra caliza en la meseta de Guiza, atribuido tradicionalmente a Kefrén (IV Dinastía). El capítulo 4 examina la hipótesis de que sea mucho más antigua. (Cap. 4)
+
+## F
+
+- **Falsación / Falsabilidad.** La propiedad de una afirmación de poder ser comprobada contra datos que podrían refutarla. Una afirmación que no admite ningún dato que la refute no es científica; es infalsable. (Caps. 2, 12)
+- **Hecho documentado.** Etiqueta del método: hay una fuente, objeto o dato verificable detrás de la afirmación. Es el suelo firme sobre el que se construye todo lo demás. (Cap. 1)
+- **Hipótesis.** Etiqueta del método: una explicación propuesta, todavía sin confirmar, formulada para ser puesta a prueba. Es el motor de la investigación. (Cap. 1)
+- **Hipótesis silúrica.** Propuesta por Schmidt y Frank (2019): pregunta qué señal estratigráfica dejaría una civilización industrial millones de años después. No afirma que existió; define cómo se sabría. (Caps. 1, 11)
+
+## I
+
+- **Interpretación.** Etiqueta del método: una lectura razonable de un hecho, que no es el hecho mismo. Una interpretación puede ser correcta o no, pero debe distinguirse del hecho. (Cap. 1)
+- **Interpretación geomorfológica.** Lectura del relieve y las formas del terreno (como la Esfinge) para inferir su historia geológica, a partir de procesos como la erosión. (Cap. 4)
+
+## M
+
+- **Mahābhārata.** Una de las grandes epopeyas de la humanidad (cerca de cien mil versos), que narra la guerra entre los Kauravas y los Pandavas. El capítulo 10 examina la falsa atribución de una "guerra nuclear". (Cap. 10)
+- **Mapa de Piri Reis.** Mapa otomano de 1513 que muestra el mundo conocido en su época. Es uno de los pilares de la afirmación de que los mapas antiguos muestran la Antártida. (Cap. 5)
+- **Mapa de Oronteus Finaeus.** Mapa de 1531 que representa una *Terra Australis* de gran tamaño. Hapgood lo usó como prueba de un conocimiento de la Antártida sin hielo. (Cap. 5)
+- **Metamorfismo / Meteorización.** Alteración física y química de la roca expuesta al clima. Distinguir el tipo de meteorización (viento, lluvia, sales) es central en el debate sobre la Esfinge. (Cap. 4)
+
+## N
+
+- **No ficción narrativa.** Género del libro: relata una investigación real con técnicas narrativas (escenas, voz), pero sin inventar datos ni desvirtuar la evidencia. (Prólogo, Introducción)
+
+## P
+
+- **Pirámide / cultura faraónica.** La civilización del Egipto antiguo a la que pertenece la Esfinge según la arqueología convencional. El capítulo 4 evalúa si podría ser anterior. (Cap. 4)
+- **Posición primaria.** Estado de un objeto que no ha sido removido de la capa en la que se depositó. Un objeto en posición primaria permite asociarlo a su estrato; uno removido, no. (Caps. 8, 12)
+- **Proyección cartográfica.** Método para representar la esfera terrestre en un plano. Elegir una proyección puede hacer que las costas parezcan "coincidir" con otras. Central en el análisis de los mapas. (Cap. 5)
+- **Protocolo de verificación.** El conjunto de criterios y preguntas que este libro propone para evaluar afirmaciones extraordinarias sobre el pasado (los cinco criterios y las cinco preguntas). (Caps. 11, 12)
+
+## R
+
+- **Registro arqueológico.** El conjunto de restos materiales (objetos, estructuras, sedimentos) que documenta el pasado humano y su contexto. (Caps. 2, 3)
+- **Replicación independiente.** La verificación de un resultado por laboratorios o investigadores distintos. Un hallazgo que solo su autor puede reproducir no es sólido. (Caps. 2, 12)
+
+## S
+
+- **Sedimento / Sedimentación.** Material depositado en capas por agua, viento o hielo. La imagen del sedimento —capas que sepultan y preservan— recorre todo el libro y aparece en el cierre. (Caps. 1, 3, 11, 12, Epílogo)
+- **Sitio sumergido.** Yacimiento arqueológico bajo el agua, resultado del ascenso del nivel del mar o del hundimiento del terreno. No todo resto bajo el agua es una "ciudad perdida". (Cap. 8)
+- **Sonar de barrido lateral.** Instrumento que produce imágenes del fondo marino. Se usa en prospecciones como la de la Bahía de Cambay. (Cap. 8)
+
+## T
+
+- **Tecnofirma.** Marcador físico susceptible de ser producido por tecnología (aleaciones, radionúclidos con patrón tecnológico, compuestos sintéticos). La NASA clasifica tecnofirmas de distintos tipos. (Caps. 1, 11)
+- **Terra Australis.** Continente meridional hipotético de la geografía antigua y renacentista. Finaeus la dibujó de gran tamaño; no es la Antártida. (Cap. 5)
+
+## Y
+
+- **YDIH (Younger Dryas Impact Hypothesis).** Hipótesis de que un impacto cósmico ocurrió hacia 12.900 años atrás. Es un debate científico activo y polarizado; aun si hubiera impacto, eso no probaría una civilización perdida. (Cap. 7)
+- **Yonaguni.** Formación rocosa sumergida frente a Japón. Schoch y otros geólogos la atribuyen a la fracturación natural de la arenisca; algunos la consideran un monumento humano. (Cap. 8)
+
+## Abreviaturas
+
+- **AAAS** — Asociación Estadounidense para el Avance de la Ciencia.
+- **BORI** — Bhandarkar Oriental Research Institute.
+- **OSL/SLD** — Luminiscencia ópticamente estimulada / luminiscencia de superficies datadas.
+- **PETM** — Máximo Térmico del Paleoceno-Eoceno (evento climático antiguo).
+- **YDIH** — Younger Dryas Impact Hypothesis.
+
+
+---
+
+
+# Bibliografía
+
+Estilo Chicago 17.ª (notas y bibliografía), ordenada alfabéticamente por autor. Incluye las fuentes primarias, secundarias, artículos académicos y recursos de referencia citados a lo largo del libro. Cuando una fuente procede del registro del proyecto, se indica su `source_id` (DCA-xxxxx) para trazabilidad completa.
+
+## Fuentes primarias y textos antiguos
+
+- *Atra-Ḫasīs: The Babylonian Story of the Flood*. Editado y traducido por W. G. Lambert y A. R. Millard. Oxford: Clarendon Press, 1969. (T02)
+- *Mahabharata*. Traducido por Bibek Debroy. 10 vols. Edición crítica del Bhandarkar Oriental Research Institute (BORI). Gurgaon: Penguin Books India, 2010–2014.
+  - *Dronabhisheka Parva*, Sección 65 del *Drona Parva* (Vol. 7).
+  - *Vaivahika Parva*, Sección 13 del *Vana Parva* (Vol. 3).
+- *Mahabharata*. Traducido por Kisari Mohan Ganguli. 18 vols. Calcuta: Bharata Press, 1883–1896. *Drona Parva*, *Drona-vadha Parva*, Sección CCI (= 7.202 en la numeración Ganguli), Vol. 7, pp. 544–545. (DCA-000017)
+- Platón. *Timeo*. En *Obras completas*. Traducido del griego. Madrid: Gredos, 1983.
+- Platón. *Critias*. En *Obras completas*. Traducido del griego. Madrid: Gredos, 1983.
+- Jacobsen, Thorkild. *The Sumerian King List*. Assyriological Studies 11. Chicago: University of Chicago Press, 1939. (T01)
+- Jacobsen, Thorkild. "The Eridu Genesis". *Journal of Biblical Literature* 100, n.º 4 (1981): 513–529. (T02)
+
+## Artículos académicos y revisiones por pares
+
+- Ambrose, Stanley H. "Late Pleistocene Human Population Bottlenecks, Volcanic Winter, and Differentiation of Modern Humans". *Journal of Human Evolution* 34, n.º 6 (1998): 623–651.
+- Barham, Lawrence, et al. "Evidence for the Earliest Structural Use of Wood at Least 476,000 Years Ago". *Nature* 622 (2023): 458–462. https://doi.org/10.1038/s41586-023-06557-9. (P01)
+- Brown, Peter, et al. "A New Small-Bodied Hominin from the Late Pleistocene of Flores, Indonesia". *Nature* 431 (2004): 1055–1061. https://doi.org/10.1038/nature02999. (P04)
+- Brumm, Adam, et al. "Hominins on Flores, Indonesia, by One Million Years Ago". *Nature* 464 (2010): 748–752. https://doi.org/10.1038/nature08844. (P04)
+- Davies, Paul C. W., y Robert V. Wagner. "Searching for Alien Artifacts on the Moon". *Acta Astronautica* 89 (2013): 261–265. https://doi.org/10.1016/j.actaastro.2011.10.022. (H04)
+- Deschamps, Pierre, et al. "Ice-Sheet Collapse and Sea-Level Rise at the Bølling Warming 14,600 Years Ago". *Nature* 483 (2012): 559–564. https://doi.org/10.1038/nature10902. (P08)
+- Dyer, Blake, et al. "Sea-Level Trends across the Bahamas Constrain Peak Last Interglacial Ice Melt". *PNAS* 118, n.º 15 (2021): e2026839118. https://doi.org/10.1073/pnas.2026839118. (P07)
+- Firestone, Richard B., et al. "Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling". *PNAS* 104, n.º 41 (2007): 16016–16021. (P10)
+- Freeth, Tony, et al. "Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism". *Nature* 454 (2008): 587–591. (DCA-000024)
+- Gauri, K. Lal, John J. Sinai, y Jayanta K. Bandyopadhyay. "Geologic Weathering and Its Implications on the Age of the Sphinx". *Geoarchaeology* 10, n.º 2 (1995): 119–133. https://doi.org/10.1002/gea.3340100203. (DCA-000012)
+- Ge, Yong, y Xing Gao. "Understanding the Overestimated Impact of the Toba Volcanic Super-Eruption on Global Environments and Ancient Hominins". *Quaternary International* 559 (2020): 24–33. https://doi.org/10.1016/j.quaint.2020.06.021. (P09)
+- Holliday, Vance T., et al. "Comprehensive Refutation of the Younger Dryas Impact Hypothesis (YDIH)". *Earth-Science Reviews* 247 (2023): 104502. https://doi.org/10.1016/j.earscirev.2023.104502. (P10)
+- Jaubert, Jacques, et al. "Early Neanderthal Constructions Deep in Bruniquel Cave in Southwestern France". *Nature* 534 (2016): 111–114. https://doi.org/10.1038/nature18291. (P02)
+- Jones, Morgan T., et al. "Paleocene/Eocene Carbon Feedbacks Triggered by Volcanic Activity". *Nature Communications* 12 (2021): 5186. https://doi.org/10.1038/s41467-021-25536-0. (H06)
+- Kathiroli, S., S. Badrinarayanan, y D. Venkata Rao. "Marine Archaeological Exploration in the Gulf of Khambhat (Cambay)". *Journal of the Geological Society of India* 60, n.º 4 (2002): 419–428. (DCA-000008)
+- Kimura, Masaaki. "Diving Survey Report for Submarine Ruins Off Yonaguni, Japan". Universidad de las Ryukyus, 2001. (DCA-000014)
+- Kimura, Masaaki. "Diving Survey of Underwater Ruins off Yonaguni Island". *Marine Technology Society Journal* 38, n.º 4 (2004): 92–108. (DCA-000014)
+- Kimura, Masaaki. "Ancient Megalithic Construction Beneath the Sea off Ryukyu Islands in Japan". *Proceedings of Oceans'04 MTS/IEEE Techno-Ocean'04* (2004): 947–953. (DCA-000014)
+- Liritzis, Ioannis, y Asimina Vafiadou. "Surface Luminescence Dating of Some Egyptian Monuments". *Journal of Cultural Heritage* 16 (2015): 134–150. (DCA-000021; SLD de Guiza)
+- Meltzer, David J., et al. "Chronological Evidence Fails to Support Claim of an Isochronous Widespread Layer of Cosmic Impact Indicators Dated to 12,800 Years Ago". *PNAS* 111, n.º 21 (2014): E2162–E2171.
+- Pinter, Nicholas, et al. "The Younger Dryas Impact Hypothesis: A Critical Review". *Quaternary Science Reviews* 30 (2011): 1301–1313.
+- Reader, Colin D. "A Geomorphological Study of the Giza Necropolis, with Implications for the Development of the Site". *Archaeometry* 43, n.º 1 (2001): 149–165. (DCA-000021)
+- Ruebens, Karen, et al. "Revised Age for Schöningen Hunting Spears Indicates Intensification of Neanderthal Cooperative Behavior around 200,000 Years Ago". *Science Advances* 11 (2025): adv0752. https://doi.org/10.1126/sciadv.adv0752. (P03)
+- Schmidt, Gavin A., y Adam Frank. "The Silurian Hypothesis: Would It Be Possible to Detect an Industrial Civilization in the Geological Record?" *International Journal of Astrobiology* 18 (2019): 142–150. https://doi.org/10.1017/S1473550418000095. (H01)
+- Schmidt, Klaus. "Göbekli Tepe – The Stone Age Sanctuaries. New Results of Ongoing Excavations with a Special Focus on Sculptures and High Reliefs". *Documenta Praehistorica* 37 (2010): 239–256. https://doi.org/10.4312/dp.37.21. (P05)
+- Sweatman, Martin B., Christopher R. Powell, y Allen West. "Rejection of Holliday et al.'s Alleged Refutation of the Younger Dryas Impact Hypothesis". *Earth-Science Reviews* 258 (2024): 104960. https://doi.org/10.1016/j.earscirev.2024.104960. (P10)
+- Waters, Colin N., et al. "The Anthropocene Is Functionally and Stratigraphically Distinct from the Holocene". *Science* 351, n.º 6269 (2016): aad2622. https://doi.org/10.1126/science.aad2622. (H05)
+- Wright, Jason T. "Prior Indigenous Technological Species". *International Journal of Astrobiology* 17 (2018): 96–100. https://doi.org/10.1017/S1473550417000143. (H02)
+- Yeung, Nicholas K. H., et al. "Assessing the Spatial Origin of Meltwater Pulse 1A Using Oxygen-Isotope Fingerprinting". *Paleoceanography and Paleoclimatology* 34, n.º 12 (2019): 2019PA003599. https://doi.org/10.1029/2019PA003599. (P08)
+
+## Libros de investigación e hipótesis alternativa
+
+- Bauval, Robert, y Graham Hancock. *Keeper of Genesis: A Quest for the Hidden Legacy of Mankind*. Londres: Heinemann, 1996.
+- Churchward, James. *The Lost Continent of Mu*. Nueva York: William Edwin Rudge, 1926.
+- von Däniken, Erich. *Chariots of the Gods?* Traducido del alemán. Nueva York: G. P. Putnam's Sons, 1969.
+- Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Nueva York: Harper & Brothers, 1882.
+- Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Londres: William Heinemann, 1995.
+- Hapgood, Charles H. *Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age*. Nueva York: Chilton Books, 1966.
+- Marshall, John. *Mohenjo-daro and the Indus Civilization*. 3 vols. Londres: Arthur Probsthain, 1931. (O11)
+- Schoch, Robert M., y Robert Bauval. *Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization*. Rochester, VT: Inner Traditions, 2017.
+- Sitchin, Zecharia. *The 12th Planet*. Nueva York: Stein and Day, 1976.
+- West, John Anthony. *Serpent in the Sky: The High Wisdom of Ancient Egypt*. Nueva York: Julian Press, 1979.
+
+## Informes, documentos institucionales y recursos de referencia
+
+- NASA. *NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop*. Houston: Lunar and Planetary Institute, 2018. (H03)
+- Evans, Amanda M., Joseph C. Flatman, y Nicholas C. Flemming, eds. *Prehistoric Archaeology on the Continental Shelf: A Global Review*. Nueva York: Springer, 2014. https://doi.org/10.1007/978-1-4614-9635-9. (P06)
+- Ramakrishna Rao, K. V. "Review of the Media Reports and Research Papers on the NIOT Survey Conducted at the Gulf of Khambhat (Cambay) 2000–2001, 2002 y 2024". Manuscrito/síntesis, 2025. (DCA-000008)
+- Karanth, R. V. Comentario, y S. Kathiroli et al., réplica. *Journal of the Geological Society of India* 61 (2003). (DCA-000002)
+- Colavito, Jason. "Tracking Down the Mahabharata 'Nuclear Bomb' Passage". Jason Colavito: A Skeptical Field Guide, 2014. http://www.jasoncolavito.com/blog/tracking-down-the-mahabharata-nuclear-bomb-passage. (DCA-000017)
+- Dutch, Steven. "The Piri Reis Map". Steven Dutch's Web Pages, 1998. http://www.stevedutch.net. (DCA-000019)
+- "The Orontius Finaeus Map". Bad Archaeology, 2011. http://www.badarchaeology.com. (DCA-000019)
+- "Mu". Bad Archaeology, 2011. http://www.badarchaeology.com. (DCA-000010)
+- "Naacal Tablets". Fake Archaeology Wiki, 2017. https://fakearchaeology.fandom.com. (DCA-000010)
+- "The Gulf of Khambat Debate". *Frontline*, 2002. (DCA-000008)
+- "Was the Antikythera Mechanism Babylonian?" *Forbes*, 2014. (DCA-000024)
+- "Japan's Ancient Underwater 'Pyramid'". *National Geographic*, 2021. (DCA-000014)
+- "Where Is Sundaland and Why Did It Disappear?" *Biology Insights*, 2025. (DCA-000027)
+- "Younger Dryas Impact Hypothesis". Wikipedia, estado 2025/2026. https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis. (DCA-000017)
+- "Sphinx Water Erosion Hypothesis". Wikipedia, estado 2025. https://en.wikipedia.org/wiki/Sphinx_water_erosion_hypothesis. (DCA-000021)
+- *Sumerian King List*, traducción ETCSL t.2.1.1. Oxford: Electronic Text Corpus of Sumerian Literature. https://etcsl.orinst.ox.ac.uk. (T01)
+- Gunung Padang. "Archaeological Prospection Evidence for Non-Artificial Geological Structures of Pre-Pottery Construction". *Archaeological Prospection* 30, n.º 3 (2023): 329–342. https://doi.org/10.1002/arp.1912. (Retractado; véase retractación en https://doi.org/10.1002/arp.1932)
+
+## Registros del proyecto (trazabilidad interna)
+
+- *Registro de evidencia primaria (REGISTRO_EVIDENCIA_PRIMARIA.jsonl)*. Proyecto de investigación de civilizaciones anteriores. `docs/investigacion_civilizaciones_anteriores/g4_masiva/`.
+- *Registro consolidado de afirmaciones (REGISTRO_CONSOLIDADO_AFIRMACIONES_V1.jsonl)*. Proyecto de investigación de civilizaciones anteriores. `docs/investigacion_civilizaciones_anteriores/g4_masiva/`.
+- *Matriz de fuentes* (MATRIZ_FUENTES_V1.md). Proyecto de investigación de civilizaciones anteriores.
+
+
+---
+
+
+# Apéndice A. Protocolo de verificación
+
+Este apéndice reúne, de forma operativa y reutilizable, el método que el libro aplica caso por caso. Es la herramienta que el lector puede llevar consigo para evaluar cualquier afirmación extraordinaria sobre el pasado. Se compone de tres piezas: las **seis etiquetas**, los **cinco criterios** del hallazgo real y las **cinco preguntas** de la entrevista al dato.
+
+---
+
+## A.1 Las seis etiquetas
+
+Toda afirmación sobre el pasado se clasifica en una de seis casillas. La clasificación no es un juicio de valor sobre la persona que afirma; es una decisión sobre el **estado probatorio** de la afirmación.
+
+1. **Hecho documentado.** Hay una fuente, un objeto o un dato verificable detrás. Es el suelo firme. Ejemplo: el mapa de Piri Reis existe y está fechado en 1513; el pasaje del arma de Aśvatthāman existe en el *Drona Parva*.
+2. **Interpretación.** Alguien lee un hecho de una manera razonable, pero no es el hecho mismo. Ejemplo: que el perfil redondeado de la Esfinge *sea* erosión por lluvia antigua (Schoch) frente a cristalización salina (Gauri).
+3. **Hipótesis.** Una explicación propuesta, todavía sin confirmar, formulada para ser puesta a prueba. Ejemplo: la Esfinge tallada hacia el 10.000 a.C.
+4. **Especulación.** Una conjetura sin apoyo suficiente; la hipótesis que no ha hecho los deberes. Ejemplo: las tablillas Naacal de Churchward sin cadena documental.
+5. **Contradicción.** Dos fuentes o interpretaciones incompatibles que exigen resolución. Ejemplo: la YDIH refutada por Holliday et al. (2023) y defendida por Sweatman et al. (2024).
+6. **Ausencia de datos.** No hay información suficiente sobre un punto. **No es una refutación ni una prueba.** Ejemplo: no se ha datado el recinto de la Esfinge con isótopos cosmogénicos; el pasaje del Mahābhārata, en la versión que circula, carece de una referencia trazable fiable.
+
+Regla: **la carga de la prueba recae sobre quien afirma.** Lo extraordinario exige evidencia proporcional, no un gesto de incredulidad ni un asentimiento.
+
+---
+
+## A.2 Los cinco criterios del hallazgo real
+
+Para que un hallazgo se considere evidencia sólida de una civilización anterior (o de cualquier afirmación extraordinaria), debe cumplir los cinco criterios:
+
+1. **Contexto estratigráfico fiable.** El objeto está en una capa de la edad que se afirma, en posición primaria, extraído con excavación controlada y con registro de su posición.
+2. **Procedencia documentada.** Hay una cadena de custodia que registra dónde ha estado el objeto y quién lo ha manejado.
+3. **Explicación natural descartada.** Los procesos naturales conocidos no pueden explicar el objeto.
+4. **Replicación independiente.** Otros laboratorios o investigadores verifican el resultado.
+5. **Conjunto de marcadores.** No es un solo dato aislado, sino un conjunto de señales coherentes (aleaciones, compuestos, geometrías, concentraciones) en el mismo lugar y tiempo.
+
+Un hallazgo que falla en uno o más criterios queda degradado de categoría; no se "convierte" automáticamente en una prueba ni se descarta sin examen.
+
+---
+
+## A.3 Las cinco preguntas (la entrevista al dato)
+
+Ante cualquier afirmación, el investigador aplica cinco preguntas:
+
+1. **¿Cuál es la afirmación exacta?** (No la versión difusa; la proposición comprobable).
+2. **¿De dónde viene?** (¿Cuál es la fuente, la edición, el pasaje, el objeto?).
+3. **¿Cuál es la evidencia?** (¿Qué dato verificable la apoya?).
+4. **¿Qué la refutaría?** (¿Cuál es el dato de falsación?).
+5. **¿Qué no sabemos todavía?** (¿Cuál es la ausencia de datos honesta?).
+
+Estas preguntas se aplican igual a un texto antiguo (con el **cotejo** de la fuente), a un objeto arqueológico (con la cadena de custodia y la estratigrafía) y a una anomalía geológica (con los controles naturales y la replicación).
+
+---
+
+## A.4 Reglas de oro (no negociables)
+
+1. **Ausencia de datos ≠ refutación ni prueba.** La falta de evidencia no cierra la pregunta ni la abre; la deja en su lugar.
+2. **Catástrofe ≠ civilización.** Un evento destructivo real (impacto, inundación, erupción) no prueba que haya borrado una civilización avanzada. Son proposiciones distintas.
+3. **La carga de la prueba sobre quien afirma.** Lo extraordinario exige evidencia proporcional.
+4. **¿Cómo se sabría?** El hilo conductual que cierra cada capítulo de la Parte II: una afirmación solo vale si define qué dato la confirmaría o la refutaría.
+
+---
+
+## A.5 Plantilla de evaluación por caso
+
+Para cada caso del libro (véase Apéndice B), la evaluación se registra en esta plantilla:
+
+| Campo | Registro |
+|---|---|
+| Afirmación original (tal como circula) | |
+| Hechos documentados | |
+| Interpretaciones en disputa (≥2) | |
+| Hipótesis | |
+| Especulaciones | |
+| Contradicciones | |
+| Ausencia de datos | |
+| Dato de falsación | |
+| Referencia trazable (source_id/claim_id) | |
+| Veredicto etiquetado | |
+| La pregunta que queda | |
+
+---
+
+## A.6 Límites del protocolo
+
+El protocolo no puede **demostrar la ausencia** (no cierra la búsqueda); depende de la **calidad de la información** (sin objeto ni contexto no hay nada que examinar); y no **predice el futuro** (no es una bola de cristal, es una vara de medir). Un método que reconoce sus límites es más confiable que uno que pretende no tenerlos.
+
+
+---
+
+
+# Apéndice B. Catálogo de casos
+
+Catálogo de los casos examinados en la Parte II del libro (capítulos 4 a 10), con la afirmación original, el estado probatorio, el veredicto etiquetado y la referencia trazable del registro del proyecto. Cada entrada sigue la plantilla del Apéndice A.
+
+---
+
+## B.1 La Esfinge y su enigma (Cap. 4)
+
+- **Afirmación original.** La Esfinge de Guiza es mucho más antigua que la IV Dinastía —quizá de la última Edad de Hielo, hacia el 10.000 a.C.—, lo que implicaría una civilización avanzada anterior a los faraones. (Schoch y West; DCA-000021, CLM-000001)
+- **Hechos documentados.** La Esfinge y su recinto están tallados en caliza; los geofísicos midieron una variación en la profundidad de meteorización subsuperficial; los templos asociados datan por luminiscencia de mediados a finales del III milenio a.C. (Liritzis & Vafiadou 2015).
+- **Interpretaciones en disputa.** Erosión por lluvia antigua (Schoch) frente a cristalización salina en clima árido y karst pre-Plioceno (Gauri et al. 1995); resolución intermedia: Esfinge de las dinastías tempranas (Reader 2001).
+- **Veredicto.** **Hipótesis no confirmada.** No hay un solo hecho que demuestre la edad antigua; la datación de los templos apunta al III milenio a.C.
+- **Dato que falta.** Datación del recinto (isótopos cosmogénicos), no de los templos.
+- **La pregunta que queda.** ¿Qué edad tiene el recinto tallado de la Esfinge, medido directamente?
+
+---
+
+## B.2 Los mapas que "mostraban" la Antártida (Cap. 5)
+
+- **Afirmación original.** Los mapas de Piri Reis (1513) y Oronteus Finaeus (1531) muestran la Antártida sin hielo, evidenciando una civilización cartográfica antigua avanzada. (Hapgood 1966; DCA-000019)
+- **Hechos documentados.** Los mapas existen; el de Piri Reis lleva anotaciones que describen la costa sur como "muy caliente", con loros y serpientes —típicas de Sudamérica tropical, no de la Antártida.
+- **Interpretaciones en disputa.** La "costa antártica" es el extremo inferior de Sudamérica distorsionado para encajar en el pergamino; la *Terra Australis* de Finaeus es un continente teórico de la geografía renacentista, no un levantamiento de la Antártida.
+- **Veredicto.** **Falsada.** La "coincidencia" dependía de rotar el mapa, reescalarlo y elegir una proyección a medida (Hapgood rotó 20°, movió el polo 7,5° = 1.600 km y reescaló ~230%).
+- **La pregunta que queda.** ¿Qué proyección usó realmente Piri Reis, y qué costa representa su extremo sur?
+
+---
+
+## B.3 Atlántida y Mu (Cap. 6)
+
+- **Afirmación original.** Existió un continente/isla madre de la civilización, Atlántida (océano Atlántico) o Mu (Pacífico), hundido en una catástrofe, del que descienden todas las culturas.
+- **Hechos documentados.** Platón la usa como relato filosófico en *Timeo* y *Critias*; Donnelly (1882) la convirtió en "cuna de la civilización"; Churchward afirmó descifrar las tablillas Naacal, sin cadena documental.
+- **Contradicciones.** Las fuentes no coinciden en ubicación, tamaño, fecha ni detalles; las tablillas Naacal no tienen procedencia verificable.
+- **Veredicto.** **Sin confirmar.** Un relato poderoso no es una evidencia; la belleza de una historia no la convierte en un hecho.
+- **La pregunta que queda.** ¿Hay algún registro geológico de un continente hundido en la escala que los mitos describen?
+
+---
+
+## B.4 Cuando el cielo cayó (Cap. 7)
+
+- **Afirmación original.** Un cataclismo cósmico (hace ~12.900 años, Younger Dryas) o una erupción (Toba, ~74 ka) destruyó una civilización avanzada de la Edad de Hielo.
+- **Hechos documentados.** El impacto hipotético de la YDIH y la erupción de Toba son eventos reales en debate científico. Sundaland es un hecho paleogeográfico: la subida del mar (~120–130 m) hundió paisajes costeros.
+- **Contradicciones.** La YDIH está refutada por Holliday et al. (2023) y defendida por Sweatman et al. (2024): controversia activa y polarizada. La versión clásica del "cuello de botella" de Toba ha perdido apoyo.
+- **Veredicto.** **Evento real sin civilización.** Aun si hubo catástrofe, eso no demuestra que borrara una civilización avanzada. (Regla: catástrofe ≠ civilización.)
+- **La pregunta que queda.** ¿Qué dato distinguiría un impacto real de un origen volcánico o natural, y qué evidencia cultural quedaría?
+
+---
+
+## B.5 Las ciudades sumergidas (Cap. 8)
+
+- **Afirmación original.** Yonaguni (Japón) y la Bahía de Cambay (India) albergan ciudades sumergidas de civilizaciones perdidas, de miles o decenas de miles de años de antigüedad.
+- **Hechos documentados.** Yonaguni es una formación de arenisca que la geología explica como fracturación natural de la arenisca Yaeyama (Schoch: "geología clásica"); el ¹⁰Be de Kimura dio edades de 2.000–3.000 años en Sanninu-dai, no 10.000. Cambay fue dragada destructivamente; la madera de ~9.500 años no puede asociarse a estructuras.
+- **Contradicciones.** La atribución humana de Yonaguni es rechazada por la mayoría de geólogos; el hallazgo de Cambay fue criticado por Mahadevan, Parpola y Morris por falta de contexto.
+- **Veredicto.** **No confirmada.** Restos sumergidos reales, pero sin contexto estratigráfico que los asocie a una ciudad antigua; anomalías de prospección.
+- **La pregunta que queda.** ¿Qué excavación controlada y datación directa de los "muros" de Yonaguni o Cambay resolvería el caso?
+
+---
+
+## B.6 Los dioses, los astros y las máquinas (Cap. 9)
+
+- **Afirmación original.** Las mitologías de dioses astronautas (Anunnaki de Sitchin) o los mecanismos antiguos (Anticitera) son evidencia de tecnología o presencia extraterrestre/avanzada en la antigüedad.
+- **Hechos documentados.** El mecanismo de Anticitera (~205–60 a.C.) es una tecnología helenística real, contextualizada y estudiada (Freeth et al. 2008). Los relatos de los Anunnaki son una interpretación de textos mesopotámicos.
+- **Interpretaciones en disputa.** Tecnología humana helenística frente a "regalo" o "sobrelectura"; la lectura de Sitchin no es aceptada por los asiriólogos.
+- **Veredicto.** **Sobrelectura.** Lo que algunos presentan como "prueba de civilización perdida" a veces demuestra lo contrario: la capacidad humana real y contextualizada.
+- **La pregunta que queda.** ¿Qué parte de lo "misterioso" en los mecanismos antiguos se explica por el ingenio humano documentado?
+
+---
+
+## B.7 El arma que no fue (Cap. 10)
+
+- **Afirmación original.** El *Mahābhārata* describe armas nucleares (explosiones "de diez mil soles", cabellos y uñas caídos, alimentos envenenados) que demuestran tecnología nuclear en la antigüedad.
+- **Hechos documentados.** El pasaje real está en el *Drona Parva*, *Drona-vadha Parva*, Sección CCI (= 7.202 en numeración Ganguli), Vol. VII, pp. 544–545: describe el **arma Agneya** (fuego: oscuridad, "el sol ya no daba calor", meteoros, elefantes quemados). La referencia "3.186–189" fue un error: esos capítulos en Debroy/BORI son la *Vaivahika Parva* (boda de Droupadi).
+- **Contradicciones.** La cita viral (10.000 soles, cabellos/uñas, alimentos) es una versión condensada/alterada (rastreada por Colavito vía von Däniken) que no corresponde al texto.
+- **Veredicto.** **Interpretación moderna sin base en el texto; caso resuelto por cotejo.** El pasaje describe un arma divina de fuego con hipérbole épica, no un arma nuclear.
+- **La pregunta que queda.** ¿Por qué la cita viral siguió circulando décadas después de haberse localizado su origen y su alteración?
+
+---
+
+## B.8 Controles positivos de capacidad humana (Cap. 3)
+
+No son casos de "civilización perdida", sino controles de lo que la prehistoria profunda realmente produjo y preservó:
+
+- **Kalambo Falls** (≥476 ka): troncos trabajados y encajados con muesca, de origen humano; madera preservada en depósitos anegados. (P01)
+- **Bruniquel** (176,5 ± 2,1 ka): anillos de espeleofactos rotos y fuego a 336 m de profundidad, construcciones neandertales. (P02)
+- **Schöningen** (~200 ka): lanzas de madera y caza cooperativa; refecha la versión popular de ~300–400 ka. (P03)
+- **Göbekli Tepe** (X milenio a.C.): arquitectura monumental neolítica; complejidad organizativa real, de ~11.600 años, no de cientos de miles. (P05)
+
+**Veredicto colectivo:** demuestran capacidad y preservación, no urbanismo, metalurgia ni industria. Informan sobre qué es *posible* preservar y cuán antigua es la complejidad humana.
+
+
+---
+
+
+# Apéndice C. Tabla de estados probatorios
+
+Resumen consolidado del estado probatorio de los principales casos y marcos del libro. La columna "Estado" usa las seis etiquetas del método (hecho / interpretación / hipótesis / especulación / contradicción / ausencia de datos). La columna "Dato que faltaría" indica qué evidencia cambiaría el veredicto (falsabilidad).
+
+| # | Caso / marco | Cap. | Estado | Veredicto etiquetado | Dato que faltaría | Ref. |
+|---|---|---|---|---|---|---|
+| 1 | Esfinge de Guiza más antigua que la IV Dinastía | 4 | Hipótesis no confirmada | No evidencia de civilización anterior; monumento dentro de la historia egipcia (III milenio a.C.) | Datación directa del recinto (isótopos cosmogénicos) | DCA-000021, 000012 |
+| 2 | Mapas que muestran la Antártida sin hielo | 5 | Falsada | La "coincidencia" dependía de proyección y ajustes a medida; costa sur = Sudamérica distorsionada | Un análisis de proyección independiente que reproduzca la coincidencia | DCA-000019 |
+| 3 | Atlántida / Mu | 6 | Sin confirmar | Relato filosófico y mitos sin registro geológico de continente hundido | Registro geológico de un continente hundido en la escala descrita | Platón; Donnelly; Churchward |
+| 4 | Cataclismo que borró una civilización (YDIH / Toba / Sundaland) | 7 | Evento real sin civilización | Catástrofes reales; no demuestran civilización borrada | Evidencia cultural estratigráfica asociada al evento | DCA-000017; P09; P10 |
+| 5 | Ciudades sumergidas (Yonaguni / Cambay) | 8 | No confirmada | Formaciones naturales / anomalías de prospección sin contexto | Excavación controlada y datación directa de los "muros" | DCA-000014, 000008 |
+| 6 | Dioses, astros y máquinas (Anunnaki / Anticitera) | 9 | Sobrelectura | Ingenio humano real y contextualizado | Vínculo trazable entre mito y tecnología avanzada | DCA-000024; Sitchin |
+| 7 | Arma nuclear en el *Mahābhārata* | 10 | Interpretación moderna sin base textual | Arma Agneya de fuego con hipérbole épica; caso resuelto por cotejo | Una referencia trazable que reproduzca la cita viral en el original | DCA-000017; Ganguli; Debroy |
+| — | Controles de capacidad humana (Kalambo, Bruniquel, Schöningen, Göbekli) | 3 | Hechos documentados | Capacidad y preservación reales; no civilización industrial | — (controles positivos, no casos) | P01–P05 |
+
+## Marcos metodológicos
+
+| Marco | Estado | Uso en el libro |
+|---|---|---|
+| Hipótesis silúrica (Schmidt & Frank 2019) | Marco científico falsable, sin detección positiva | Cap. 1, 11, 12: define "cómo se sabría" |
+| Especie tecnológica previa (Wright 2018) | Hipótesis de búsqueda | Cap. 11 |
+| Tecnofirmas (NASA 2018) | Programa de observación | Cap. 11 |
+| Protocolo de verificación (5 criterios, 5 preguntas) | Método del libro | Cap. 11, 12, Apéndice A |
+
+## Lectura de la tabla
+
+- Un caso marcado como **Falsada** o **Interpretación moderna sin base** ha sido refutado o resuelto por la evidencia/cotejo.
+- Un caso marcado como **Hipótesis no confirmada** o **No confirmada** no está demostrado, pero tampoco se ha cerrado: espera un dato.
+- Un caso marcado como **Evento real sin civilización** o **Sin confirmar** separa el hecho (el evento/relato existe) de la conclusión (que pruebe una civilización anterior).
+- La columna "Dato que faltaría" cumple el requisito de **falsabilidad**: cada afirmación define qué evidencia la confirmaría o la refutaría.
+
+**Conclusión transversal:** ninguna de las afirmaciones de una civilización tecnológica anterior pasa hoy el estándar de los cinco criterios. La ausencia de prueba **no es** prueba de ausencia; la pregunta permanece abierta, con un método para saber cómo se sabría.
+
+
+---
+
+
+# Índice analítico
+
+Los números de página se asignan en la edición definitiva. Aquí se indica el capítulo y la sección temática de cada término.
+
+## A
+- Anticitera, mecanismo de — Cap. 9 (B.6, Apéndice B)
+- Armas divinas (*astra*) del Mahābhārata — Cap. 10
+- Astronautas de la antigüedad — Caps. 1, 9
+- Atlántida — Caps. 1, 6 (B.3)
+- Ausencia de datos — Caps. 1, 2, 12; Apéndices A, C
+
+## B
+- BORI (edición crítica del Mahābhārata) — Cap. 10
+- Bruniquel, cueva de — Caps. 3, Apéndice B (B.8)
+
+## C
+- Cadena de custodia — Caps. 8, 12
+- Cambay, Bahía de — Cap. 8 (B.5)
+- Carga de la prueba — Caps. 2, 12; Apéndice A
+- Catástrofe vs. civilización (regla anti-error) — Caps. 2, 7, 12
+- Cita viral — Cap. 10
+- Contradicción (etiqueta) — Cap. 1
+- Cotejo — Caps. 1, 10; Apéndice A
+- Cristalización salina (Esfinge) — Cap. 4
+
+## D
+- Datación por luminiscencia (OSL/SLD) — Caps. 3, 4
+- Desplazamiento cortical (Hapgood) — Cap. 5
+- Donnelly, Ignatius — Caps. 1, 6
+- Drona Parva — Cap. 10
+
+## E
+- Esfinge de Guiza — Caps. 1, 4, 12 (B.1)
+- Especulación (etiqueta) — Cap. 1
+- Estratigrafía — Caps. 2, 3
+- Evento real sin civilización (veredicto) — Cap. 7; Apéndices B, C
+
+## F
+- Falsación / falsabilidad — Caps. 2, 12; Apéndices A, C
+- Finaeus, Oronteus — Cap. 5 (B.2)
+
+## G
+- Ganguli, Kisari Mohan (traducción) — Cap. 10
+- Gauri, K. Lal — Caps. 2, 4
+- Glosario — Introducción, Apéndice
+- Göbekli Tepe — Cap. 3 (B.8)
+
+## H
+- Hancock, Graham — Caps. 1, 5, 7
+- Hapgood, Charles — Cap. 5 (B.2)
+- Hecho documentado (etiqueta) — Cap. 1
+- Hipótesis (etiqueta) — Cap. 1
+- Hipótesis silúrica — Caps. 1, 11
+
+## I
+- Interpretación (etiqueta) — Cap. 1
+- Introducción — Cap. inicial
+- Índice analítico — final
+
+## K
+- Kalambo Falls — Caps. 3, Apéndice B (B.8)
+- Kimura, Masaaki — Cap. 8
+
+## L
+- Liritzis, Ioannis — Cap. 4
+- Luminiscencia de superficies — Caps. 3, 4
+
+## M
+- Mahābhārata — Caps. 3, 10 (B.7)
+- Mapas de Piri Reis — Cap. 5 (B.2)
+- Marshall, John (Mohenjo-daro) — Apéndice B
+- Meteorización — Cap. 4
+- Mohenjo-daro — Apéndice B
+- Mu — Caps. 1, 6 (B.3)
+
+## N
+- NASA, tecnofirmas — Caps. 1, 11
+- No ficción narrativa — Prólogo, Introducción
+
+## O
+- OSL (luminiscencia ópticamente estimulada) — Caps. 3, 4
+
+## P
+- Piri Reis, mapa de — Cap. 5 (B.2)
+- Platón — Caps. 1, 6
+- Posición primaria — Caps. 8, 12
+- Protocolo de verificación — Caps. 11, 12; Apéndice A
+- Proyección cartográfica — Cap. 5
+
+## R
+- Reader, Colin — Cap. 4
+- Replicación independiente — Caps. 2, 12
+
+## S
+- Schoch, Robert — Caps. 1, 4
+- Schöningen — Caps. 3, Apéndice B (B.8)
+- Sedimento — Caps. 1, 3, 11, 12, Epílogo
+- Sitchin, Zecharia — Caps. 1, 9
+- Sundaland — Cap. 7 (B.4)
+
+## T
+- Tecnofirma — Caps. 1, 11
+- Toba, erupción — Cap. 7
+- Terra Australis — Cap. 5
+
+## Y
+- YDIH (Younger Dryas Impact Hypothesis) — Caps. 7, Apéndice C
+- Yonaguni — Cap. 8 (B.5)
+
 
 ---

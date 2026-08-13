@@ -12,7 +12,7 @@ Antes de examinar el pasaje, conviene reconocer lo que el Mahābhārata es realm
 
 El Mahābhārata es una de las grandes epopeyas de la humanidad, y una de las obras más largas jamás compuestas: cerca de cien mil versos, más que la Ilíada y la Odisea juntas y multiplicadas. Narra la guerra entre dos ramas de una misma familia —los Kauravas y los Pandavas— por el trono, en el marco de una gran batalla en la llanura de Kurukshetra. Pero es mucho más que un relato de guerra: contiene filosofía (como el célebre *Bhagavad Gita*, que se inserta en el poema), mitos, leyendas, cosmología, derecho, moral y una riqueza narrativa y poética inmensa.
 
-El Mahābhārata es, además, una obra de una civilización real: la India antigua, con su religión, su filosofía, su literatura. Se compuso y se transmitió durante siglos, con una historia textual compleja, que los eruditos han estudiado con métodos filológicos rigurosos. La edición crítica, preparada por el Instituto de Investigación Oriental de Bhandarkar (BORI) a lo largo de varias décadas, colaciona cientos de manuscritos para reconstruir el texto. Este trabajo filológico es la base sobre la que cualquier cita del poema debe apoyarse.
+El Mahābhārata es, además, una obra de una civilización real: la India antigua, con su religión, su filosofía, su literatura. Se compuso y se transmitió durante siglos, con una historia textual compleja, que los eruditos han estudiado con métodos filológicos rigurosos. La edición crítica, preparada por el Instituto de Investigación Oriental de Bhandarkar (BORI) a lo largo de varias décadas, colaciona cientos de manuscritos para reconstruir el texto.[^1] Este trabajo filológico es la base sobre la que cualquier cita del poema debe apoyarse.
 
 Esta riqueza es, paradójicamente, parte de la razón por la que el poema se presta tanto a la sobrelectura. El Mahābhārata contiene tantas cosas —guerra, mito, filosofía, moral, cosmología— que es fácil encontrar en él casi cualquier cosa que se busque. Si quieres encontrar una guerra, la hay; si quieres encontrar una filosofía profunda, la hay (el *Bhagavad Gita*); si quieres encontrar armas poderosas, las hay, descritas con lenguaje grandioso. Esa amplitud es lo que hace que la obra sea tan rica —y también lo que permite que se le atribuyan lecturas que no están en su intención. La pregunta del método no es si se puede encontrar algo en el poema, sino si ese algo es lo que el poema dice, en su contexto. Y eso es lo que el cotejo determina.
 
@@ -56,7 +56,7 @@ Aquí es donde el método empieza su trabajo, y donde aparece un primer hallazgo
 
 Ahora llega el momento central de este capítulo: ir al texto real y cotejar la cita. Hice esto en la investigación que dio origen a este libro, y el resultado merece ser contado con cuidado.
 
-Localicé el pasaje en el **Drona Parva**, en la sección que narra el arma desatada por Aśvatthāman. En la numeración de la edición crítica, y en la traducción clásica de Ganguli, el pasaje corresponde a la **Sección CCI** del Drona-vadha Parva —la parte que en la numeración tradicional se identifica como el pasaje del arma de Aśvatthāman. Y el texto dice, en la traducción de Ganguli, algo como esto:
+Localicé el pasaje en el **Drona Parva**, en la sección que narra el arma desatada por Aśvatthāman. En la numeración de la edición crítica, y en la traducción clásica de Ganguli, el pasaje corresponde a la **Sección CCI** del Drona-vadha Parva[^2] —la parte que en la numeración tradicional se identifica como el pasaje del arma de Aśvatthāman. Y el texto dice, en la traducción de Ganguli, algo como esto:
 
 > "...el hijo del preceptor invocó el **arma Agneya** (el arma de fuego)... Endudada de llamas ardientes... **Meteoros cayeron del firmamento. Una densa oscuridad envolvió al ejército**... **El sol mismo ya no daba calor**... **Los elementos parecían perturbados. El sol parecía girar. El universo, abrasado por el calor, parecía estar en fiebre. Los elefantes y demás criaturas, abrasados por la energía de esa arma, huían aterrorizados**... Abrasados por la energía del arma de Aśvatthāman, los cuerpos de los caídos no podían distinguirse."
 
@@ -122,7 +122,7 @@ Este contexto es decisivo para el método. Cuando se lee el pasaje de Aśvatthā
 
 El problema de la cita viral merece un desarrollo propio, porque su historia es una de las lecciones más claras de trazabilidad de todo el libro.
 
-La cita que circula por internet —la de "diez mil soles", "cabellos y uñas", "alimentos envenenados"— no proviene de una traducción filológica directa y fiel del pasaje. Proviene de una cadena de transformaciones. El investigador Jason Colavito ha rastreado esta genealogía, y ha mostrado que la cita se remonta a una versión condensada de la traducción de Ganguli del siglo XIX, que fue a su vez transformada por autores posteriores. Erich von Däniken, en su libro *Chariots of the Gods* (1968), presentó una versión de la cita como prueba de tecnología antigua, y desde entonces la cita se ha copiado y transformado en innumerables libros, sitios y documentales.
+La cita que circula por internet —la de "diez mil soles", "cabellos y uñas", "alimentos envenenados"— no proviene de una traducción filológica directa y fiel del pasaje. Proviene de una cadena de transformaciones. El investigador Jason Colavito ha rastreado esta genealogía, y ha mostrado que la cita se remonta a una versión condensada de la traducción de Ganguli del siglo XIX[^3], que fue a su vez transformada por autores posteriores. Erich von Däniken, en su libro *Chariots of the Gods* (1968), presentó una versión de la cita como prueba de tecnología antigua[^4], y desde entonces la cita se ha copiado y transformado en innumerables libros, sitios y documentales.
 
 En cada paso de esta cadena, la cita se ha ido alejando del texto original. Se han condensado pasajes, se han añadido detalles, se han alterado imágenes. La versión que circula hoy —con "diez mil soles", "cabellos y uñas", "alimentos envenenados"— ya no corresponde al pasaje real, tal como lo da la traducción de Ganguli y la edición crítica. Es una versión transformada por décadas de copiado e interpretación.
 
@@ -255,3 +255,15 @@ Con el Mahābhārata, hemos cerrado la segunda parte: siete casos, cada uno exam
 Y esa precisión es exactamente lo que llevamos a la tercera parte. Porque, como veremos, la pregunta de fondo —¿existió una civilización anterior?— no se responde con un sí o un no categórico, sino con un mapa de lo que se sabe, lo que no se sabe, y cómo se sabría. Esa es la síntesis que nos espera, y es la que da sentido a todo el camino recorrido a lo largo de esta larga segunda parte del libro.
 
 Hay, para terminar, una imagen que resume este capítulo y que conviene conservar mientras cruzamos a la tercera parte. Imagina una biblioteca donde está el Mahābhārata. En una estantería, la edición crítica, con su aparato filológico; en otra, las traducciones, de Ganguli a Debroy; en otra, las obras de la literatura "perdida" que citan el poema. Entre la edición crítica y las obras que lo citan, hay una distancia —la distancia entre lo que el texto dice y lo que se le atribuye. El método es el gesto de medir esa distancia: tomar la cita, ir a la edición, y comprobar. En el caso del arma que no fue, la distancia es enorme —y al medirla, la afirmación se deshace. Con esa vara —la medida de la distancia entre el texto y su atribución, y la certeza de que verificar siempre vale la pena— cruzamos a la tercera parte del libro, donde reuniremos todo lo aprendido.
+
+---
+
+## Notas
+
+[^1]: Edición crítica del *Mahābhārata* del Bhandarkar Oriental Research Institute (BORI), Pune, completada a lo largo de varias décadas (1933–1966). La traducción filológica moderna en que se apoya la cotejo: Bibek Debroy, *Mahabharata*, edición crítica BORI, 10 vols. (Gurgaon: Penguin Books India, 2010–2014). (DCA-000017.)
+
+[^2]: *Mahabharata*, Libro 7 (*Drona Parva*), *Drona-vadha Parva*, Sección CCI (= Drona Parva 7.202 en la numeración de Ganguli), Vol. VII, pp. 544–545, trad. Kisari Mohan Ganguli (Calcuta: Bharata Press, 1883–1896). El pasaje describe el arma Agneya (de fuego). (DCA-000017.)
+
+[^3]: Jason Colavito, "Tracking Down the Mahabharata 'Nuclear Bomb' Passage", Jason Colavito: A Skeptical Field Guide, 2014. (DCA-000017.)
+
+[^4]: Erich von Däniken, *Chariots of the Gods?* (Nueva York: G. P. Putnam's Sons, 1969; edición original alemana de 1968). Sobre la versión condensada/alterada de la cita, véase también la nota anterior y el cotejo con Ganguli. (DCA-000017.)

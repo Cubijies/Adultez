@@ -10,7 +10,7 @@ Este capítulo examina ambos casos, y la pregunta que los atraviesa es la misma 
 
 La historia de cómo Yonaguni pasó de ser una formación submarina a un caso célebre de "ciudad perdida" es instructiva, porque muestra cómo se construye una afirmación a lo largo del tiempo, y cómo los ecos la amplifican.
 
-En 1986, un buceador local descubrió las formaciones. Durante unos años, fueron una curiosidad para los buzos de la zona. Fue Masaaki Kimura quien, a partir de los años noventa, las estudió de forma sistemática y las convirtió en una afirmación. Kimura, geólogo marino de la Universidad de las Ryukyu, pasó años buceando, midiendo y mapeando las formaciones, y se convenció de que eran artificiales.
+En 1986, un buceador local descubrió las formaciones. Durante unos años, fueron una curiosidad para los buzos de la zona. Fue Masaaki Kimura quien, a partir de los años noventa, las estudió de forma sistemática[^1] y las convirtió en una afirmación. Kimura, geólogo marino de la Universidad de las Ryukyu, pasó años buceando, midiendo y mapeando las formaciones, y se convenció de que eran artificiales.
 
 Su afirmación, presentada en congresos y publicada en artículos, creció en detalle con los años. Kimura habló de una "pirámide" escalonada de decenas de metros, de terrazas, de una "calzada" que rodeaba la estructura, de canales de drenaje, de una puerta o arco, de piedras talladas con símbolos. Incluso mencionó la conexión con la leyenda de Mu —el continente perdido del Pacífico que vimos en el capítulo 6—, sugiriendo que las formaciones podrían ser restos de esa civilización.
 
@@ -40,7 +40,7 @@ Según Kimura, la datación se basa en muestras de carbono-14 y de berilio-10 re
 
 Pero aquí está el problema de método, que ya hemos visto en el capítulo 2: **la fecha de una muestra no es la fecha de una construcción.** Que una estalactita tenga 10.000 o 40.000 años no dice nada sobre cuándo se talló la "pirámide" — si es que se talló. Las estalactitas datan cuándo la cueva estuvo emergida, no cuándo se cortó la roca. Usarlas para datar la supuesta talla es un salto que no está justificado.
 
-Hay, además, una discrepancia reveladora en las propias dataciones de Kimura. Un estudio de berilio-10 que él mismo presentó dató la torre costera asociada (Sanninu-dai) en unos 2.000–3.000 años, no en 10.000. Es decir, las cifras no son consistentes entre sí: unas apuntan a 10.000 años, otras a 2.000–3.000. Esa inconsistencia es una señal de alerta, porque una datación sólida debería converger.
+Hay, además, una discrepancia reveladora en las propias dataciones de Kimura. Un estudio de berilio-10 que él mismo presentó dató la torre costera asociada (Sanninu-dai) en unos 2.000–3.000 años, no en 10.000.[^2] Es decir, las cifras no son consistentes entre sí: unas apuntan a 10.000 años, otras a 2.000–3.000. Esa inconsistencia es una señal de alerta, porque una datación sólida debería converger.
 
 Y, sobre todo, ninguna de estas fechas data directamente el momento en que se habría tallado la roca. Para datar una talla en roca viva, haría falta un método como la exposición cosmogénica sobre la propia superficie tallada — y eso no se ha hecho de forma concluyente en Yonaguni. La cifra de "10.000 años" circula por los documentales, pero no tiene detrás una datación de la supuesta construcción.
 
@@ -122,7 +122,7 @@ Conviene precisar el estado de Yonaguni con la misma honestidad que hemos usado 
 
 Pasemos ahora al segundo caso: el golfo de Cambay (o Khambhat), frente a la costa occidental de la India. Aquí la historia es diferente de la de Yonaguni, porque no se trata solo de formas vistas por buceadores, sino de prospecciones con sonar y de artefactos recuperados.
 
-En diciembre de 2000, el Instituto Nacional de Tecnología Oceánica de la India (NIOT), mientras realizaba estudios de contaminación en el golfo de Cambay, detectó con sonar de barrido lateral unas formas geométricas en el fondo marino, a 20–40 metros de profundidad, a lo largo de un paleocanal —un antiguo cauce de río sumergido. Las formas parecían rectangulares, organizadas, casi como un plano de asentamiento. Los investigadores, sorprendidos, ampliaron el estudio y recuperaron, mediante dragados, una serie de materiales que interpretaron como artefactos: una cuenta de piedra, fragmentos de cerámica, herramientas de piedra, huesos humanos, y madera.
+En diciembre de 2000, el Instituto Nacional de Tecnología Oceánica de la India (NIOT), mientras realizaba estudios de contaminación en el golfo de Cambay, detectó con sonar de barrido lateral unas formas geométricas en el fondo marino, a 20–40 metros de profundidad, a lo largo de un paleocanal[^3] —un antiguo cauce de río sumergido. Las formas parecían rectangulares, organizadas, casi como un plano de asentamiento. Los investigadores, sorprendidos, ampliaron el estudio y recuperaron, mediante dragados, una serie de materiales que interpretaron como artefactos: una cuenta de piedra, fragmentos de cerámica, herramientas de piedra, huesos humanos, y madera.
 
 La madera fue el detalle que lo cambió todo. Se dató por radiocarbono, y el resultado fue llamativo: unos 9.500 años. Es decir, mucho antes de cualquier civilización conocida en la región —el Indo, que es de hace unos 5.000 años. La noticia se difundió en 2002, cuando el ministro indio anunció el hallazgo de una "ciudad urbana sumergida" que precedía a la civilización del Indo. Fue noticia mundial, y la historia —una ciudad de 9.500 años bajo el golfo— se convirtió en un pilar de la literatura "perdida".
 
@@ -146,7 +146,7 @@ Los materiales se recuperaron mediante **dragado** —un procedimiento en el que
 
 Cuando se drague, el resultado es un conjunto de objetos —cuentas, cerámica, herramientas, huesos, madera— que han sido arrancados del fondo sin saber de qué capa salió cada uno, ni si estaban asociados entre sí. Un objeto dragado es, en el mejor de los casos, un objeto sin contexto. Y un objeto sin contexto no puede sostener una afirmación sobre una ciudad: no sabemos si estaba en una estructura, si formaba parte de un asentamiento, o si fue arrastrado allí por las corrientes desde otro lugar.
 
-Es aquí donde los críticos del hallazgo —arqueólogos del Indo como Iravatham Mahadevan y Asko Parpola— hicieron las preguntas más afiladas. Parpola, en particular, señaló las tres preguntas que ya hemos visto: ¿la edad de la madera bajo el mar data la ciudad? ¿basta una muestra para concluir la antigüedad del sitio? ¿es el golfo, con sus corrientes y arena móvil, un contexto seguro para datar? La respuesta a las tres, en el estado actual de la evidencia, es no.
+Es aquí donde los críticos del hallazgo —arqueólogos del Indo como Iravatham Mahadevan y Asko Parpola— hicieron las preguntas más afiladas. Parpola, en particular, señaló las tres preguntas que ya hemos visto[^4]: ¿la edad de la madera bajo el mar data la ciudad? ¿basta una muestra para concluir la antigüedad del sitio? ¿es el golfo, con sus corrientes y arena móvil, un contexto seguro para datar? La respuesta a las tres, en el estado actual de la evidencia, es no.
 
 Y hay un detalle adicional que conviene mencionar: el anuncio de 2002 fue, en gran parte, político y mediático. El ministro indio anunció el hallazgo en una rueda de prensa, con gran énfasis, y la historia se difundió como un descubrimiento que "reescribiría la historia". Pero ese anuncio se adelantó a la verificación arqueológica. Los objetos no se habían excavado; se habían dragado. La "ciudad" no se había verificado sobre el terreno; se había inferido del sonar. Y esa brecha —entre el anuncio y la verificación— es exactamente la que el método nos enseña a vigilar.
 
@@ -265,3 +265,15 @@ Y aquí está la lección de esperanza: el método no cierra la puerta a estos c
 **La pregunta que queda:** si las ciudades sumergidas no demuestran una civilización, ¿qué pasa entonces con los dioses, los astros y las máquinas de los relatos antiguos? ¿Pueden las lecturas de los mitos y los objetos sofisticados sostener la idea de una civilización o de visitantes avanzados, o se descompondrán, como todo lo demás, al aplicar el método? Eso es lo que examinamos en el capítulo siguiente.
 
 La transición a los dioses, los astros y las máquinas es la más variada de la segunda parte, porque reúne casos de naturaleza muy distinta: las lecturas de Sitchin sobre los Anunnaki, las tradiciones de largas cronologías (yugas, kalpas, listas de reyes), y los objetos sofisticados como el mecanismo de Anticitera. Son casos que nos obligarán a afinar el método de maneras nuevas: a distinguir la autenticidad de un texto de la literalidad de su lectura, y a reconocer que la sofisticación antigua —real y admirable— pertenece a las civilizaciones conocidas, no a un mundo perdido. Con ellos, la segunda parte se acerca a su cierre, y el cuadro del libro se completa con nuevas herramientas y nuevas distinciones.
+
+---
+
+## Notas
+
+[^1]: Masaaki Kimura, *Diving Survey Report for Submarine Ruins Off Yonaguni, Japan* (Universidad de las Ryukyu, 2001); "Diving Survey of Underwater Ruins off Yonaguni Island", *Marine Technology Society Journal* 38, n.º 4 (2004): 92–108; "Ancient Megalithic Construction Beneath the Sea off Ryukyu Islands in Japan", *Proceedings of Oceans'04 MTS/IEEE Techno-Ocean'04* (2004): 947–953. (DCA-000014.)
+
+[^2]: Datación por berilio-10 de la torre costera de Sanninu-dai, según las propias presentaciones de Kimura. Para el contexto geológico (fracturación natural de la arenisca de la formación Yaeyama), véase la lectura de Robert Schoch y el informe de *National Geographic*, "Japan's Ancient Underwater 'Pyramid'", 2021. (DCA-000014.)
+
+[^3]: El hallazgo del NIOT en el golfo de Cambay y el anuncio público de 2002: "The Gulf of Khambat Debate", *Frontline* (2002); S. Kathiroli, S. Badrinarayanan y D. Venkata Rao, "Marine Archaeological Exploration in the Gulf of Khambhat (Cambay)", *Journal of the Geological Society of India* 60, n.º 4 (2002): 419–428; K. V. Ramakrishna Rao, *Review of the Media Reports and Research Papers on the NIOT Survey* (2025). (DCA-000008.)
+
+[^4]: Las críticas de Iravatham Mahadevan, Asko Parpola y Justin Morris (British Museum) al hallazgo de Cambay. Véase el debate en *Journal of the Geological Society of India* 61 (2003), con comentario de R. V. Karanth y réplica de Kathiroli et al. (DCA-000002; DCA-000008.)

@@ -26,7 +26,7 @@ Estas tres afirmaciones se presentan casi siempre como una sola —"Atlántida e
 
 Empecemos por el origen, que es la única parte de la historia que es un hecho documentado con seguridad.
 
-En el siglo IV a.C., el filósofo griego Platón escribió dos diálogos, el *Timeo* y el *Critias*, en los que narra la historia de la Atlántida. Según su relato, un sabio egipcio le contó la historia a Solón, un legislador ateniense, durante un viaje a Egipto; Solón la llevó a Grecia, y Platón la escribió. La historia dice que, hace unos 9.000 años (según la cronología del relato), existió una poderosa isla llamada Atlántida, situada más allá de las Columnas de Hércules —el estrecho de Gibraltar—. Era una potencia marítima que libró una guerra con Atenas; los atenienses, según el relato, la vencieron; y poco después, Atlántida fue destruida y sumergida en el mar por un castigo divino.
+En el siglo IV a.C., el filósofo griego Platón escribió dos diálogos, el *Timeo* y el *Critias*, en los que narra la historia de la Atlántida.[^1] Según su relato, un sabio egipcio le contó la historia a Solón, un legislador ateniense, durante un viaje a Egipto; Solón la llevó a Grecia, y Platón la escribió. La historia dice que, hace unos 9.000 años (según la cronología del relato), existió una poderosa isla llamada Atlántida, situada más allá de las Columnas de Hércules —el estrecho de Gibraltar—. Era una potencia marítima que libró una guerra con Atenas; los atenienses, según el relato, la vencieron; y poco después, Atlántida fue destruida y sumergida en el mar por un castigo divino.
 
 Aquí hay varias cosas que el método debe aclarar, y que a menudo se confunden.
 
@@ -66,7 +66,7 @@ Este contexto es importante para el método por una razón concreta. La Atlánti
 
 ## La construcción moderna: Donnelly
 
-La Atlántida moderna —la de los libros de misterio y los documentales— no nació con Platón. Nació, en su forma más influyente, con Ignatius Donnelly, un político y escritor estadounidense del siglo XIX, que publicó en 1882 el libro *Atlantis: The Antediluvian World*.
+La Atlántida moderna —la de los libros de misterio y los documentales— no nació con Platón. Nació, en su forma más influyente, con Ignatius Donnelly, un político y escritor estadounidense del siglo XIX, que publicó en 1882 el libro *Atlantis: The Antediluvian World*.[^2]
 
 Donnelly no era un arqueólogo ni un geólogo; era un hombre político y un compilador entusiasta. En su libro, reunió una enorme cantidad de material —mitos, tradiciones, paralelos culturales, referencias a textos antiguos— para sostener una tesis ambiciosa: que la Atlántida fue el mundo antediluviano, el Jardín del Edén, y la cuna de la civilización. Según Donnelly, de Atlántida descendieron todas las grandes civilizaciones: Egipto, el valle del Indo, las Américas, y sus supervivientes llevaron las artes, la agricultura y el conocimiento a todo el mundo.
 
@@ -92,7 +92,7 @@ Un paralelo, para ser evidencia de difusión, tendría que ser específico, comp
 
 Si Donnelly es el padre de la Atlántida moderna, James Churchward es el padre de la versión paralela: Mu, el continente perdido del Pacífico.
 
-Churchward, un escritor británico de principios del siglo XX, publicó en 1926 *The Lost Continent of Mu*. Su tesis era aún más ambiciosa que la de Donnelly: Mu, decía, fue la cuna de la humanidad, situada en el Pacífico, con una civilización avanzada que se hundió hace decenas de miles de años. Sus supervivientes habrían poblado el mundo, llevando la civilización a todas partes.
+Churchward, un escritor británico de principios del siglo XX, publicó en 1926 *The Lost Continent of Mu*.[^3] Su tesis era aún más ambiciosa que la de Donnelly: Mu, decía, fue la cuna de la humanidad, situada en el Pacífico, con una civilización avanzada que se hundió hace decenas de miles de años. Sus supervivientes habrían poblado el mundo, llevando la civilización a todas partes.
 
 La peculiaridad de Churchward es su "fuente": unas supuestas **tablillas Naacal**, que él decía haber visto y traducido en la India, con la ayuda de un sacerdote hindú, durante una visita en su juventud. Según Churchward, las tablillas registraban la historia de Mu, y estaban escritas en una lengua antigua que él había aprendido a leer.
 
@@ -249,3 +249,13 @@ Y con esto, hemos examinado tres de los grandes casos: la Esfinge, los mapas, y 
 **La pregunta que queda:** si Atlántida y Mu no son más que historias sin evidencia material, ¿qué pasa con las catástrofes que, según se dice, destruyeron civilizaciones — el cometa del Dryas reciente, el hundimiento de Sundaland? ¿Son capaces los cataclismos de sostener la idea de una civilización perdida, o son, como hemos visto hasta ahora, un evento real que se confunde con una prueba? Eso es lo que examinamos en el capítulo siguiente.
 
 La transición a las catástrofes es la más natural y, quizá, la más necesaria del libro, porque conecta de manera directa todo lo que hemos visto hasta ahora. Atlántida y Mu se hundieron, según la leyenda, por una catástrofe; la Esfinge, según algunos, fue erosionada por el cambio climático; los mapas, según otros, registran un mundo anterior a un cataclismo. La catástrofe es, en la literatura "perdida", el agente que destruye las civilizaciones y el puente que conecta todas las historias. Y por eso examinarla con método es crucial: porque separar el evento real de la civilización supuestamente destruida —la regla anti-error que presentamos en el primer capítulo— es, quizá, la herramienta más importante que este libro puede ofrecer. Cuando el cielo cae, como veremos a continuación, la evidencia de la catástrofe puede ser real y sólida; la evidencia de la civilización perdida, en cambio, casi nunca lo es. Esa distinción es la que guiará nuestro examen de los cataclismos.
+
+---
+
+## Notas
+
+[^1]: Platón, *Timeo* (24e–25d) y *Critias* (106a–108c, 113a–121c). Traducción al español en Platón, *Obras completas* (Madrid: Gredos, 1983). El relato atribuye la historia a un sabio egipcio transmitido vía Solón. (T02.)
+
+[^2]: Ignatius Donnelly, *Atlantis: The Antediluvian World* (Nueva York: Harper & Brothers, 1882).
+
+[^3]: James Churchward, *The Lost Continent of Mu* (Nueva York: William Edwin Rudge, 1926). Sobre las tablillas Naacal y su ausencia de cadena documental, véase "Mu", *Bad Archaeology* (2011) y "Naacal Tablets", *Fake Archaeology Wiki* (2017). (DCA-000010.)

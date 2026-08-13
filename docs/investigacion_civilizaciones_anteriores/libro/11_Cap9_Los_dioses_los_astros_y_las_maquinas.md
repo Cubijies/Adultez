@@ -26,7 +26,7 @@ Examinemos cada capa con el método.
 
 ## Sitchin y los Anunnaki
 
-Empecemos por la más ambiciosa: la lectura de Sitchin. En su libro *El 12º Planeta* (1976) y en la serie de las "Crónicas de la Tierra", Zecharia Sitchin construyó una narrativa completa: un planeta llamado Nibiru, de órbita elíptica, pasaría cerca de la Tierra en un pasado remoto; sus habitantes, los Anunnaki, habrían venido a la Tierra, creado a la humanidad mediante ingeniería genética, y dejado registros en los mitos mesopotámicos. La humanidad sería, según Sitchin, un producto de la ingeniería de los Anunnaki.
+Empecemos por la más ambiciosa: la lectura de Sitchin. En su libro *El 12º Planeta* (1976) y en la serie de las "Crónicas de la Tierra", Zecharia Sitchin construyó una narrativa completa: un planeta llamado Nibiru[^1], de órbita elíptica, pasaría cerca de la Tierra en un pasado remoto; sus habitantes, los Anunnaki, habrían venido a la Tierra, creado a la humanidad mediante ingeniería genética, y dejado registros en los mitos mesopotámicos. La humanidad sería, según Sitchin, un producto de la ingeniería de los Anunnaki.
 
 Sitchin se presentaba como alguien capaz de leer las tablillas sumerias y de descifrar en ellas esta historia. Pero cuando se examina su obra con los métodos de la asiriología —la disciplina que estudia el antiguo Oriente Próximo—, el edificio se desmorona.
 
@@ -106,7 +106,7 @@ Y hay una pregunta que el método sugiere hacer ante cualquier texto de largas c
 
 Para no caer en el error simétrico —creer que la antigüedad nunca fue sofisticada—, conviene examinar ahora el tercer tipo de afirmación, y su caso más célebre: el mecanismo de Anticitera. Porque aquí, a diferencia de los mitos, hay un objeto real, y el método debe ser preciso sobre lo que prueba y lo que no.
 
-El mecanismo de Anticitera fue recuperado en 1901 de un naufragio frente a la isla griega de Anticitera. Es un dispositivo de bronce, con al menos treinta engranajes de precisión, que calculaba las posiciones del sol, la luna y los planetas, y predecía eclipses. Está fechado en torno al 205–60 a.C., y es, en efecto, una computadora analógica de la antigüedad, de una sofisticación que no se volvió a ver hasta siglos después.
+El mecanismo de Anticitera fue recuperado en 1901 de un naufragio frente a la isla griega de Anticitera. Es un dispositivo de bronce, con al menos treinta engranajes de precisión[^2], que calculaba las posiciones del sol, la luna y los planetas, y predecía eclipses. Está fechado en torno al 205–60 a.C., y es, en efecto, una computadora analógica de la antigüedad, de una sofisticación que no se volvió a ver hasta siglos después.
 
 Durante décadas, el mecanismo fue un misterio para los estudiosos: un montón de bronce corroído que, visto por dentro con rayos X, revelaba una complejidad asombrosa. Los estudios modernos, con tomografía de alta resolución, han permitido descifrar sus inscripciones, reconstruir su funcionamiento y comprender su propósito. El mecanismo calculaba ciclos astronómicos complejos, incluido el ciclo de Saros para predecir eclipses. Es, sin exageración, un instrumento de una ingeniería y un conocimiento astronómico notables.
 
@@ -271,3 +271,11 @@ Hay, para cerrar, una imagen que resume este capítulo, y que conviene conservar
 La transición al Mahābhārata es la más esperada de la segunda parte, porque es el caso donde la afirmación —armas nucleares en un poema épico antiguo— es tan extraordinaria que pide a gritos la verificación. Y, como veremos, tiene algo que casi ninguno de los casos anteriores tenía: podemos ir al texto real, localizar el pasaje, y cotejar la cita con el original. No dependeremos de formas de sonar, ni de líneas en un mapa, ni de relatos de terceros; dependeremos de las palabras del propio poema, en su edición y su traducción. Es, en muchos sentidos, la prueba más directa del método en todo el libro: la que se resuelve abriendo el libro y mirando.
 
 Con el Mahābhārata, la segunda parte llega a su último caso. Después de él, pasaremos a la tercera parte, donde reuniremos todo lo aprendido. Pero antes, un examen cuidadoso del arma que no fue — un examen que, como veremos, es el más directo de todos, porque se resuelve abriendo el libro y mirando las palabras del propio poema épico.
+
+---
+
+## Notas
+
+[^1]: Zecharia Sitchin, *El 12º Planeta* (Nueva York: Stein and Day, 1976), primer volumen de las "Crónicas de la Tierra". Para la lectura crítica desde la asiriología, no hay apoyo en las tablillas mesopotámicas para el Nibiru y los Anunnaki tal como Sitchin los describe. (DCA-000024; Cap. 9.)
+
+[^2]: El mecanismo de Anticitera, recuperado en 1901 de un naufragio frente a Anticitera, está fechado en torno al 205–60 a.C. Estudio de referencia: Tony Freeth et al., "Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism", *Nature* 454 (2008): 587–591. (DCA-000024.)

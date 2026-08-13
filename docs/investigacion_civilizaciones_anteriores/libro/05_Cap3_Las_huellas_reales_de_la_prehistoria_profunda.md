@@ -34,7 +34,7 @@ Empecemos por el hallazgo que más altera nuestra imagen del pasado profundo: Ka
 
 En la frontera entre Zambia y Tanzania, junto a una cascada del río Kalambo, hay un yacimiento que se excava desde mediados del siglo XX. Es un lugar húmedo, anegado, y esa humedad es la clave de su valor: el agua sin oxígeno ha preservado materia orgánica que en casi cualquier otro lugar se habría descompuesto.
 
-Lo que se encontró allí, en los niveles más antiguos, es excepcional: **dos troncos de madera trabajados, con muescas talladas que permitían encajarlos transversalmente.** No son dos troncos apilados por casualidad; son dos piezas diseñadas para unirse, como las de una estructura. La datación por luminiscencia situó el hallazgo en al menos 476.000 años, y las herramientas de madera asociadas, en torno a 390.000–324.000 años.
+Lo que se encontró allí, en los niveles más antiguos, es excepcional: **dos troncos de madera trabajados, con muescas talladas que permitían encajarlos transversalmente.** No son dos troncos apilados por casualidad; son dos piezas diseñadas para unirse, como las de una estructura. La datación por luminiscencia situó el hallazgo en al menos 476.000 años, y las herramientas de madera asociadas, en torno a 390.000–324.000 años.[^1]
 
 Piensa en lo que esto significa. Hace casi medio millón de años, alguien —probablemente una especie humana anterior al *Homo sapiens*— tomó un tronco, lo talló con una muesca, tomó otro, lo talló con otra, y los encajó para formar una estructura. Eso requiere planificación, previsión, y la capacidad de pensar en términos de encaje y ensamblaje. Es la diferencia entre usar un palo y construir con él.
 
@@ -48,7 +48,7 @@ Hay, además, un detalle de Kalambo que conviene subrayar, porque revela cómo t
 
 El segundo control nos lleva a Europa, al suroeste de Francia, y a un hallazgo que todavía sorprende por su sofisticación.
 
-En la cueva de Bruniquel, a más de trescientos metros de la entrada —en la oscuridad total, donde no llega la luz del día—, los neandertales construyeron algo extraordinario. Rompieron columnas de roca caliza, los espeleotemas, y las dispusieron en círculos, con restos de fuego en el interior. La datación dio unos 176.000 años.
+En la cueva de Bruniquel, a más de trescientos metros de la entrada —en la oscuridad total, donde no llega la luz del día—, los neandertales construyeron algo extraordinario. Rompieron columnas de roca caliza, los espeleotemas, y las dispusieron en círculos, con restos de fuego en el interior. La datación dio unos 176.000 años.[^2]
 
 Para apreciar la magnitud, hay que imaginar la escena. Entrar a trescientos metros de profundidad en una cueva, en la oscuridad absoluta, sin lámparas modernas, exige fuego o antorchas. Transportar materiales de roca hasta ese punto, romperlos con la fuerza necesaria, y disponerlos en círculos regulares con fuego — eso es un proyecto organizado, con un propósito, que requirió planificación y cooperación. No fue improvisación.
 
@@ -64,7 +64,7 @@ El tercer control está en Alemania, en el yacimiento de Schöningen, y tiene un
 
 Se recuperaron allí **lanzas de madera completas**, de unos dos metros de largo, talladas con simetría y con el centro de gravedad hacia la punta — como una jabalina moderna. Junto a ellas, miles de herramientas de piedra y los restos de más de cincuenta caballos procesados. La interpretación es que un grupo organizado cazaba caballos en manada y los despiezaba: caza cooperativa, planificada, con armas fabricadas.
 
-Aquí viene el detalle que conviene no perder. Durante años, estas lanzas se citaron con una antigüedad de unos **400.000 años**. Era la cifra que aparecía en los libros, en los documentales, en las conferencias. Luego, una revisión más reciente con métodos geocronológicos de aminoácidos la corrigió: las lanzas tienen unos **200.000 años**, la mitad.
+Aquí viene el detalle que conviene no perder. Durante años, estas lanzas se citaron con una antigüedad de unos **400.000 años**. Era la cifra que aparecía en los libros, en los documentales, en las conferencias. Luego, una revisión más reciente con métodos geocronológicos de aminoácidos la corrigió: las lanzas tienen unos **200.000 años**, la mitad.[^3]
 
 ¿Por qué es tan valioso este detalle para nuestro método? Porque demuestra algo que este libro repetirá: **ninguna fecha es un dogma; toda fecha es un dato con un método detrás, y los métodos se corrigen.** La cifra de 400.000 años no era una mentira; era el resultado de un método que luego se perfeccionó. Pero mientras circuló, mucha gente la repitió como un hecho sólido, sin saber que era provisional.
 
@@ -88,7 +88,7 @@ Hay una reflexión que Flores invita a hacer, y que tiene que ver con el tema ce
 
 El quinto control es el más reciente en el calendario —hace unos once mil años— pero quizá el que más ha sacudido las ideas recibidas.
 
-En el sureste de Turquía, en Göbekli Tepe, se ha excavado un conjunto de enormes pilares de piedra dispuestos en círculos, algunos de varias toneladas, decorados con relieves de animales — serpientes, aves, jabalíes. La fecha es de alrededor de 11.000 años, y aquí está el detalle que lo hace tan importante: **fue construido por cazadores-recolectores, gente que aún no había domesticado plantas ni animales.**
+En el sureste de Turquía, en Göbekli Tepe, se ha excavado un conjunto de enormes pilares de piedra dispuestos en círculos, algunos de varias toneladas, decorados con relieves de animales — serpientes, aves, jabalíes. La fecha es de alrededor de 11.000 años, y aquí está el detalle que lo hace tan importante: **fue construido por cazadores-recolectores, gente que aún no había domesticado plantas ni animales.**[^4]
 
 Durante décadas, el relato dominante fue que la agricultura precedió a la arquitectura monumental: primero aprendiste a sembrar, luego te asentaste, luego construiste. Göbekli Tepe invierte el orden, o al menos lo complica: aquí hay arquitectura monumental *antes* de la agricultura. Esto sugiere que la capacidad de organizar grandes proyectos —coordinar a mucha gente, transportar piedra pesada, planificar— precedió al sedentarismo agrícola.
 
@@ -204,6 +204,16 @@ Con eso, la Parte I queda cerrada. La pregunta está formulada, el estándar est
 
 Conviene que recuerdes, mientras cruzamos a la segunda parte, la imagen de la vara. No es un instrumento que castiga; es un instrumento que mide. Cuando miremos la Esfinge, la vara nos dirá cuánto pesa cada afirmación. Cuando miremos los mapas, nos dirá qué muestra de verdad. Cuando miremos las ciudades sumergidas, nos dirá si son ciudades o formas. La vara no decide por nosotros; nos da la medida para que decidamos con fundamento. Y eso, como decía al principio, es lo mejor que un método puede ofrecer: no las respuestas, sino la capacidad de buscarlas sin engañarse.
 
-**La pregunta que queda:**
-
 **La pregunta que queda:** ya tenemos la vara. Ahora, al primer caso: la Gran Esfinge de Guiza.
+
+---
+
+## Notas
+
+[^1]: Lawrence Barham et al., "Evidence for the Earliest Structural Use of Wood at Least 476,000 Years Ago", *Nature* 622 (2023): 458–462. (P01.)
+
+[^2]: Jacques Jaubert et al., "Early Neanderthal Constructions Deep in Bruniquel Cave in Southwestern France", *Nature* 534 (2016): 111–114; datación U/Th de 176,5 ± 2,1 ka. (P02.)
+
+[^3]: Karen Ruebens et al., "Revised Age for Schöningen Hunting Spears Indicates Intensification of Neanderthal Cooperative Behavior around 200,000 Years Ago", *Science Advances* 11 (2025): adv0752. (P03.)
+
+[^4]: Klaus Schmidt, "Göbekli Tepe – The Stone Age Sanctuaries", *Documenta Praehistorica* 37 (2010): 239–256. (P05.)

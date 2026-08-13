@@ -34,7 +34,7 @@ Es importante no exagerar ni minimizar esto. No digo que en ese abismo *hubiera*
 
 ## El experimento mental de los astrofísicos
 
-En 2019, dos astrofísicos, Gavin Schmidt y Adam Frank, publicaron un artículo que cambió la forma de pensar esta pregunta. Se titulaba *"The Silurian Hypothesis"* —la hipótesis silúrica— y planteaba una cuestión aparentemente simple pero de consecuencias enormes: si existió una civilización industrial en la Tierra hace millones de años, ¿qué huellas habría dejado en el registro geológico? ¿Cómo la detectaríamos? ¿Y qué señales buscaríamos para saber que estuvo aquí?
+En 2019, dos astrofísicos, Gavin Schmidt y Adam Frank, publicaron un artículo que cambió la forma de pensar esta pregunta. Se titulaba *"The Silurian Hypothesis"* —la hipótesis silúrica—[^1] y planteaba una cuestión aparentemente simple pero de consecuencias enormes: si existió una civilización industrial en la Tierra hace millones de años, ¿qué huellas habría dejado en el registro geológico? ¿Cómo la detectaríamos? ¿Y qué señales buscaríamos para saber que estuvo aquí?
 
 La respuesta fue sorprendente, y es importante entender por qué, porque toca el corazón de todo lo que sigue en este libro. Schmidt y Frank no afirmaban que esa civilización existiera. Eran explícitos al respecto: no proponían que hubiera habido una, solo preguntaban *qué señal dejaría*. Su artículo era un experimento mental, una manera de pensar, no una afirmación sobre el pasado. Y su conclusión fue que una civilización industrial, incluso de la escala de la nuestra, podría ser **casi invisible** en el registro geológico después de millones de años.
 
@@ -44,7 +44,7 @@ Este experimento mental es profundamente incómodo, y conviene detenerse en por 
 
 Y aquí hay una ironía que vale la pena subrayar. La hipótesis silúrica, que a primera vista parece dar alas a las teorías de civilizaciones perdidas, en realidad hace lo contrario. No porque niegue la posibilidad, sino porque la sitúa en su justo lugar: como una posibilidad que, en ausencia de evidencia positiva, no puede afirmarse. Schmidt y Frank no están diciendo "pudo haber una civilización, luego probablemente la hubo". Están diciendo "una civilización industrial podría ser casi invisible, luego la ausencia de ruinas no es un argumento ni a favor ni en contra; es un punto de partida para buscar mejor". La hipótesis silúrica no convierte la especulación en hecho; convierte la especulación en una pregunta legítima que requiere datos.
 
-Jason Wright, otro astrofísico, llevó la idea un paso más allá en 2018. Señaló que, si queremos buscar los restos de una civilización tecnológica anterior, el peor lugar para buscar es la superficie de la Tierra — porque se recicla continuamente, se erosiona, se pliega y se cubre. La corteza terrestre es un archivo que se destruye a sí mismo, y la mayor parte de cualquier registro antiguo habría sido borrada o enterrada más allá del alcance. Los mejores lugares, sugirió Wright, serían las superficies antiguas y no recicladas: el fondo de la Luna, que no tiene viento ni agua ni tectónica que lo borren, o Marte, que ha conservado su superficie durante miles de millones de años. Es una idea fascinante, y una que retomaremos en el último capítulo. Por ahora, basta con anotarla: la búsqueda no es absurda, solo requiere mirar en los lugares donde el tiempo conserva, no en donde borra.
+Jason Wright, otro astrofísico, llevó la idea un paso más allá en 2018.[^2] Señaló que, si queremos buscar los restos de una civilización tecnológica anterior, el peor lugar para buscar es la superficie de la Tierra — porque se recicla continuamente, se erosiona, se pliega y se cubre. La corteza terrestre es un archivo que se destruye a sí mismo, y la mayor parte de cualquier registro antiguo habría sido borrada o enterrada más allá del alcance. Los mejores lugares, sugirió Wright, serían las superficies antiguas y no recicladas: el fondo de la Luna, que no tiene viento ni agua ni tectónica que lo borren, o Marte, que ha conservado su superficie durante miles de millones de años. Es una idea fascinante, y una que retomaremos en el último capítulo. Por ahora, basta con anotarla: la búsqueda no es absurda, solo requiere mirar en los lugares donde el tiempo conserva, no en donde borra.
 
 Estas dos contribuciones —Schmidt y Frank, Wright— cambian el carácter de la pregunta. La sacan del terreno del misterio barato y la colocan en el terreno de la investigación seria. No la vuelven más probable; la vuelven *investigable*. Y eso, como veremos, es exactamente lo que este libro quiere hacer con cada uno de los casos que examinará.
 
@@ -169,3 +169,11 @@ En el próximo capítulo, definiremos ese método con precisión: qué contaría
 La escala temporal, la hipótesis silúrica, las seis etiquetas, la regla de oro, la regla anti-error: todo lo que hemos construido en este capítulo converge en un solo propósito. La pregunta de la civilización perdida ha sido maltratada por dos siglos de credulidad y desdén, pero sigue siendo una pregunta legítima — siempre que se haga con método. Ese método es lo que este libro te entrega, y el capítulo siguiente lo completa con el estándar de evidencia.
 
 **La pregunta que queda:** ¿qué contaría como prueba? Ese es el terreno del capítulo siguiente.
+
+---
+
+## Notas
+
+[^1]: Gavin A. Schmidt y Adam Frank, "The Silurian Hypothesis: Would It Be Possible to Detect an Industrial Civilization in the Geological Record?", *International Journal of Astrobiology* 18 (2019): 142–150. (H01.)
+
+[^2]: Jason T. Wright, "Prior Indigenous Technological Species", *International Journal of Astrobiology* 17 (2018): 96–100. (H02.)
