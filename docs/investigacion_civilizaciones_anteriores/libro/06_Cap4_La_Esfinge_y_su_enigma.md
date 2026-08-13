@@ -212,6 +212,14 @@ Hay una palabra para esta tentación, y es útil reconocerla: la tendencia a pen
 
 Esta lección, además, se repetirá en todo el libro, y conviene que el lector la reconozca desde ahora. Cada vez que un monumento antiguo parezca "demasiado grande" para su época, la pregunta no es "¿qué civilización perdida lo hizo?", sino "¿qué sabemos que hizo esa cultura, y alcanza para explicarlo?". La respuesta, casi siempre, es que sí alcanza — y que la grandeza es una prueba de la capacidad real, no de un origen misterioso. Esa es la lección que la Esfinge nos deja, y es la que llevaremos a todos los casos siguientes: no leer la grandeza como un enigma, sino como un logro humano digno de admiración.
 
+## El peso de la tradición y el valor de la duda
+
+Hay una observación final que conviene hacer sobre la Esfinge, porque toca la manera en que se relacionan la tradición y la duda en este caso — y en general. Y esa relación es más matizada de lo que suele presentarse.
+
+Por un lado, la tradición merece respeto. La atribución de la Esfinge a la Cuarta Dinastía no es un capricho; es el fruto de generaciones de arqueología, de la asociación con el complejo de Kefrén, de la datación de los templos, del estilo de los monumentos. No se descarta por una pregunta incómoda. Pero, por otro lado, la tradición no es infalible, y la duda —la duda metódica, no la hostil— es parte de cómo avanza el conocimiento. La historia de la ciencia y de la arqueología está llena de casos en los que una pregunta bien formulada puso en cuestión una certeza establecida, y en los que el examen posterior la confirmó o la corrigió. La duda no es enemiga de la tradición; es su corrector.
+
+Y aquí está la lección de la Esfinge, que es una de las más equilibradas del libro. La duda de Schoch —¿y si la erosión indica una mayor antigüedad?— fue legítima, y al examinarla con el estándar produjo una respuesta: la evidencia no apoya la edad de 10.000 años, y la resolución de Reader reconcilia la geología con la arqueología dentro de la historia egipcia. No se trató de despreciar la duda ni de venerar la tradición; se trató de someter ambas al examen. La tradición se confirmó en lo esencial (la Esfinge es faraónica), pero se enriqueció con un matiz (las dinastías tempranas, la ocupación previa de Guiza) que la duda permitió apreciar. Ese es el valor del método: no para cerrar la cuestión con una certeza rígida, sino para examinarla con honestidad, y para dejar que el examen produzca un conocimiento más preciso — ni la confirmación ciega de la tradición, ni el derribo gratuito por la duda, sino la verdad que ambas, examinadas juntas, permiten alcanzar.
+
 ## El veredicto etiquetado
 
 Apliquemos ahora, con cuidado, las seis etiquetas del método a este caso.

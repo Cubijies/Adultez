@@ -268,6 +268,14 @@ Pero aquí está la lección del método: el atractivo de una idea no es evidenc
 
 Hay una conexión con todo el libro que conviene señalar. El atractivo de la tecnología prohibida es una variante del patrón que hemos visto en cada capítulo: la tendencia a leer en los hechos lo que la imaginación desea, en lugar de lo que la evidencia sostiene. Y el método es el mismo contrapeso: volver a los hechos, examinarlos con cuidado, y dejar que la evidencia decida. En el Mahābhārata, los hechos son claros: el texto existe, el pasaje está localizado, la cita viral no corresponde al original. La tecnología prohibida no está en el poema; está en el deseo de encontrarla. Y reconocer esa diferencia —entre el deseo y el texto— es, quizá, la lección más limpia de todo este capítulo y de todo el libro.
 
+## El respeto por el texto, más allá de la leyenda
+
+Hay una observación final que conviene hacer sobre el Mahābhārata, porque toca la manera en que este caso se relaciona con la obra y con quienes la aman: el respeto por el texto, más allá de la leyenda. Y es una observación que importa, porque uno de los riesgos de este tipo de análisis es que se confunda la crítica de una afirmación con el desprecio de una obra.
+
+Conviene decirlo con toda claridad: desmontar la afirmación de las "armas nucleares" no es despreciar el Mahābhārata. Es, exactamente, lo contrario. El Mahābhārata es una de las mayores obras de la humanidad, y su grandeza no depende de que contenga un arsenal nuclear; depende de su profundidad filosófica, de su riqueza narrativa, de su reflexión sobre la guerra, el deber y la condición humana. Quien le atribuye "armas nucleares" no está honrando esa grandeza; está reduciendo una obra monumental a un detalle sensacionalista, y robándole lo que realmente es. El respeto por el texto exige, precisamente, leerlo como lo que es —no como lo que la fantasía quiere que sea—.
+
+Y aquí hay una lección que se aplica a todo el libro y a la vida en general. El respeto por algo —una obra, una cultura, una persona— no exige aceptar todas las afirmaciones que se hacen sobre ello; exige comprenderlo con precisión, en su contexto, sin imponerle fantasías. Podemos respetar profundamente el Mahābhārata y, a la vez, señalar que la cita viral no corresponde al texto; el respeto no está en la aceptación, sino en la comprensión. El método, al separar lo que el texto dice de lo que se le atribuye, no ataca la obra; la defiende. La devuelve a su verdadera naturaleza, libre de las leyendas que la desfiguran. Y ese acto de devolución —restaurar lo real, separándolo de la fantasía— es, en el fondo, la forma más alta de respeto que se le puede tener a una gran obra y a las culturas que la crearon.
+
 ## La pregunta que queda
 
 ¿Cómo se sabría, en este caso? ¿Qué dato decidiría la cuestión?

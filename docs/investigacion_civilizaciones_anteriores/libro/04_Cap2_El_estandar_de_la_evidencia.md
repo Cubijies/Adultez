@@ -178,6 +178,16 @@ El escepticismo, bien entendido, no es la negación de todo ni la desconfianza s
 
 Este es el tipo de escepticismo que este libro propone, y conviene que el lector lo entienda bien para no malinterpretar el método. No se trata de ser hostil a las teorías de civilizaciones perdidas; se trata de aplicarlas el mismo estándar que se aplica a cualquier otra afirmación. Se trata de no tener miedo de pedir evidencia, de no avergonzarse de verificar, de no dejarse llevar por el deseo de que algo sea cierto. Y se trata, sobre todo, de mantener la pregunta abierta —ni afirmada ni negada— hasta que la evidencia la decida. Ese escepticismo, lejos de ser un enemigo de la maravilla, es su mejor amigo: porque solo lo verificado con honestidad puede maravillar sin desvanecerse.
 
+## El precio de la credulidad y el precio del desdén
+
+Hay una reflexión que conviene hacer sobre el estándar, porque toca la razón más profunda de su existencia: la idea de que tanto la credulidad como el desdén tienen un precio, y que el estándar es lo que evita pagarlo. Y aunque hemos mencionado esto antes, merece un desarrollo propio, porque es el corazón de por qué el método importa.
+
+La credulidad tiene un precio, y no es pequeño. Quien acepta una afirmación sin examen —una ciudad sumergida, una tecnología antigua, una civilización perdida— invierte su entusiasmo, su tiempo y a veces su dinero en algo que la evidencia no sostiene. Cuando la afirmación se desmorona, no pierde solo la idea: pierde la confianza en su propio juicio. Y ese costo personal se multiplica cuando la credulidad es colectiva: una afirmación falsa difundida masivamente contamina la conversación, desvía los recursos y degrada la credibilidad de todo el campo. El crédulo no solo se equivoca; despilfarra.
+
+Pero el desdén tiene un precio simétrico, y conviene nombrarlo con la misma claridad. Quien descarta una afirmación sin examen —quien pone los ojos en blanco ante cualquier historia de civilizaciones perdidas— corre el riesgo de descartar también lo real que a veces la recubre. La madera de Kalambo, las plataformas sumergidas, el mecanismo de Anticitera, la grandeza de las tradiciones antiguas: todo ello habría quedado en el cajón de las anécdotas si el desdén hubiera impedido examinarlo. El desdeñoso no solo se equivoca; desperdicia — desperdicia los hechos reales que la prisa por despreciar no alcanza a ver.
+
+Y aquí está la función del estándar: evitar ambos precios a la vez. El estándar no dice "cree" ni "descarta"; dice "examina". Obliga a mirar la evidencia antes de decidir, y en ese examen protege tanto del despilfarro de la credulidad como de la pérdida del desdén. No es un instrumento de negación ni de aceptación; es un instrumento de discernimiento. Y esa es la razón por la que este libro insiste tanto en él: porque es la única manera de no pagar ninguno de los dos precios, y de acercarse a la verdad —sea la que sea— sin desperdiciar ni la maravilla ni la evidencia. El estándar, bien entendido, es la herramienta que nos permite ser a la vez cuidadosos y abiertos, exigentes y humildes: exactamente la postura que la pregunta de las civilizaciones anteriores —y cualquier pregunta importante— merece.
+
 ## La carga de la prueba
 
 Hay un principio que atraviesa todo el estándar, y que conviene enunciar con claridad, porque es el que estructura el resto del libro.

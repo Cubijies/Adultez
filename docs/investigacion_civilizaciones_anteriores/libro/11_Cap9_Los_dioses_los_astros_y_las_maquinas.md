@@ -230,6 +230,14 @@ Pero aquí está la lección del método: la elegancia de una explicación no es
 
 Hay una conexión con todo el libro que conviene señalar. La explicación única es la forma más pura de la sobrelectura: toma hechos diversos y les impone una sola atribución extraordinaria, sin examinarlos. Y en cada capítulo hemos visto cómo el método la deshace, volviendo a los hechos y preguntando qué dice cada uno. La lección de este capítulo es la lección del libro entero: desconfiar de la explicación única que promete resolverlo todo con un gesto, y hacer el trabajo —paciente, caso por caso— que la realidad exige. Porque la realidad, examinada con cuidado, es más rica y más admirable que cualquier atajo, y el atajo, por elegante que sea, casi nunca es verdadero.
 
+## La humildad ante las culturas
+
+Hay una observación final que conviene hacer sobre este capítulo, y es sobre la actitud con la que nos acercamos a las culturas antiguas: la humildad. Porque hay una tensión en todo lo que hemos examinado que conviene nombrar con claridad, y es la tensión entre no creer lo que no está demostrado y, a la vez, no despreciar lo que esas culturas realmente fueron y creyeron.
+
+La humildad ante las culturas tiene dos caras, y conviene mantener ambas. Por un lado, nos obliga a no imponerles nuestras fantasías: no leer a los Anunnaki como visitantes cuando fueron dioses, no leer el *Popol Vuh* como crónica cuando fue cosmogonía, no atribuir a los antiguos conocimientos que no tuvieron. Esa es la humildad que respeta lo que una cultura realmente fue, sin reescribirla a nuestro gusto. Por otro lado, nos obliga a reconocer nuestra propia ignorancia: no suponer que entendemos del todo esas culturas, ni que nuestras categorías bastan para explicarlas. La humildad es, en ese sentido, doble: ni proyectamos sobre ellas, ni presumimos de comprenderlas del todo.
+
+Y aquí está la conexión con el método. La humildad no es lo contrario de la exigencia; es su compañera. Podemos ser exigentes con la evidencia —no aceptar lo que no está demostrado— y, a la vez, humildes ante las culturas —reconocer su riqueza, su profundidad, su valor propio—. No hay contradicción entre decir "este texto no demuestra una civilización perdida" y decir "este texto es una obra admirable de una cultura profunda". La primera afirmación es sobre la evidencia; la segunda, sobre el valor. Y el método, al separar el hecho de la atribución, nos permite sostener ambas con honestidad: rechazar la sobrelectura sin despreciar lo real, y admirar lo real sin inflarlo. Esa doble actitud —exigente con la evidencia, humilde ante las culturas— es, quizá, la lección más madura de todo el capítulo, y una de las más valiosas del libro entero.
+
 ## El veredicto etiquetado
 
 Apliquemos las seis etiquetas a las tres capas de este capítulo.
